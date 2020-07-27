@@ -1,0 +1,4001 @@
+﻿idCliente;Producto;Número_de_Identificación;Tipo_de_Identificación;Tipo_de_Cliente
+297;Ventilador Centrífugo;83887814;DNI;Natural
+594;Ventilador Tubular;39731526;RUC;Jurídico
+891;VRV;52368673;RUC;Jurídico
+188;Ducto Circular;40639576;DNI;Natural
+485;Ventilador Tubular;20568680306;RUC;Jurídico
+486;Fan Coil;20976255221;RUC;Jurídico
+487;Cassette;20061424755;RUC;Jurídico
+488;Ventilador Centrífugo;20855392695;RUC;Jurídico
+489;Tipo Paquete;20785328277;RUC;Jurídico
+490;Filtro Hepa;20981911368;RUC;Jurídico
+491;Tipo Paquete;20742934972;RUC;Jurídico
+492;Split Pared;20081143811;RUC;Jurídico
+493;Tipo Paquete;20970551009;RUC;Jurídico
+494;Ventilador Tubular;20481276053;RUC;Jurídico
+495;Split Pared;20280970417;RUC;Jurídico
+496;Split Pared;20542289305;RUC;Jurídico
+497;Split Ducto;20113788142;RUC;Jurídico
+498;Rejilla 1 vía;20990804585;RUC;Jurídico
+499;Llave de Paso;20959276550;RUC;Jurídico
+500;VRF;20932811789;RUC;Jurídico
+501;Tipo Paquete;68061236;DNI;Natural
+502;Cortina de Aire Industrial;6224670;RUC;Jurídico
+503;Circular Residencial ;22824092;DNI;Natural
+504;VRV;90188188;DNI;Natural
+505;VRF;18028704;RUC;Jurídico
+506;Tipo Paquete;69643098;DNI;Natural
+507;VRV;46026749;DNI;Natural
+508;Rejilla 3 vías;58656442;DNI;Natural
+509;VRV;71345752;DNI;Natural
+510;Ventilador Industrial;13617876;DNI;Natural
+511;Split Piso Techo;12440709;DNI;Natural
+512;Axial Residencial;49148090;RUC;Jurídico
+513;Helicocentrífugo Comercial ;26699690;DNI;Natural
+514;Circular Residencial ;42913150;RUC;Jurídico
+515;Circular Residencial ;84907662;DNI;Natural
+516;Split Pared;13811650;DNI;Natural
+517;Cortina de Aire Industrial;10927549;DNI;Natural
+518;Helicocentrífugo Residencial;69026694;RUC;Jurídico
+519;Split Piso Techo;19709960;DNI;Natural
+520;Rejilla 1 vía;62268495;DNI;Natural
+521;Circular Residencial ;36628914;RUC;Jurídico
+522;Tubería de Cobre;98889315;DNI;Natural
+523;Fan Coil;12391853;DNI;Natural
+524;Cassette;21324575;DNI;Natural
+525;Cortina de Aire ;45689094;RUC;Jurídico
+526;Cortina de Aire ;57366569;RUC;Jurídico
+527;Termostatos;73576027;RUC;Jurídico
+528;Helicocentrífugo Silent  ;69173067;DNI;Natural
+529;Cortina de Aire ;84823298;DNI;Natural
+530;Axial Residencial;24469013;RUC;Jurídico
+531;VRF;6540319;DNI;Natural
+532;Termostatos;24630063;DNI;Natural
+533;Presostato;99586619;DNI;Natural
+534;Helicocentrífugo Residencial;2432872;DNI;Natural
+535;Split Pared;48237890;DNI;Natural
+536;Cassette;91315142;DNI;Natural
+537;Tipo Paquete;77500195;DNI;Natural
+538;Split Piso Techo;41361263;DNI;Natural
+539;Circular Residencial ;83478096;DNI;Natural
+540;Helicocentrífugo Residencial;89768636;DNI;Natural
+541;Cassette;47328152;RUC;Jurídico
+542;Cortina de Aire ;83152826;DNI;Natural
+543;Rejilla 2 vías;19425021;DNI;Natural
+544;Split Piso Techo;25311469;DNI;Natural
+545;Split Piso Techo;86542164;DNI;Natural
+546;VRF;88464428;DNI;Natural
+547;Split Piso Techo;61095993;RUC;Jurídico
+548;Cassette;31316291;DNI;Natural
+549;Split Pared;96145309;RUC;Jurídico
+550;Cassette;87625813;RUC;Jurídico
+551;Helicocentrífugo Comercial ;94228710;RUC;Jurídico
+552;Cortina de Aire Industrial;38653341;RUC;Jurídico
+553;Split Piso Techo;59889548;RUC;Jurídico
+554;VRV;92602746;DNI;Natural
+555;Ventilador Tubular;71746717;RUC;Jurídico
+556;Split Pared;84771822;DNI;Natural
+557;Axial Residencial;54214356;RUC;Jurídico
+558;Ventana;34161295;DNI;Natural
+559;Cassette;97905180;RUC;Jurídico
+560;Split Piso Techo;60518838;RUC;Jurídico
+561;Circular Residencial ;9281995;DNI;Natural
+562;Rejilla Lineal;74341685;DNI;Natural
+563;Fan Coil;30196610;DNI;Natural
+564;Cortina de Aire ;40309980;DNI;Natural
+565;Tipo Paquete;73937215;RUC;Jurídico
+566;Split Piso Techo;56687260;DNI;Natural
+567;VRV;30654687;DNI;Natural
+568;Helicocentrífugo Silent  ;45766708;RUC;Jurídico
+569;Ventilador Industrial;73787198;RUC;Jurídico
+570;Ventilador Tubular;71018398;DNI;Natural
+571;Ducto Flexible;33849035;RUC;Jurídico
+572;Circular Residencial ;66625489;DNI;Natural
+573;VRV;52312624;DNI;Natural
+574;Split Ducto;51741273;DNI;Natural
+575;Circular Residencial ;5641539;DNI;Natural
+576;Rejilla Lineal;30010737;RUC;Jurídico
+577;Rejilla Doble Deflexión;73062085;DNI;Natural
+578;Termostatos;15095108;DNI;Natural
+579;Cortina de Aire Industrial;26518586;DNI;Natural
+580;Axial Residencial;17042851;RUC;Jurídico
+581;VRV;48720470;RUC;Jurídico
+582;Circular Residencial ;45635170;DNI;Natural
+583;VRF;95141344;RUC;Jurídico
+584;Helicocentrífugo Residencial;52499764;RUC;Jurídico
+585;Helicocentrífugo Comercial ;44075361;DNI;Natural
+586;Ducto Circular;41996929;RUC;Jurídico
+587;Filtro Deshumedecedor;36892155;RUC;Jurídico
+588;Ventilador Centrífugo;92992019;DNI;Natural
+589;Rejilla Circular;48861568;DNI;Natural
+590;Fan Coil;98424031;DNI;Natural
+591;Circular Residencial ;83856022;RUC;Jurídico
+592;Ventilador Tubular;41719274;DNI;Natural
+593;Helicocentrífugo Comercial ;37558389;RUC;Jurídico
+594;Helicocentrífugo Residencial;39731526;RUC;Jurídico
+595;VRV;72569665;RUC;Jurídico
+596;VRF;73446903;DNI;Natural
+597;Cortina de Aire Industrial;55856455;RUC;Jurídico
+598;Cassette;47690019;RUC;Jurídico
+599;Split Ducto;87695672;DNI;Natural
+600;Termostatos;25084167;DNI;Natural
+601;Helicocentrífugo Residencial;42936379;RUC;Jurídico
+602;Termostatos;96309362;DNI;Natural
+603;Repuestos;9485314;RUC;Jurídico
+604;Ventilador Tubular;29210489;DNI;Natural
+605;Tipo Paquete;27011879;DNI;Natural
+606;Bomba de Condensado;98531000;DNI;Natural
+607;Tipo Paquete;41635541;RUC;Jurídico
+608;VRF;88856738;RUC;Jurídico
+609;Filtro Metálico;46216231;RUC;Jurídico
+610;Termostatos;79632392;RUC;Jurídico
+611;Ventilador Centrífugo;40930118;RUC;Jurídico
+612;Aislamiento Térmico;34059744;DNI;Natural
+613;Split Piso Techo;21586989;DNI;Natural
+614;Ventilador Centrífugo;21495891;DNI;Natural
+615;Split Ducto;7499616;RUC;Jurídico
+616;Fan Coil;48075447;DNI;Natural
+617;Fan Coil;73559889;DNI;Natural
+618;Fan Coil;40260593;DNI;Natural
+619;Ducto Rectangular;87228722;DNI;Natural
+620;Split Pared;37387333;DNI;Natural
+621;Fan Coil;25700837;RUC;Jurídico
+622;Filtro Hepa;40492917;RUC;Jurídico
+623;Cortina de Aire ;81235668;DNI;Natural
+624;Ventilador Industrial;66263303;RUC;Jurídico
+625;Helicocentrífugo Silent  ;40304184;DNI;Natural
+626;Filtro de Poliester;62143545;DNI;Natural
+627;Ventilador Industrial;97395105;RUC;Jurídico
+628;Split Piso Techo;85953188;DNI;Natural
+629;VRF;65689412;DNI;Natural
+630;Cortina de Aire Industrial;15849030;DNI;Natural
+631;Helicocentrífugo Comercial ;9289032;DNI;Natural
+632;Cassette;54242245;DNI;Natural
+633;Helicocentrífugo Comercial ;11592386;DNI;Natural
+634;Rejilla Circular;67319642;DNI;Natural
+635;Split Pared;67379302;DNI;Natural
+636;Tipo Paquete;49833175;RUC;Jurídico
+637;Split Piso Techo;11159021;DNI;Natural
+638;Termostatos;10795179;DNI;Natural
+639;Cassette;47353880;DNI;Natural
+640;Ventilador Tubular;51635281;DNI;Natural
+641;Split Piso Techo;75629349;DNI;Natural
+642;Ventilador Tubular;55870854;DNI;Natural
+643;Cortina de Aire ;32571021;DNI;Natural
+644;Helicocentrífugo Comercial ;88672035;RUC;Jurídico
+645;Visor Líquido;40684788;RUC;Jurídico
+646;Axial Residencial;80504301;DNI;Natural
+647;Ducto Rectangular;71271639;RUC;Jurídico
+648;VRV;14086869;DNI;Natural
+649;Termostatos;18130029;DNI;Natural
+650;Split Piso Techo;4567748;DNI;Natural
+651;Ventilador Tubular;84123800;DNI;Natural
+652;Helicocentrífugo Comercial ;88483415;DNI;Natural
+653;Ventana;70313367;DNI;Natural
+654;Split Pared;47084671;RUC;Jurídico
+655;Split Pared;70502963;RUC;Jurídico
+656;Ventilador Tubular;27782461;RUC;Jurídico
+657;Split Ducto;33667028;DNI;Natural
+658;Split Piso Techo;3092511;RUC;Jurídico
+659;Cortina de Aire Industrial;34979073;RUC;Jurídico
+660;VRV;23615707;RUC;Jurídico
+661;Llave de Paso;83982511;DNI;Natural
+662;Ventana;66797451;RUC;Jurídico
+663;VRF;3143145;DNI;Natural
+664;Filtro Deshumedecedor;99870859;RUC;Jurídico
+665;VRF;49902820;RUC;Jurídico
+666;Helicocentrífugo Silent  ;37268911;RUC;Jurídico
+667;Termostatos;81461441;RUC;Jurídico
+668;Termostatos;75625068;DNI;Natural
+669;VRV;1641907;RUC;Jurídico
+670;Tipo Paquete;84589586;DNI;Natural
+671;Split Ducto;96644923;RUC;Jurídico
+672;Circular Residencial ;44519781;DNI;Natural
+673;Visor Líquido;35350610;DNI;Natural
+674;Ventilador Centrífugo;64736064;DNI;Natural
+675;Split Piso Techo;73955755;RUC;Jurídico
+676;Split Pared;37170898;RUC;Jurídico
+677;Helicocentrífugo Silent  ;86013124;DNI;Natural
+678;Termostatos;63666196;RUC;Jurídico
+679;Termostatos;60332181;RUC;Jurídico
+680;Split Ducto;88620917;DNI;Natural
+681;Ventilador Industrial;72004469;RUC;Jurídico
+682;Presostato;67489405;DNI;Natural
+683;Axial Residencial;99321858;RUC;Jurídico
+684;Rejilla 2 vías;83775340;DNI;Natural
+685;Ventilador Centrífugo;11678372;RUC;Jurídico
+686;Ventilador Industrial;45483190;RUC;Jurídico
+687;Cortina de Aire ;9335792;RUC;Jurídico
+688;Repuestos;4496010;RUC;Jurídico
+689;Tipo Paquete;38874810;DNI;Natural
+690;Rejilla 2 vías;56096304;RUC;Jurídico
+691;Termostatos;20637599;DNI;Natural
+692;Split Ducto;70951502;DNI;Natural
+693;Cortina de Aire Industrial;86915846;DNI;Natural
+694;Termostatos;67106989;DNI;Natural
+695;Termostatos;36315995;RUC;Jurídico
+696;Axial Residencial;21257862;DNI;Natural
+697;Tipo Paquete;46896252;RUC;Jurídico
+698;Helicocentrífugo Residencial;72865823;DNI;Natural
+699;Repuestos;35945471;DNI;Natural
+700;Helicocentrífugo Comercial ;74849458;RUC;Jurídico
+701;Axial Residencial;4341938;DNI;Natural
+702;Split Piso Techo;79999741;DNI;Natural
+703;Ventilador Industrial;81414342;RUC;Jurídico
+704;Termostatos;27456419;RUC;Jurídico
+705;Ventana;66312255;RUC;Jurídico
+706;Cassette;26168322;RUC;Jurídico
+707;Circular Residencial ;38169876;DNI;Natural
+708;Cortina de Aire Industrial;80295131;DNI;Natural
+709;Split Ducto;78385433;DNI;Natural
+710;Helicocentrífugo Silent  ;34538515;DNI;Natural
+711;Axial Residencial;1238441;DNI;Natural
+712;Split Piso Techo;26719774;DNI;Natural
+713;Helicocentrífugo Silent  ;46114029;DNI;Natural
+714;Split Piso Techo;53408358;DNI;Natural
+715;Ventilador Tubular;98054202;RUC;Jurídico
+716;Cassette;89351495;DNI;Natural
+717;VRF;56547347;RUC;Jurídico
+718;Tipo Paquete;51556339;RUC;Jurídico
+719;Termostatos;88309566;RUC;Jurídico
+720;Termostatos;91224744;RUC;Jurídico
+721;Split Piso Techo;57907859;DNI;Natural
+722;Split Pared;25093140;RUC;Jurídico
+723;Ventana;93852273;DNI;Natural
+724;Helicocentrífugo Silent  ;41605835;RUC;Jurídico
+725;Ventilador Tubular;32003368;DNI;Natural
+726;Ventilador Tubular;23209661;RUC;Jurídico
+727;Split Ducto;62099074;DNI;Natural
+728;Rejilla 2 vías;5871648;DNI;Natural
+729;Cassette;89233989;DNI;Natural
+730;Cortina de Aire ;12215700;RUC;Jurídico
+731;Ventilador Centrífugo;7869662;DNI;Natural
+732;Ventana;7395036;DNI;Natural
+733;Ventilador Industrial;24176423;DNI;Natural
+734;Cassette;57408841;RUC;Jurídico
+735;Cassette;76644161;RUC;Jurídico
+736;Split Ducto;6508825;RUC;Jurídico
+737;Cassette;32822476;DNI;Natural
+738;Helicocentrífugo Comercial ;14729831;DNI;Natural
+739;Split Pared;69465951;DNI;Natural
+740;Ventana;7465670;RUC;Jurídico
+741;Termostatos;31686474;RUC;Jurídico
+742;Termostatos;80441996;RUC;Jurídico
+743;Helicocentrífugo Residencial;12282117;RUC;Jurídico
+744;Split Ducto;65587805;DNI;Natural
+745;Cassette;98394976;RUC;Jurídico
+746;Split Ducto;95564890;RUC;Jurídico
+747;Termostatos;55632174;RUC;Jurídico
+748;Ventilador Industrial;36423759;DNI;Natural
+749;Termostatos;18138434;DNI;Natural
+750;Helicocentrífugo Comercial ;88872123;RUC;Jurídico
+751;Ducto Circular;12834779;DNI;Natural
+752;Ducto Rectangular;48623515;DNI;Natural
+753;Cortina de Aire ;94318483;DNI;Natural
+754;Ventilador Tubular;24912984;RUC;Jurídico
+755;Split Piso Techo;32427362;RUC;Jurídico
+756;Cassette;68726684;DNI;Natural
+757;Filtro Hepa;49005666;RUC;Jurídico
+758;Filtro de Poliester;72923860;DNI;Natural
+759;Ventana;23663987;DNI;Natural
+760;Ventilador Industrial;81843066;RUC;Jurídico
+761;Cortina de Aire Industrial;17702410;DNI;Natural
+762;Tipo Paquete;79806396;DNI;Natural
+763;Tipo Paquete;5823346;DNI;Natural
+764;Fan Coil;26775587;RUC;Jurídico
+765;Circular Residencial ;44305311;RUC;Jurídico
+766;Split Ducto;10737797;DNI;Natural
+767;Split Pared;21298942;DNI;Natural
+768;Tubería de Cobre;5376259;DNI;Natural
+769;Manguera;80640011;DNI;Natural
+770;Tipo Paquete;34463635;RUC;Jurídico
+771;VRF;6792163;DNI;Natural
+772;Tipo Paquete;20121918;DNI;Natural
+773;Filtro Hepa;86599854;RUC;Jurídico
+774;Fan Coil;83867377;RUC;Jurídico
+775;Fan Coil;58131840;DNI;Natural
+776;Cortina de Aire Industrial;82967367;RUC;Jurídico
+189;Ventilador Centrífugo;55361139;DNI;Natural
+190;Split Pared;41616878;DNI;Natural
+191;Tipo Paquete;59825302;DNI;Natural
+192;Split Pared;35850470;DNI;Natural
+193;Split Ducto;55546166;DNI;Natural
+194;VRF;58788816;DNI;Natural
+195;Cortina de Aire ;34582754;DNI;Natural
+196;Ducto Flexible;13128671;DNI;Natural
+197;Rejilla Circular;36053783;DNI;Natural
+198;Ventilador Centrífugo;51711051;DNI;Natural
+199;VRF;96049172;DNI;Natural
+200;Cassette;33929015;DNI;Natural
+201;Cassette;47047640;DNI;Natural
+202;Termostatos;38281291;DNI;Natural
+203;Helicocentrífugo Comercial ;63939894;DNI;Natural
+204;VRF;78447755;DNI;Natural
+205;Cassette;96770551;DNI;Natural
+206;Split Piso Techo;53926648;DNI;Natural
+207;VRF;63992566;DNI;Natural
+208;Cortina de Aire ;55863357;DNI;Natural
+209;Helicocentrífugo Silent  ;32125670;DNI;Natural
+210;VRF;74751993;DNI;Natural
+211;Split Pared;89010655;DNI;Natural
+212;Cassette;87185129;DNI;Natural
+213;Ventilador Tubular;66429311;DNI;Natural
+214;Termostatos;33222507;DNI;Natural
+215;Mangas;38160502;DNI;Natural
+216;Cinta de Aluminio;84236271;DNI;Natural
+217;VRF;84872425;DNI;Natural
+218;Filtro Hepa;21957150;DNI;Natural
+219;Cassette;16743754;DNI;Natural
+220;Split Pared;45924894;DNI;Natural
+221;Axial Residencial;69813522;DNI;Natural
+222;Split Pared;76863998;DNI;Natural
+223;Split Pared;54355139;DNI;Natural
+224;Cassette;94389470;DNI;Natural
+225;VRF;31317224;DNI;Natural
+226;Cassette;38161990;DNI;Natural
+227;Helicocentrífugo Silent  ;28464595;DNI;Natural
+228;Termostatos;22840497;DNI;Natural
+229;Cassette;43929606;DNI;Natural
+230;Ventilador Tubular;99040470;DNI;Natural
+231;Helicocentrífugo Silent  ;33536207;DNI;Natural
+232;Rejilla 4 vías;29884380;DNI;Natural
+233;Termostatos;83464777;DNI;Natural
+234;Cassette;96882930;DNI;Natural
+235;Split Pared;14676794;DNI;Natural
+236;Cortina de Aire ;27198254;DNI;Natural
+237;Cassette;47161799;DNI;Natural
+238;VRV;50833522;DNI;Natural
+239;VRV;87713081;DNI;Natural
+240;Helicocentrífugo Residencial;93511900;DNI;Natural
+241;Ventana;29061927;DNI;Natural
+242;Helicocentrífugo Comercial ;78376531;DNI;Natural
+243;VRV;33115993;DNI;Natural
+244;Rejilla 3 vías;68574489;DNI;Natural
+245;Fan Coil;90228711;DNI;Natural
+246;Axial Residencial;17861202;DNI;Natural
+247;Rejilla Doble Deflexión;80472825;DNI;Natural
+248;VRV;99439033;DNI;Natural
+249;Visor Líquido;77461152;DNI;Natural
+250;VRV;43031062;DNI;Natural
+251;Tipo Paquete;65425137;DNI;Natural
+252;Rejilla Doble Deflexión;42750834;DNI;Natural
+253;Visor Líquido;28776480;DNI;Natural
+254;Helicocentrífugo Silent  ;29962348;DNI;Natural
+255;Split Pared;45596269;DNI;Natural
+256;Llave de Paso;23027948;DNI;Natural
+257;Split Piso Techo;91328517;DNI;Natural
+258;Split Ducto;40275066;DNI;Natural
+259;Cortina de Aire ;68694927;DNI;Natural
+260;Ventana;44883589;DNI;Natural
+261;Ventilador Tubular;30426771;DNI;Natural
+262;Fan Coil;73995615;DNI;Natural
+263;Axial Residencial;49114653;DNI;Natural
+264;Cassette;28946107;DNI;Natural
+265;Bomba de Condensado;68182889;DNI;Natural
+266;Mangas;94746818;DNI;Natural
+267;Cortina de Aire ;92646700;DNI;Natural
+268;Ventilador Centrífugo;34528742;DNI;Natural
+269;Válvula de Servicio;45668624;DNI;Natural
+270;Fan Coil;60791743;DNI;Natural
+271;Fan Coil;13395402;DNI;Natural
+272;VRV;50820592;DNI;Natural
+273;Rejilla 1 vía;37959691;DNI;Natural
+274;VRF;96415257;DNI;Natural
+275;VRF;36451724;DNI;Natural
+276;Split Ducto;72089232;DNI;Natural
+277;Split Piso Techo;46833227;DNI;Natural
+278;Split Piso Techo;13076752;DNI;Natural
+279;Filtro Metálico;32180071;DNI;Natural
+280;Tipo Paquete;55823923;DNI;Natural
+281;Circular Residencial ;34863354;DNI;Natural
+282;Split Piso Techo;27698755;DNI;Natural
+283;Fan Coil;61317750;DNI;Natural
+284;VRV;87423665;DNI;Natural
+285;Manguera;48867007;DNI;Natural
+286;VRV;14976828;DNI;Natural
+287;Ventana;33321414;DNI;Natural
+288;Cassette;15526717;DNI;Natural
+289;Rejilla 4 vías;15679989;DNI;Natural
+290;Cassette;84838466;DNI;Natural
+291;Ventana;86138743;DNI;Natural
+292;VRV;49555466;DNI;Natural
+293;Circular Residencial ;58963707;DNI;Natural
+294;VRF;81119508;DNI;Natural
+295;Cortina de Aire Industrial;82536780;DNI;Natural
+296;Fan Coil;63267341;DNI;Natural
+297;Cassette;83887814;DNI;Natural
+298;Rejilla Doble Deflexión;14321179;DNI;Natural
+299;Fan Coil;12346512;DNI;Natural
+300;Circular Residencial ;20144707;DNI;Natural
+301;Rejilla 1 vía;20585775210;RUC;Jurídico
+302;Cassette;20340766225;RUC;Jurídico
+303;Axial Residencial;20362414268;RUC;Jurídico
+304;Axial Residencial;20190026008;RUC;Jurídico
+305;Axial Residencial;20981428322;RUC;Jurídico
+306;Helicocentrífugo Comercial ;20681819351;RUC;Jurídico
+307;Ventana;20815012837;RUC;Jurídico
+308;VRF;20469675998;RUC;Jurídico
+309;Rejilla Lineal;20485672592;RUC;Jurídico
+310;Tubería de Cobre;20421245413;RUC;Jurídico
+311;Ventana;20079447253;RUC;Jurídico
+312;Helicocentrífugo Silent  ;20953765662;RUC;Jurídico
+313;Cortina de Aire ;20744113510;RUC;Jurídico
+314;Helicocentrífugo Silent  ;20062242626;RUC;Jurídico
+315;Ventana;20638068302;RUC;Jurídico
+316;Split Pared;20861416027;RUC;Jurídico
+317;Cortina de Aire Industrial;20366392285;RUC;Jurídico
+318;VRV;20981104924;RUC;Jurídico
+319;Tipo Paquete;20193140048;RUC;Jurídico
+320;Ventilador Centrífugo;20482938625;RUC;Jurídico
+321;Ventilador Industrial;20245101191;RUC;Jurídico
+322;Fan Coil;20979752891;RUC;Jurídico
+323;Split Ducto;20362124702;RUC;Jurídico
+324;Termostatos;20042793047;RUC;Jurídico
+325;Termostatos;20755903552;RUC;Jurídico
+326;Helicocentrífugo Comercial ;20553338373;RUC;Jurídico
+327;Tipo Paquete;20790460249;RUC;Jurídico
+328;Ducto Rectangular;20196270452;RUC;Jurídico
+329;Fan Coil;20442391608;RUC;Jurídico
+330;Llave de Paso;20224680532;RUC;Jurídico
+331;Rejilla 1 vía;20910604931;RUC;Jurídico
+332;Split Piso Techo;20099821963;RUC;Jurídico
+333;Axial Residencial;20569841805;RUC;Jurídico
+334;Ventilador Tubular;20274313525;RUC;Jurídico
+335;Filtro Deshumedecedor;20087425209;RUC;Jurídico
+336;Helicocentrífugo Comercial ;20561816645;RUC;Jurídico
+337;Tipo Paquete;20718744374;RUC;Jurídico
+338;Ventilador Centrífugo;20558166758;RUC;Jurídico
+339;VRF;20978526621;RUC;Jurídico
+340;Ducto Rectangular;20824752378;RUC;Jurídico
+341;Ducto Flexible;20723842185;RUC;Jurídico
+342;Filtro Hepa;20281878181;RUC;Jurídico
+343;Tipo Paquete;20096223149;RUC;Jurídico
+344;Split Ducto;20138423806;RUC;Jurídico
+345;Cortina de Aire ;20367696161;RUC;Jurídico
+346;Helicocentrífugo Silent  ;20310193926;RUC;Jurídico
+347;Termostatos;20386780999;RUC;Jurídico
+348;Termostatos;20618321823;RUC;Jurídico
+349;Axial Residencial;20826989970;RUC;Jurídico
+350;Helicocentrífugo Silent  ;20063364523;RUC;Jurídico
+351;VRF;20995149078;RUC;Jurídico
+352;Ducto Circular;20899922743;RUC;Jurídico
+353;Helicocentrífugo Comercial ;20825568406;RUC;Jurídico
+354;Helicocentrífugo Residencial;20143053557;RUC;Jurídico
+355;Cortina de Aire ;20637022179;RUC;Jurídico
+356;Ducto Rectangular;20536403325;RUC;Jurídico
+357;Split Pared;20139488893;RUC;Jurídico
+358;Split Ducto;20686795534;RUC;Jurídico
+359;Cortina de Aire Industrial;20062728268;RUC;Jurídico
+360;VRV;20023634763;RUC;Jurídico
+361;Cortina de Aire ;20397858753;RUC;Jurídico
+362;Ventilador Tubular;20828583231;RUC;Jurídico
+363;Helicocentrífugo Silent  ;20147269508;RUC;Jurídico
+364;Split Piso Techo;20043661201;RUC;Jurídico
+365;Axial Residencial;20882109726;RUC;Jurídico
+366;Rejilla 3 vías;20741749020;RUC;Jurídico
+367;Split Pared;20987040563;RUC;Jurídico
+368;Ventilador Centrífugo;20016495290;RUC;Jurídico
+369;Ventilador Centrífugo;20278129282;RUC;Jurídico
+370;Termostatos;20411442034;RUC;Jurídico
+371;VRF;20016514237;RUC;Jurídico
+372;Split Piso Techo;20619933139;RUC;Jurídico
+373;Fan Coil;20773274193;RUC;Jurídico
+374;Split Ducto;20651141039;RUC;Jurídico
+375;VRV;20889270632;RUC;Jurídico
+376;Ventana;20675673993;RUC;Jurídico
+377;VRF;20515437318;RUC;Jurídico
+378;Termostatos;20091969037;RUC;Jurídico
+379;Termostatos;20267043561;RUC;Jurídico
+380;Split Pared;20599100175;RUC;Jurídico
+381;Helicocentrífugo Comercial ;20016552704;RUC;Jurídico
+382;Rejilla 4 vías;20814351551;RUC;Jurídico
+383;Ventana;20840788663;RUC;Jurídico
+384;Split Pared;20499875082;RUC;Jurídico
+385;Tipo Paquete;20418123117;RUC;Jurídico
+386;Split Ducto;20662484213;RUC;Jurídico
+387;Rejilla 4 vías;20050379817;RUC;Jurídico
+388;Split Pared;20151662716;RUC;Jurídico
+389;VRV;20255660233;RUC;Jurídico
+390;Circular Residencial ;20122294716;RUC;Jurídico
+391;Split Ducto;20029839477;RUC;Jurídico
+392;Tubería de Cobre;20297463870;RUC;Jurídico
+393;Helicocentrífugo Comercial ;20098810404;RUC;Jurídico
+394;Ventana;20210827617;RUC;Jurídico
+395;Helicocentrífugo Silent  ;20739457532;RUC;Jurídico
+396;Ventilador Centrífugo;20815519285;RUC;Jurídico
+397;Rejilla Rotacional;20790347552;RUC;Jurídico
+398;VRV;20594959515;RUC;Jurídico
+399;Ventana;20425130047;RUC;Jurídico
+400;Rejilla Rotacional;20933971732;RUC;Jurídico
+401;VRF;20632846560;RUC;Jurídico
+402;VRV;20165212174;RUC;Jurídico
+403;Rejilla 4 vías;20580253234;RUC;Jurídico
+404;Helicocentrífugo Silent  ;20480847588;RUC;Jurídico
+405;Cortina de Aire Industrial;20628732631;RUC;Jurídico
+406;Ventana;20929602951;RUC;Jurídico
+407;Axial Residencial;20766644302;RUC;Jurídico
+408;Ventilador Centrífugo;20682194310;RUC;Jurídico
+409;VRV;20095828050;RUC;Jurídico
+410;Rejilla 3 vías;20143368022;RUC;Jurídico
+411;Cassette;20174874262;RUC;Jurídico
+412;Helicocentrífugo Residencial;20930474841;RUC;Jurídico
+413;Ventilador Centrífugo;20264950266;RUC;Jurídico
+414;Split Ducto;20063727460;RUC;Jurídico
+415;Ventilador Centrífugo;20638226765;RUC;Jurídico
+416;Helicocentrífugo Comercial ;20063604047;RUC;Jurídico
+417;Termostatos;20948051222;RUC;Jurídico
+418;Ventana;20956333660;RUC;Jurídico
+419;Helicocentrífugo Comercial ;20387728785;RUC;Jurídico
+420;Válvula de Servicio;20315063646;RUC;Jurídico
+421;VRV;20139369133;RUC;Jurídico
+422;Rejilla de Retorno;20774236074;RUC;Jurídico
+423;Ventana;20896541963;RUC;Jurídico
+424;Split Piso Techo;20025625575;RUC;Jurídico
+425;Split Ducto;20552961079;RUC;Jurídico
+426;Termostatos;20885384856;RUC;Jurídico
+427;Rejilla Rotacional;20597971343;RUC;Jurídico
+428;Ventana;20676742895;RUC;Jurídico
+429;Rejilla 4 vías;20067490354;RUC;Jurídico
+430;Termostatos;20662432978;RUC;Jurídico
+431;Helicocentrífugo Silent  ;20370608419;RUC;Jurídico
+432;Mangas;20166496368;RUC;Jurídico
+433;Manguera;20574651279;RUC;Jurídico
+434;Mangas;20736143708;RUC;Jurídico
+435;Cortina de Aire ;20042960530;RUC;Jurídico
+436;Cortina de Aire Industrial;20394865120;RUC;Jurídico
+437;Fan Coil;20986546382;RUC;Jurídico
+438;Filtro Hepa;20267074315;RUC;Jurídico
+439;VRF;20793277546;RUC;Jurídico
+440;Fan Coil;20749006345;RUC;Jurídico
+441;Filtro de Poliester;20384943554;RUC;Jurídico
+442;Helicocentrífugo Silent  ;20230956922;RUC;Jurídico
+443;Filtro Deshumedecedor;20359749202;RUC;Jurídico
+444;Split Piso Techo;20137384066;RUC;Jurídico
+445;Split Piso Techo;20057537096;RUC;Jurídico
+446;Fan Coil;20552892196;RUC;Jurídico
+447;VRF;20640012631;RUC;Jurídico
+448;Split Pared;20814877695;RUC;Jurídico
+449;Termostatos;20844062475;RUC;Jurídico
+450;Rejilla 4 vías;20920687740;RUC;Jurídico
+451;Cassette;20810019416;RUC;Jurídico
+452;Fan Coil;20842782083;RUC;Jurídico
+453;Termostatos;20839981850;RUC;Jurídico
+454;Filtro Deshumedecedor;20351149566;RUC;Jurídico
+455;Rejilla 2 vías;20099578930;RUC;Jurídico
+456;Ventana;20017998935;RUC;Jurídico
+457;Rejilla 2 vías;20018155321;RUC;Jurídico
+458;Cinta de Aluminio;20780601321;RUC;Jurídico
+459;Split Ducto;20538757529;RUC;Jurídico
+460;Ventilador Centrífugo;20433600927;RUC;Jurídico
+461;Ducto Rectangular;20760504260;RUC;Jurídico
+462;Cortina de Aire ;20056752611;RUC;Jurídico
+463;Cortina de Aire ;20999194120;RUC;Jurídico
+464;Helicocentrífugo Silent  ;20261777707;RUC;Jurídico
+465;Cortina de Aire Industrial;20659097567;RUC;Jurídico
+466;Manguera;20829445311;RUC;Jurídico
+467;Helicocentrífugo Residencial;20383215263;RUC;Jurídico
+468;VRV;20425095574;RUC;Jurídico
+469;Split Pared;20084262886;RUC;Jurídico
+470;Ventana;20265146631;RUC;Jurídico
+471;VRF;20326417021;RUC;Jurídico
+472;Repuestos;20799907521;RUC;Jurídico
+473;Cortina de Aire ;20555950817;RUC;Jurídico
+474;Termostatos;20219263870;RUC;Jurídico
+475;Bomba de Condensado;20382714220;RUC;Jurídico
+476;VRF;20951264459;RUC;Jurídico
+477;Rejilla 2 vías;20666597533;RUC;Jurídico
+478;Rejilla Multifuncional;20011425290;RUC;Jurídico
+479;Ventilador Tubular;20685429727;RUC;Jurídico
+480;Ventilador Centrífugo;20257511937;RUC;Jurídico
+481;Termostatos;20445279562;RUC;Jurídico
+482;Cassette;20466050895;RUC;Jurídico
+483;Cortina de Aire Industrial;20538507857;RUC;Jurídico
+484;Split Ducto;20382770268;RUC;Jurídico
+777;VRF;73286044;RUC;Jurídico
+370;Ventilador Centrífugo;20411442034;RUC;Jurídico
+371;Rejilla de Retorno;20016514237;RUC;Jurídico
+372;VRV;20619933139;RUC;Jurídico
+373;Filtro Metálico;20773274193;RUC;Jurídico
+374;VRV;20651141039;RUC;Jurídico
+375;Ventilador Centrífugo;20889270632;RUC;Jurídico
+376;Cassette;20675673993;RUC;Jurídico
+377;Ventilador Industrial;20515437318;RUC;Jurídico
+378;Ventana;20091969037;RUC;Jurídico
+379;Ducto Rectangular;20267043561;RUC;Jurídico
+380;Helicocentrífugo Residencial;20599100175;RUC;Jurídico
+381;Split Ducto;20016552704;RUC;Jurídico
+382;Cortina de Aire Industrial;20814351551;RUC;Jurídico
+383;Ventana;20840788663;RUC;Jurídico
+384;Ventilador Industrial;20499875082;RUC;Jurídico
+385;Helicocentrífugo Comercial ;20418123117;RUC;Jurídico
+386;Ducto Circular;20662484213;RUC;Jurídico
+387;Circular Residencial ;20050379817;RUC;Jurídico
+388;Rejilla 3 vías;20151662716;RUC;Jurídico
+389;Ventana;20255660233;RUC;Jurídico
+390;Split Piso Techo;20122294716;RUC;Jurídico
+391;Split Piso Techo;20029839477;RUC;Jurídico
+392;Rejilla 4 vías;20297463870;RUC;Jurídico
+393;Axial Residencial;20098810404;RUC;Jurídico
+394;Termostatos;20210827617;RUC;Jurídico
+395;Split Pared;20739457532;RUC;Jurídico
+396;Filtro Metálico;20815519285;RUC;Jurídico
+397;Helicocentrífugo Comercial ;20790347552;RUC;Jurídico
+398;Split Pared;20594959515;RUC;Jurídico
+399;Ventana;20425130047;RUC;Jurídico
+400;Cinta de Aluminio;20933971732;RUC;Jurídico
+401;Termostatos;20632846560;RUC;Jurídico
+402;Helicocentrífugo Silent  ;20165212174;RUC;Jurídico
+403;Helicocentrífugo Silent  ;20580253234;RUC;Jurídico
+404;Tipo Paquete;20480847588;RUC;Jurídico
+405;Termostatos;20628732631;RUC;Jurídico
+406;Ventana;20929602951;RUC;Jurídico
+407;Cortina de Aire Industrial;20766644302;RUC;Jurídico
+408;Cassette;20682194310;RUC;Jurídico
+409;Split Ducto;20095828050;RUC;Jurídico
+410;Ducto Circular;20143368022;RUC;Jurídico
+411;Split Piso Techo;20174874262;RUC;Jurídico
+412;Axial Residencial;20930474841;RUC;Jurídico
+413;Presostato;20264950266;RUC;Jurídico
+414;Helicocentrífugo Residencial;20063727460;RUC;Jurídico
+415;Split Ducto;20638226765;RUC;Jurídico
+416;Split Pared;20063604047;RUC;Jurídico
+417;Ventana;20948051222;RUC;Jurídico
+418;Presostato;20956333660;RUC;Jurídico
+419;Cassette;20387728785;RUC;Jurídico
+420;Rejilla 2 vías;20315063646;RUC;Jurídico
+421;Termostatos;20139369133;RUC;Jurídico
+422;Split Ducto;20774236074;RUC;Jurídico
+423;Split Piso Techo;20896541963;RUC;Jurídico
+424;Split Piso Techo;20025625575;RUC;Jurídico
+425;Cortina de Aire Industrial;20552961079;RUC;Jurídico
+426;Tipo Paquete;20885384856;RUC;Jurídico
+427;Circular Residencial ;20597971343;RUC;Jurídico
+428;Rejilla de Retorno;20676742895;RUC;Jurídico
+429;VRV;20067490354;RUC;Jurídico
+430;Ventilador Tubular;20662432978;RUC;Jurídico
+431;Cassette;20370608419;RUC;Jurídico
+432;Mangas;20166496368;RUC;Jurídico
+433;VRV;20574651279;RUC;Jurídico
+434;Tipo Paquete;20736143708;RUC;Jurídico
+435;Split Ducto;20042960530;RUC;Jurídico
+436;Rejilla 4 vías;20394865120;RUC;Jurídico
+437;VRF;20986546382;RUC;Jurídico
+438;Tipo Paquete;20267074315;RUC;Jurídico
+439;Filtro Deshumedecedor;20793277546;RUC;Jurídico
+440;Split Ducto;20749006345;RUC;Jurídico
+441;Tipo Paquete;20384943554;RUC;Jurídico
+442;Cassette;20230956922;RUC;Jurídico
+443;Helicocentrífugo Silent  ;20359749202;RUC;Jurídico
+444;Fan Coil;20137384066;RUC;Jurídico
+445;Termostatos;20057537096;RUC;Jurídico
+446;Tipo Paquete;20552892196;RUC;Jurídico
+447;Rejilla 4 vías;20640012631;RUC;Jurídico
+448;Tipo Paquete;20814877695;RUC;Jurídico
+449;Helicocentrífugo Residencial;20844062475;RUC;Jurídico
+450;Tipo Paquete;20920687740;RUC;Jurídico
+451;Manguera;20810019416;RUC;Jurídico
+452;Circular Residencial ;20842782083;RUC;Jurídico
+453;Filtro de Poliester;20839981850;RUC;Jurídico
+454;Axial Residencial;20351149566;RUC;Jurídico
+455;VRV;20099578930;RUC;Jurídico
+456;Fan Coil;20017998935;RUC;Jurídico
+457;Ventilador Centrífugo;20018155321;RUC;Jurídico
+458;Gas Refrigerante;20780601321;RUC;Jurídico
+459;Split Piso Techo;20538757529;RUC;Jurídico
+460;Fan Coil;20433600927;RUC;Jurídico
+461;Termostatos;20760504260;RUC;Jurídico
+462;VRV;20056752611;RUC;Jurídico
+463;Ventilador Centrífugo;20999194120;RUC;Jurídico
+464;Rejilla Multifuncional;20261777707;RUC;Jurídico
+465;Split Piso Techo;20659097567;RUC;Jurídico
+466;Ducto Flexible;20829445311;RUC;Jurídico
+467;Helicocentrífugo Comercial ;20383215263;RUC;Jurídico
+468;Split Pared;20425095574;RUC;Jurídico
+469;Split Pared;20084262886;RUC;Jurídico
+470;VRV;20265146631;RUC;Jurídico
+471;Cortina de Aire Industrial;20326417021;RUC;Jurídico
+472;Ventilador Tubular;20799907521;RUC;Jurídico
+473;Cortina de Aire Industrial;20555950817;RUC;Jurídico
+474;Ventilador Industrial;20219263870;RUC;Jurídico
+475;VRF;20382714220;RUC;Jurídico
+476;Ducto Rectangular;20951264459;RUC;Jurídico
+477;Axial Residencial;20666597533;RUC;Jurídico
+478;Tubería de Cobre;20011425290;RUC;Jurídico
+479;Tipo Paquete;20685429727;RUC;Jurídico
+480;Split Ducto;20257511937;RUC;Jurídico
+481;Fan Coil;20445279562;RUC;Jurídico
+482;Helicocentrífugo Silent  ;20466050895;RUC;Jurídico
+483;Llave de Paso;20538507857;RUC;Jurídico
+484;Helicocentrífugo Comercial ;20382770268;RUC;Jurídico
+485;Tipo Paquete;20568680306;RUC;Jurídico
+486;Helicocentrífugo Comercial ;20976255221;RUC;Jurídico
+487;Split Pared;20061424755;RUC;Jurídico
+488;Ventana;20855392695;RUC;Jurídico
+489;Ventilador Tubular;20785328277;RUC;Jurídico
+490;Ventilador Tubular;20981911368;RUC;Jurídico
+491;Cortina de Aire Industrial;20742934972;RUC;Jurídico
+492;Cortina de Aire ;20081143811;RUC;Jurídico
+493;Cassette;20970551009;RUC;Jurídico
+494;Tipo Paquete;20481276053;RUC;Jurídico
+495;Cinta de Aluminio;20280970417;RUC;Jurídico
+496;Fan Coil;20542289305;RUC;Jurídico
+497;Fan Coil;20113788142;RUC;Jurídico
+498;Split Piso Techo;20990804585;RUC;Jurídico
+499;VRF;20959276550;RUC;Jurídico
+500;Ventilador Tubular;20932811789;RUC;Jurídico
+501;Tipo Paquete;68061236;DNI;Natural
+502;Split Ducto;6224670;RUC;Jurídico
+503;Split Piso Techo;22824092;DNI;Natural
+504;Tipo Paquete;90188188;DNI;Natural
+505;Split Piso Techo;18028704;RUC;Jurídico
+506;VRV;69643098;DNI;Natural
+507;VRV;46026749;DNI;Natural
+508;Cortina de Aire Industrial;58656442;DNI;Natural
+509;Ventilador Industrial;71345752;DNI;Natural
+510;Tipo Paquete;13617876;DNI;Natural
+511;Rejilla Circular;12440709;DNI;Natural
+512;Rejilla 4 vías;49148090;RUC;Jurídico
+513;VRV;26699690;DNI;Natural
+514;Fan Coil;42913150;RUC;Jurídico
+515;Termostatos;84907662;DNI;Natural
+516;VRF;13811650;DNI;Natural
+517;Cortina de Aire Industrial;10927549;DNI;Natural
+518;VRF;69026694;RUC;Jurídico
+519;Helicocentrífugo Silent  ;19709960;DNI;Natural
+520;VRV;62268495;DNI;Natural
+521;Cassette;36628914;RUC;Jurídico
+522;Ventilador Centrífugo;98889315;DNI;Natural
+523;Ventilador Tubular;12391853;DNI;Natural
+524;Split Piso Techo;21324575;DNI;Natural
+525;Rejilla Circular;45689094;RUC;Jurídico
+526;Ducto Flexible;57366569;RUC;Jurídico
+527;Ventilador Tubular;73576027;RUC;Jurídico
+528;Split Pared;69173067;DNI;Natural
+529;Termostatos;84823298;DNI;Natural
+530;Ventilador Tubular;24469013;RUC;Jurídico
+531;Axial Residencial;6540319;DNI;Natural
+532;Cassette;24630063;DNI;Natural
+533;Split Ducto;99586619;DNI;Natural
+534;Split Pared;2432872;DNI;Natural
+535;Cassette;48237890;DNI;Natural
+536;Fan Coil;91315142;DNI;Natural
+537;Helicocentrífugo Silent  ;77500195;DNI;Natural
+538;Tipo Paquete;41361263;DNI;Natural
+539;Cortina de Aire ;83478096;DNI;Natural
+540;Ventana;89768636;DNI;Natural
+541;Tipo Paquete;47328152;RUC;Jurídico
+542;Tipo Paquete;83152826;DNI;Natural
+543;Split Ducto;19425021;DNI;Natural
+544;Circular Residencial ;25311469;DNI;Natural
+545;Helicocentrífugo Comercial ;86542164;DNI;Natural
+546;Cortina de Aire ;88464428;DNI;Natural
+547;Llave de Paso;61095993;RUC;Jurídico
+548;Split Piso Techo;31316291;DNI;Natural
+549;Rejilla 4 vías;96145309;RUC;Jurídico
+550;Rejilla Doble Deflexión;87625813;RUC;Jurídico
+551;Tipo Paquete;94228710;RUC;Jurídico
+552;Split Ducto;38653341;RUC;Jurídico
+553;Termostatos;59889548;RUC;Jurídico
+554;Cortina de Aire Industrial;92602746;DNI;Natural
+555;Split Piso Techo;71746717;RUC;Jurídico
+556;Mangas;84771822;DNI;Natural
+557;Cortina de Aire Industrial;54214356;RUC;Jurídico
+558;Cortina de Aire ;34161295;DNI;Natural
+559;Cassette;97905180;RUC;Jurídico
+560;Ventilador Industrial;60518838;RUC;Jurídico
+561;Helicocentrífugo Residencial;9281995;DNI;Natural
+562;Filtro Deshumedecedor;74341685;DNI;Natural
+563;Helicocentrífugo Residencial;30196610;DNI;Natural
+564;Cortina de Aire ;40309980;DNI;Natural
+565;Ventana;73937215;RUC;Jurídico
+566;Tipo Paquete;56687260;DNI;Natural
+567;Tipo Paquete;30654687;DNI;Natural
+568;VRV;45766708;RUC;Jurídico
+569;Cortina de Aire ;73787198;RUC;Jurídico
+570;Helicocentrífugo Residencial;71018398;DNI;Natural
+571;Ventana;33849035;RUC;Jurídico
+572;Tipo Paquete;66625489;DNI;Natural
+573;Rejilla 4 vías;52312624;DNI;Natural
+574;Cortina de Aire Industrial;51741273;DNI;Natural
+575;Rejilla 1 vía;5641539;DNI;Natural
+576;Cortina de Aire Industrial;30010737;RUC;Jurídico
+577;Split Ducto;73062085;DNI;Natural
+578;Split Pared;15095108;DNI;Natural
+579;Ventana;26518586;DNI;Natural
+580;Helicocentrífugo Residencial;17042851;RUC;Jurídico
+581;Cassette;48720470;RUC;Jurídico
+582;VRV;45635170;DNI;Natural
+583;Bomba de Condensado;95141344;RUC;Jurídico
+584;Split Ducto;52499764;RUC;Jurídico
+585;Termostatos;44075361;DNI;Natural
+586;Visor Líquido;41996929;RUC;Jurídico
+587;Ventilador Centrífugo;36892155;RUC;Jurídico
+588;Ventana;92992019;DNI;Natural
+589;Split Pared;48861568;DNI;Natural
+590;Cortina de Aire Industrial;98424031;DNI;Natural
+591;Helicocentrífugo Residencial;83856022;RUC;Jurídico
+592;Split Piso Techo;41719274;DNI;Natural
+593;Ventilador Tubular;37558389;RUC;Jurídico
+594;Helicocentrífugo Comercial ;39731526;RUC;Jurídico
+595;VRV;72569665;RUC;Jurídico
+596;Termostatos;73446903;DNI;Natural
+597;Cortina de Aire Industrial;55856455;RUC;Jurídico
+598;Termostatos;47690019;RUC;Jurídico
+599;Termostatos;87695672;DNI;Natural
+600;Cassette;25084167;DNI;Natural
+601;Repuestos;42936379;RUC;Jurídico
+602;Ventana;96309362;DNI;Natural
+603;Filtro Metálico;9485314;RUC;Jurídico
+604;Ventilador Industrial;29210489;DNI;Natural
+605;Termostatos;27011879;DNI;Natural
+606;Helicocentrífugo Silent  ;98531000;DNI;Natural
+607;Tipo Paquete;41635541;RUC;Jurídico
+608;Tipo Paquete;88856738;RUC;Jurídico
+609;Cassette;46216231;RUC;Jurídico
+610;Ventana;79632392;RUC;Jurídico
+611;Split Piso Techo;40930118;RUC;Jurídico
+612;Ventilador Centrífugo;34059744;DNI;Natural
+613;Split Ducto;21586989;DNI;Natural
+614;Cortina de Aire Industrial;21495891;DNI;Natural
+615;Mangas;7499616;RUC;Jurídico
+616;VRF;48075447;DNI;Natural
+617;Split Ducto;73559889;DNI;Natural
+618;Ventana;40260593;DNI;Natural
+619;Helicocentrífugo Silent  ;87228722;DNI;Natural
+620;Split Ducto;37387333;DNI;Natural
+621;Axial Residencial;25700837;RUC;Jurídico
+622;Helicocentrífugo Residencial;40492917;RUC;Jurídico
+623;Helicocentrífugo Residencial;81235668;DNI;Natural
+624;Split Ducto;66263303;RUC;Jurídico
+625;Split Ducto;40304184;DNI;Natural
+626;Circular Residencial ;62143545;DNI;Natural
+627;Ventana;97395105;RUC;Jurídico
+628;Helicocentrífugo Comercial ;85953188;DNI;Natural
+629;Ventana;65689412;DNI;Natural
+630;Fan Coil;15849030;DNI;Natural
+631;Rejilla Circular;9289032;DNI;Natural
+632;Ventilador Tubular;54242245;DNI;Natural
+633;Tipo Paquete;11592386;DNI;Natural
+634;VRF;67319642;DNI;Natural
+635;Filtro Metálico;67379302;DNI;Natural
+636;Rejilla 1 vía;49833175;RUC;Jurídico
+637;Helicocentrífugo Silent  ;11159021;DNI;Natural
+638;VRF;10795179;DNI;Natural
+639;Split Ducto;47353880;DNI;Natural
+640;Ventilador Tubular;51635281;DNI;Natural
+641;Tipo Paquete;75629349;DNI;Natural
+642;Termostatos;55870854;DNI;Natural
+643;Cassette;32571021;DNI;Natural
+644;Ventilador Centrífugo;88672035;RUC;Jurídico
+645;Cortina de Aire ;40684788;RUC;Jurídico
+646;Split Pared;80504301;DNI;Natural
+647;Split Piso Techo;71271639;RUC;Jurídico
+648;Cortina de Aire ;14086869;DNI;Natural
+649;Ventilador Industrial;18130029;DNI;Natural
+650;Axial Residencial;4567748;DNI;Natural
+651;Ventana;84123800;DNI;Natural
+652;Tipo Paquete;88483415;DNI;Natural
+653;Termostatos;70313367;DNI;Natural
+654;Circular Residencial ;47084671;RUC;Jurídico
+655;Aislamiento Térmico;70502963;RUC;Jurídico
+656;Cassette;27782461;RUC;Jurídico
+657;Rejilla de Retorno;33667028;DNI;Natural
+658;Rejilla Rotacional;3092511;RUC;Jurídico
+659;Filtro Metálico;34979073;RUC;Jurídico
+660;Fan Coil;23615707;RUC;Jurídico
+661;Cortina de Aire ;83982511;DNI;Natural
+662;Split Piso Techo;66797451;RUC;Jurídico
+663;Split Pared;3143145;DNI;Natural
+664;VRV;99870859;RUC;Jurídico
+665;Ventilador Industrial;49902820;RUC;Jurídico
+666;Split Piso Techo;37268911;RUC;Jurídico
+667;Helicocentrífugo Silent  ;81461441;RUC;Jurídico
+668;Ventana;75625068;DNI;Natural
+669;Rejilla 2 vías;1641907;RUC;Jurídico
+670;Cassette;84589586;DNI;Natural
+671;Termostatos;96644923;RUC;Jurídico
+672;Tipo Paquete;44519781;DNI;Natural
+673;VRV;35350610;DNI;Natural
+674;Visor Líquido;64736064;DNI;Natural
+675;Cassette;73955755;RUC;Jurídico
+676;Split Ducto;37170898;RUC;Jurídico
+677;Ducto Rectangular;86013124;DNI;Natural
+678;Ventana;63666196;RUC;Jurídico
+679;VRF;60332181;RUC;Jurídico
+680;Helicocentrífugo Residencial;88620917;DNI;Natural
+681;Ventilador Industrial;72004469;RUC;Jurídico
+682;Helicocentrífugo Residencial;67489405;DNI;Natural
+683;Ducto Rectangular;99321858;RUC;Jurídico
+684;Ventilador Centrífugo;83775340;DNI;Natural
+685;Split Piso Techo;11678372;RUC;Jurídico
+686;VRF;45483190;RUC;Jurídico
+687;Tipo Paquete;9335792;RUC;Jurídico
+688;Mangas;4496010;RUC;Jurídico
+689;Split Piso Techo;38874810;DNI;Natural
+690;Helicocentrífugo Silent  ;56096304;RUC;Jurídico
+691;Ventana;20637599;DNI;Natural
+692;Ventilador Tubular;70951502;DNI;Natural
+693;Rejilla 3 vías;86915846;DNI;Natural
+694;Cassette;67106989;DNI;Natural
+695;Rejilla de Retorno;36315995;RUC;Jurídico
+696;Tipo Paquete;21257862;DNI;Natural
+697;Axial Residencial;46896252;RUC;Jurídico
+698;VRV;72865823;DNI;Natural
+699;Válvula de Servicio;35945471;DNI;Natural
+700;Circular Residencial ;74849458;RUC;Jurídico
+701;Helicocentrífugo Residencial;4341938;DNI;Natural
+702;VRF;79999741;DNI;Natural
+703;Termostatos;81414342;RUC;Jurídico
+704;Repuestos;27456419;RUC;Jurídico
+705;Rejilla Multifuncional;66312255;RUC;Jurídico
+706;Filtro Deshumedecedor;26168322;RUC;Jurídico
+707;Rejilla de Retorno;38169876;DNI;Natural
+708;Helicocentrífugo Silent  ;80295131;DNI;Natural
+709;Rejilla 1 vía;78385433;DNI;Natural
+710;Ventilador Tubular;34538515;DNI;Natural
+711;VRF;1238441;DNI;Natural
+712;VRV;26719774;DNI;Natural
+713;Filtro Metálico;46114029;DNI;Natural
+714;Split Pared;53408358;DNI;Natural
+715;Helicocentrífugo Comercial ;98054202;RUC;Jurídico
+716;Cassette;89351495;DNI;Natural
+717;Split Ducto;56547347;RUC;Jurídico
+718;Ventilador Tubular;51556339;RUC;Jurídico
+719;Cortina de Aire ;88309566;RUC;Jurídico
+720;Cassette;91224744;RUC;Jurídico
+721;Rejilla 4 vías;57907859;DNI;Natural
+722;Ventana;25093140;RUC;Jurídico
+723;VRF;93852273;DNI;Natural
+724;Filtro de Poliester;41605835;RUC;Jurídico
+725;Cortina de Aire ;32003368;DNI;Natural
+726;Cinta de Aluminio;23209661;RUC;Jurídico
+727;Split Pared;62099074;DNI;Natural
+728;Rejilla Lineal;5871648;DNI;Natural
+729;Helicocentrífugo Comercial ;89233989;DNI;Natural
+730;Split Ducto;12215700;RUC;Jurídico
+731;Circular Residencial ;7869662;DNI;Natural
+732;Circular Residencial ;7395036;DNI;Natural
+733;Helicocentrífugo Comercial ;24176423;DNI;Natural
+734;Ventilador Tubular;57408841;RUC;Jurídico
+735;Termostatos;76644161;RUC;Jurídico
+736;Helicocentrífugo Comercial ;6508825;RUC;Jurídico
+737;Termostatos;32822476;DNI;Natural
+738;VRF;14729831;DNI;Natural
+739;Mangas;69465951;DNI;Natural
+740;VRF;7465670;RUC;Jurídico
+741;Presostato;31686474;RUC;Jurídico
+742;Split Ducto;80441996;RUC;Jurídico
+743;Rejilla 4 vías;12282117;RUC;Jurídico
+744;Cassette;65587805;DNI;Natural
+745;VRV;98394976;RUC;Jurídico
+746;Cinta de Aluminio;95564890;RUC;Jurídico
+747;Helicocentrífugo Residencial;55632174;RUC;Jurídico
+748;Ventana;36423759;DNI;Natural
+749;Split Ducto;18138434;DNI;Natural
+750;Rejilla Doble Deflexión;88872123;RUC;Jurídico
+751;Cortina de Aire ;12834779;DNI;Natural
+752;Ventilador Centrífugo;48623515;DNI;Natural
+753;Ventana;94318483;DNI;Natural
+754;Circular Residencial ;24912984;RUC;Jurídico
+755;Split Ducto;32427362;RUC;Jurídico
+756;Rejilla 1 vía;68726684;DNI;Natural
+757;Ventana;49005666;RUC;Jurídico
+758;Ventilador Industrial;72923860;DNI;Natural
+759;VRF;23663987;DNI;Natural
+760;Fan Coil;81843066;RUC;Jurídico
+761;Cortina de Aire Industrial;17702410;DNI;Natural
+762;Helicocentrífugo Comercial ;79806396;DNI;Natural
+763;Split Ducto;5823346;DNI;Natural
+764;Manguera;26775587;RUC;Jurídico
+765;Helicocentrífugo Silent  ;44305311;RUC;Jurídico
+766;Helicocentrífugo Comercial ;10737797;DNI;Natural
+767;Ventilador Industrial;21298942;DNI;Natural
+768;VRV;5376259;DNI;Natural
+769;VRV;80640011;DNI;Natural
+770;Tubería de Cobre;34463635;RUC;Jurídico
+771;Split Piso Techo;6792163;DNI;Natural
+772;Gas Refrigerante;20121918;DNI;Natural
+773;Helicocentrífugo Comercial ;86599854;RUC;Jurídico
+774;Rejilla Circular;83867377;RUC;Jurídico
+775;Presostato;58131840;DNI;Natural
+776;Ducto Rectangular;82967367;RUC;Jurídico
+777;Split Piso Techo;73286044;RUC;Jurídico
+778;VRF;24656890;RUC;Jurídico
+779;Cassette;24610185;DNI;Natural
+780;Rejilla Multifuncional;85998223;DNI;Natural
+781;Gas Refrigerante;1511721;RUC;Jurídico
+782;Rejilla 3 vías;88052173;DNI;Natural
+783;Ventana;28530267;RUC;Jurídico
+784;Tipo Paquete;91956958;RUC;Jurídico
+785;Repuestos;26906142;RUC;Jurídico
+786;Cassette;44511997;RUC;Jurídico
+787;Ventana;34481802;DNI;Natural
+788;Ventana;95541049;RUC;Jurídico
+789;Ventilador Industrial;32107316;DNI;Natural
+790;Circular Residencial ;47598528;RUC;Jurídico
+791;Ventilador Tubular;90398205;RUC;Jurídico
+792;Rejilla Doble Deflexión;84205783;DNI;Natural
+793;Rejilla Lineal;82280577;RUC;Jurídico
+794;Split Pared;82262251;RUC;Jurídico
+795;Ventilador Centrífugo;93238681;DNI;Natural
+796;VRV;36390591;DNI;Natural
+797;Fan Coil;52630781;RUC;Jurídico
+798;Split Piso Techo;5781873;DNI;Natural
+799;Rejilla Circular;92266657;DNI;Natural
+800;Rejilla Multifuncional;86028255;DNI;Natural
+801;Rejilla 3 vías;76936363;DNI;Natural
+802;Tipo Paquete;73468888;RUC;Jurídico
+803;Rejilla Circular;30978466;DNI;Natural
+804;Split Pared;7828821;RUC;Jurídico
+805;Helicocentrífugo Silent  ;36791978;DNI;Natural
+806;Ventilador Tubular;27724175;DNI;Natural
+807;Cortina de Aire ;92948449;RUC;Jurídico
+808;Split Pared;44936216;DNI;Natural
+809;Ventana;26457164;DNI;Natural
+810;VRF;94364029;RUC;Jurídico
+811;Helicocentrífugo Silent  ;3534226;RUC;Jurídico
+812;Ventana;96347342;RUC;Jurídico
+813;VRV;93042722;RUC;Jurídico
+814;Fan Coil;45783980;DNI;Natural
+815;Helicocentrífugo Residencial;21437848;RUC;Jurídico
+816;VRV;5308186;DNI;Natural
+817;Tipo Paquete;24793691;DNI;Natural
+818;Tipo Paquete;84050315;DNI;Natural
+819;Cassette;89417227;RUC;Jurídico
+820;Circular Residencial ;97282215;RUC;Jurídico
+821;Split Piso Techo;49359188;RUC;Jurídico
+822;VRV;80291566;DNI;Natural
+823;Tipo Paquete;53995087;DNI;Natural
+824;Rejilla 4 vías;15255556;DNI;Natural
+825;Ventilador Tubular;65765930;DNI;Natural
+826;Rejilla Rotacional;30714419;DNI;Natural
+827;Ventilador Centrífugo;6768812;DNI;Natural
+828;Cassette;98471273;DNI;Natural
+829;Rejilla 3 vías;80847768;RUC;Jurídico
+830;Ducto Rectangular;4707251;RUC;Jurídico
+831;Ventana;29343622;RUC;Jurídico
+832;Axial Residencial;67512963;RUC;Jurídico
+833;Cortina de Aire Industrial;46697984;DNI;Natural
+834;Tipo Paquete;87575930;RUC;Jurídico
+835;Tipo Paquete;16282455;RUC;Jurídico
+836;Fan Coil;55182461;RUC;Jurídico
+837;Cassette;56263868;DNI;Natural
+838;Termostatos;12974877;DNI;Natural
+839;Cortina de Aire Industrial;10088066;RUC;Jurídico
+840;Tipo Paquete;4170759;RUC;Jurídico
+841;Cortina de Aire ;17850061;DNI;Natural
+842;Cassette;67076294;DNI;Natural
+843;Manguera;18042083;DNI;Natural
+844;Ventilador Centrífugo;19016182;DNI;Natural
+845;Tipo Paquete;62627649;DNI;Natural
+846;Termostatos;95944012;DNI;Natural
+847;Bomba de Condensado;29769857;RUC;Jurídico
+848;Ventilador Centrífugo;85835404;RUC;Jurídico
+849;Ventana;10889898;RUC;Jurídico
+850;Split Ducto;77254452;RUC;Jurídico
+851;Cortina de Aire Industrial;50252802;DNI;Natural
+852;Presostato;20143868;RUC;Jurídico
+853;Ducto Circular;2426938;RUC;Jurídico
+854;Fan Coil;38876965;RUC;Jurídico
+855;Fan Coil;16189938;DNI;Natural
+856;Fan Coil;67109430;RUC;Jurídico
+857;Axial Residencial;99810274;RUC;Jurídico
+858;Helicocentrífugo Silent  ;98918625;RUC;Jurídico
+859;VRV;68238603;DNI;Natural
+860;Ventilador Tubular;73389768;RUC;Jurídico
+861;Cortina de Aire Industrial;14018635;DNI;Natural
+862;Termostatos;5398192;RUC;Jurídico
+863;Ventana;72636660;RUC;Jurídico
+864;Fan Coil;31724637;RUC;Jurídico
+865;Split Pared;16231573;RUC;Jurídico
+866;Axial Residencial;54088712;RUC;Jurídico
+867;Split Pared;36576088;DNI;Natural
+868;Termostatos;8495013;DNI;Natural
+869;Ventana;92255057;RUC;Jurídico
+870;Rejilla Multifuncional;70076520;DNI;Natural
+871;Split Ducto;25544703;RUC;Jurídico
+872;Helicocentrífugo Silent  ;35099030;RUC;Jurídico
+873;VRV;66831778;DNI;Natural
+874;VRF;35896485;DNI;Natural
+875;Axial Residencial;36461458;DNI;Natural
+876;VRF;73277198;RUC;Jurídico
+877;VRF;84124948;RUC;Jurídico
+878;Mangas;56091378;RUC;Jurídico
+879;Ventilador Industrial;99661695;RUC;Jurídico
+880;Split Piso Techo;41023949;RUC;Jurídico
+881;Helicocentrífugo Silent  ;80022600;DNI;Natural
+882;Split Pared;93103857;DNI;Natural
+883;Split Ducto;36997269;RUC;Jurídico
+884;Cortina de Aire ;62758221;RUC;Jurídico
+885;Helicocentrífugo Comercial ;45533179;RUC;Jurídico
+886;Axial Residencial;71492680;DNI;Natural
+887;Cassette;20281629;DNI;Natural
+888;VRV;7691037;RUC;Jurídico
+889;Helicocentrífugo Comercial ;9954572;DNI;Natural
+890;Rejilla Doble Deflexión;92357605;DNI;Natural
+891;Gas Refrigerante;52368673;RUC;Jurídico
+892;Helicocentrífugo Residencial;84228444;RUC;Jurídico
+893;Ventana;35053600;RUC;Jurídico
+894;Cortina de Aire ;72346051;DNI;Natural
+895;Axial Residencial;87907620;DNI;Natural
+896;Split Ducto;46861278;RUC;Jurídico
+897;Termostatos;61273389;RUC;Jurídico
+898;VRV;47389131;DNI;Natural
+899;Rejilla Multifuncional;38443625;DNI;Natural
+900;Ducto Rectangular;81685304;DNI;Natural
+901;Split Ducto;75559185;RUC;Jurídico
+902;Split Piso Techo;10158818;DNI;Natural
+903;Ventilador Industrial;35181847;DNI;Natural
+904;Termostatos;25713894;DNI;Natural
+905;Ventilador Centrífugo;2373964;DNI;Natural
+906;Termostatos;15336772;DNI;Natural
+907;Cortina de Aire Industrial;33950305;RUC;Jurídico
+908;Ventilador Industrial;52239575;RUC;Jurídico
+909;Split Pared;92331913;DNI;Natural
+910;VRV;84610294;RUC;Jurídico
+911;Split Ducto;94414114;DNI;Natural
+912;Ventilador Tubular;58100258;DNI;Natural
+913;Cortina de Aire ;28030825;RUC;Jurídico
+914;Rejilla 1 vía;2734818;DNI;Natural
+915;Ventana;80476124;RUC;Jurídico
+916;Tubería de Cobre;63301329;RUC;Jurídico
+917;Rejilla Circular;15768286;RUC;Jurídico
+918;Ventana;74581223;DNI;Natural
+919;Cassette;56285949;DNI;Natural
+920;Split Ducto;88984449;RUC;Jurídico
+921;Split Piso Techo;1276826;RUC;Jurídico
+922;VRV;60612462;RUC;Jurídico
+923;Cinta de Aluminio;18337140;DNI;Natural
+924;Filtro Hepa;32019816;RUC;Jurídico
+925;Ventilador Industrial;84983658;DNI;Natural
+926;Circular Residencial ;6598740;DNI;Natural
+927;Ventana;26152690;DNI;Natural
+928;Cassette;85795258;DNI;Natural
+929;Split Ducto;87835196;DNI;Natural
+930;Rejilla 1 vía;42084295;RUC;Jurídico
+931;Tipo Paquete;30429947;RUC;Jurídico
+932;VRF;76029814;RUC;Jurídico
+933;Split Piso Techo;1785331;DNI;Natural
+934;Ventilador Industrial;92945601;RUC;Jurídico
+935;Rejilla Rotacional;2470237;RUC;Jurídico
+936;Split Pared;88288290;RUC;Jurídico
+937;Circular Residencial ;25664252;DNI;Natural
+938;Cortina de Aire Industrial;59090619;RUC;Jurídico
+939;Circular Residencial ;76767537;DNI;Natural
+940;Split Pared;16604777;DNI;Natural
+941;Cortina de Aire ;13907281;DNI;Natural
+942;Circular Residencial ;94509940;RUC;Jurídico
+943;Split Pared;29650720;DNI;Natural
+944;Presostato;65146524;RUC;Jurídico
+945;Manguera;43865583;DNI;Natural
+946;Rejilla 3 vías;70969951;RUC;Jurídico
+947;Termostatos;26071985;RUC;Jurídico
+948;Cassette;50979106;DNI;Natural
+949;Termostatos;73888301;DNI;Natural
+950;Helicocentrífugo Comercial ;72025378;DNI;Natural
+951;Ventilador Centrífugo;9293082;RUC;Jurídico
+952;Rejilla 4 vías;75465842;RUC;Jurídico
+953;Ventilador Industrial;42879500;RUC;Jurídico
+954;Fan Coil;16740774;DNI;Natural
+955;Fan Coil;13407584;RUC;Jurídico
+956;Válvula de Servicio;1427388;DNI;Natural
+957;Split Pared;4048255;DNI;Natural
+958;Split Pared;28135035;DNI;Natural
+959;Ventilador Tubular;47585018;DNI;Natural
+960;Rejilla 1 vía;16646220;DNI;Natural
+961;Cortina de Aire Industrial;53538752;RUC;Jurídico
+962;Tipo Paquete;75855239;DNI;Natural
+963;Ventilador Industrial;48472385;RUC;Jurídico
+964;Rejilla 2 vías;71579554;RUC;Jurídico
+965;Split Ducto;36849928;RUC;Jurídico
+966;Circular Residencial ;18094859;RUC;Jurídico
+967;Tipo Paquete;40519723;RUC;Jurídico
+968;Ventilador Tubular;70819152;DNI;Natural
+969;Ventana;40154370;DNI;Natural
+970;Helicocentrífugo Comercial ;82886981;DNI;Natural
+971;Fan Coil;58825590;DNI;Natural
+972;Split Ducto;65464973;DNI;Natural
+973;Ventilador Tubular;96103068;RUC;Jurídico
+974;Cassette;1908521;RUC;Jurídico
+975;Helicocentrífugo Residencial;29840707;DNI;Natural
+976;Fan Coil;36831976;DNI;Natural
+977;Fan Coil;33694546;RUC;Jurídico
+978;Tipo Paquete;27985101;RUC;Jurídico
+979;Circular Residencial ;53979150;RUC;Jurídico
+980;Termostatos;78358438;DNI;Natural
+981;Circular Residencial ;64571032;RUC;Jurídico
+982;Filtro de Poliester;93224097;DNI;Natural
+983;VRV;32527613;DNI;Natural
+984;Termostatos;14171224;DNI;Natural
+985;Fan Coil;82875383;RUC;Jurídico
+986;Helicocentrífugo Silent  ;74748409;DNI;Natural
+987;Cortina de Aire ;76903424;DNI;Natural
+988;Helicocentrífugo Silent  ;47537065;DNI;Natural
+989;Cortina de Aire Industrial;71489988;DNI;Natural
+990;VRV;96459609;DNI;Natural
+991;Split Pared;45577030;RUC;Jurídico
+992;Ventana;87893487;DNI;Natural
+993;Rejilla Multifuncional;93205115;DNI;Natural
+994;VRF;80273589;DNI;Natural
+995;Manguera;93024237;RUC;Jurídico
+996;Ventilador Centrífugo;51221622;RUC;Jurídico
+997;VRV;46050272;RUC;Jurídico
+998;Fan Coil;52983356;RUC;Jurídico
+999;Visor Líquido;53663401;DNI;Natural
+1000;Cortina de Aire ;21227784;DNI;Natural
+407;Helicocentrífugo Residencial;20766644302;RUC;Jurídico
+31;Cortina de Aire ;40496568;DNI;Natural
+165;Ventilador Tubular;61991921;DNI;Natural
+148;VRV;36487555;DNI;Natural
+315;Ventana;20638068302;RUC;Jurídico
+176;Cassette;44033410;DNI;Natural
+298;Ventilador Industrial;14321179;DNI;Natural
+277;Fan Coil;46833227;DNI;Natural
+226;Rejilla Multifuncional;38161990;DNI;Natural
+223;VRF;54355139;DNI;Natural
+316;Split Ducto;20861416027;RUC;Jurídico
+196;Tipo Paquete;13128671;DNI;Natural
+458;Cassette;20780601321;RUC;Jurídico
+389;Split Pared;20255660233;RUC;Jurídico
+304;Rejilla Rotacional;20190026008;RUC;Jurídico
+221;Ducto Rectangular;69813522;DNI;Natural
+10;VRF;90520010;DNI;Natural
+168;Split Ducto;27785930;DNI;Natural
+186;Tipo Paquete;85089186;DNI;Natural
+159;Fan Coil;71650903;DNI;Natural
+137;VRV;98611455;DNI;Natural
+406;VRV;20929602951;RUC;Jurídico
+84;Ventana;92037340;DNI;Natural
+346;Ventilador Industrial;20310193926;RUC;Jurídico
+409;Split Piso Techo;20095828050;RUC;Jurídico
+259;Rejilla 3 vías;68694927;DNI;Natural
+145;Split Piso Techo;85662745;DNI;Natural
+34;Ventilador Centrífugo;44287974;DNI;Natural
+56;Split Ducto;44191656;DNI;Natural
+397;Termostatos;20790347552;RUC;Jurídico
+406;Split Pared;20929602951;RUC;Jurídico
+349;Ventilador Centrífugo;20826989970;RUC;Jurídico
+427;Repuestos;20597971343;RUC;Jurídico
+261;VRF;30426771;DNI;Natural
+223;Ducto Flexible;54355139;DNI;Natural
+97;Ventana;55562141;DNI;Natural
+157;Helicocentrífugo Comercial ;42291896;DNI;Natural
+402;Helicocentrífugo Comercial ;20165212174;RUC;Jurídico
+497;Split Pared;20113788142;RUC;Jurídico
+364;Helicocentrífugo Comercial ;20043661201;RUC;Jurídico
+91;Filtro Deshumedecedor;77876908;DNI;Natural
+450;VRF;20920687740;RUC;Jurídico
+359;Ventilador Centrífugo;20062728268;RUC;Jurídico
+388;Split Pared;20151662716;RUC;Jurídico
+384;Fan Coil;20499875082;RUC;Jurídico
+44;Split Piso Techo;83581653;DNI;Natural
+357;Cassette;20139488893;RUC;Jurídico
+146;Circular Residencial ;46392535;DNI;Natural
+111;Cassette;29289996;DNI;Natural
+359;Split Ducto;20062728268;RUC;Jurídico
+295;Helicocentrífugo Silent  ;82536780;DNI;Natural
+183;Tipo Paquete;93020275;DNI;Natural
+451;Ventana;20810019416;RUC;Jurídico
+86;Ventilador Tubular;69161940;DNI;Natural
+443;Rejilla 1 vía;20359749202;RUC;Jurídico
+499;Manguera;20959276550;RUC;Jurídico
+214;Helicocentrífugo Residencial;33222507;DNI;Natural
+221;Cortina de Aire ;69813522;DNI;Natural
+316;Ventilador Tubular;20861416027;RUC;Jurídico
+282;Cortina de Aire Industrial;27698755;DNI;Natural
+7;Split Pared;56679144;DNI;Natural
+33;Split Ducto;93956514;DNI;Natural
+298;Tipo Paquete;14321179;DNI;Natural
+250;Circular Residencial ;43031062;DNI;Natural
+430;Ventilador Centrífugo;20662432978;RUC;Jurídico
+28;Cortina de Aire ;70347136;DNI;Natural
+492;Ventilador Tubular;20081143811;RUC;Jurídico
+212;Tipo Paquete;87185129;DNI;Natural
+228;VRV;22840497;DNI;Natural
+259;Cassette;68694927;DNI;Natural
+346;Helicocentrífugo Silent  ;20310193926;RUC;Jurídico
+85;Tipo Paquete;63554229;DNI;Natural
+180;VRF;85138348;DNI;Natural
+356;Cortina de Aire ;20536403325;RUC;Jurídico
+102;Termostatos;14320905;DNI;Natural
+485;VRF;20568680306;RUC;Jurídico
+352;Split Piso Techo;20899922743;RUC;Jurídico
+347;Rejilla Doble Deflexión;20386780999;RUC;Jurídico
+133;Cassette;70578236;DNI;Natural
+365;Cortina de Aire ;20882109726;RUC;Jurídico
+277;Split Pared;46833227;DNI;Natural
+483;Fan Coil;20538507857;RUC;Jurídico
+318;Filtro Deshumedecedor;20981104924;RUC;Jurídico
+337;Split Ducto;20718744374;RUC;Jurídico
+191;Rejilla de Retorno;59825302;DNI;Natural
+322;Cortina de Aire Industrial;20979752891;RUC;Jurídico
+75;VRV;53755180;DNI;Natural
+404;Fan Coil;20480847588;RUC;Jurídico
+153;Split Pared;37474632;DNI;Natural
+201;Fan Coil;47047640;DNI;Natural
+261;Ventana;30426771;DNI;Natural
+221;Split Piso Techo;69813522;DNI;Natural
+170;Helicocentrífugo Comercial ;92997107;DNI;Natural
+313;Fan Coil;20744113510;RUC;Jurídico
+340;Termostatos;20824752378;RUC;Jurídico
+441;VRV;20384943554;RUC;Jurídico
+500;Repuestos;20932811789;RUC;Jurídico
+388;Rejilla Lineal;20151662716;RUC;Jurídico
+242;Ventilador Industrial;78376531;DNI;Natural
+357;Tipo Paquete;20139488893;RUC;Jurídico
+193;Ventilador Centrífugo;55546166;DNI;Natural
+256;Split Pared;23027948;DNI;Natural
+109;Termostatos;80625314;DNI;Natural
+438;Tipo Paquete;20267074315;RUC;Jurídico
+448;VRF;20814877695;RUC;Jurídico
+369;Manguera;20278129282;RUC;Jurídico
+408;Rejilla Circular;20682194310;RUC;Jurídico
+361;Termostatos;20397858753;RUC;Jurídico
+77;Cortina de Aire Industrial;11866258;DNI;Natural
+28;Gas Refrigerante;70347136;DNI;Natural
+403;Rejilla Circular;20580253234;RUC;Jurídico
+384;Rejilla 4 vías;20499875082;RUC;Jurídico
+50;Circular Residencial ;50252311;DNI;Natural
+71;Termostatos;68257995;DNI;Natural
+320;Rejilla Lineal;20482938625;RUC;Jurídico
+428;Cinta de Aluminio;20676742895;RUC;Jurídico
+208;Presostato;55863357;DNI;Natural
+236;Ventilador Centrífugo;27198254;DNI;Natural
+482;Repuestos;20466050895;RUC;Jurídico
+452;Fan Coil;20842782083;RUC;Jurídico
+453;VRF;20839981850;RUC;Jurídico
+93;Split Pared;18659923;DNI;Natural
+283;Helicocentrífugo Residencial;61317750;DNI;Natural
+300;Termostatos;20144707;DNI;Natural
+35;Helicocentrífugo Silent  ;68775546;DNI;Natural
+329;VRF;20442391608;RUC;Jurídico
+144;Split Piso Techo;82794601;DNI;Natural
+369;Fan Coil;20278129282;RUC;Jurídico
+117;Repuestos;17567520;DNI;Natural
+92;Rejilla Doble Deflexión;65855593;DNI;Natural
+299;Termostatos;12346512;DNI;Natural
+144;VRV;82794601;DNI;Natural
+248;Cassette;99439033;DNI;Natural
+441;Helicocentrífugo Silent  ;20384943554;RUC;Jurídico
+278;Cortina de Aire ;13076752;DNI;Natural
+394;Filtro de Poliester;20210827617;RUC;Jurídico
+368;Cortina de Aire ;20016495290;RUC;Jurídico
+6;Termostatos;31935535;DNI;Natural
+10;Filtro Deshumedecedor;90520010;DNI;Natural
+459;Cortina de Aire Industrial;20538757529;RUC;Jurídico
+257;Split Pared;91328517;DNI;Natural
+346;Válvula de Servicio;20310193926;RUC;Jurídico
+160;Cassette;64013255;DNI;Natural
+287;VRV;33321414;DNI;Natural
+257;Cassette;91328517;DNI;Natural
+35;Split Pared;68775546;DNI;Natural
+298;Ventilador Industrial;14321179;DNI;Natural
+253;VRF;28776480;DNI;Natural
+498;Cortina de Aire Industrial;20990804585;RUC;Jurídico
+315;Rejilla Multifuncional;20638068302;RUC;Jurídico
+166;Rejilla 1 vía;48632810;DNI;Natural
+276;Split Piso Techo;72089232;DNI;Natural
+57;Gas Refrigerante;75923135;DNI;Natural
+479;Helicocentrífugo Residencial;20685429727;RUC;Jurídico
+113;Ventilador Industrial;42933485;DNI;Natural
+5;Termostatos;10236637;DNI;Natural
+106;Split Pared;94270379;DNI;Natural
+197;Ventilador Industrial;36053783;DNI;Natural
+199;Circular Residencial ;96049172;DNI;Natural
+464;Helicocentrífugo Comercial ;20261777707;RUC;Jurídico
+186;Bomba de Condensado;85089186;DNI;Natural
+414;Split Ducto;20063727460;RUC;Jurídico
+496;VRF;20542289305;RUC;Jurídico
+33;Helicocentrífugo Residencial;93956514;DNI;Natural
+63;Manguera;34762965;DNI;Natural
+372;Split Pared;20619933139;RUC;Jurídico
+29;VRV;41795693;DNI;Natural
+196;Split Piso Techo;13128671;DNI;Natural
+100;Helicocentrífugo Comercial ;41819332;DNI;Natural
+91;Visor Líquido;77876908;DNI;Natural
+264;Bomba de Condensado;28946107;DNI;Natural
+310;Cassette;20421245413;RUC;Jurídico
+365;Cassette;20882109726;RUC;Jurídico
+471;Split Piso Techo;20326417021;RUC;Jurídico
+421;Ventilador Tubular;20139369133;RUC;Jurídico
+280;Split Piso Techo;55823923;DNI;Natural
+442;Manguera;20230956922;RUC;Jurídico
+57;Split Piso Techo;75923135;DNI;Natural
+338;Helicocentrífugo Silent  ;20558166758;RUC;Jurídico
+265;Ventana;68182889;DNI;Natural
+384;Circular Residencial ;20499875082;RUC;Jurídico
+1;Split Ducto;20371555;DNI;Natural
+422;Termostatos;20774236074;RUC;Jurídico
+312;Aislamiento Térmico;20953765662;RUC;Jurídico
+129;Cortina de Aire Industrial;74767090;DNI;Natural
+143;Ventana;90584094;DNI;Natural
+250;Tipo Paquete;43031062;DNI;Natural
+453;Split Piso Techo;20839981850;RUC;Jurídico
+52;Rejilla 1 vía;79370509;DNI;Natural
+493;Split Pared;20970551009;RUC;Jurídico
+41;Termostatos;63548906;DNI;Natural
+469;VRV;20084262886;RUC;Jurídico
+52;Termostatos;79370509;DNI;Natural
+489;Ducto Rectangular;20785328277;RUC;Jurídico
+454;Split Pared;20351149566;RUC;Jurídico
+15;Cassette;50685872;DNI;Natural
+219;Fan Coil;16743754;DNI;Natural
+425;Circular Residencial ;20552961079;RUC;Jurídico
+100;Helicocentrífugo Comercial ;41819332;DNI;Natural
+378;Helicocentrífugo Residencial;20091969037;RUC;Jurídico
+246;Manguera;17861202;DNI;Natural
+97;Helicocentrífugo Comercial ;55562141;DNI;Natural
+298;Split Pared;14321179;DNI;Natural
+383;Ventilador Industrial;20840788663;RUC;Jurídico
+466;Axial Residencial;20829445311;RUC;Jurídico
+9;Fan Coil;35956616;DNI;Natural
+191;Split Ducto;59825302;DNI;Natural
+426;Cassette;20885384856;RUC;Jurídico
+135;Split Piso Techo;45696556;DNI;Natural
+196;Cinta de Aluminio;13128671;DNI;Natural
+143;Ventilador Tubular;90584094;DNI;Natural
+237;Ventilador Tubular;47161799;DNI;Natural
+339;Split Pared;20978526621;RUC;Jurídico
+455;Split Pared;20099578930;RUC;Jurídico
+390;Ventilador Tubular;20122294716;RUC;Jurídico
+443;Split Pared;20359749202;RUC;Jurídico
+392;Rejilla Rotacional;20297463870;RUC;Jurídico
+393;Helicocentrífugo Silent  ;20098810404;RUC;Jurídico
+50;Split Ducto;50252311;DNI;Natural
+146;VRF;46392535;DNI;Natural
+303;VRF;20362414268;RUC;Jurídico
+401;Termostatos;20632846560;RUC;Jurídico
+334;Fan Coil;20274313525;RUC;Jurídico
+416;Helicocentrífugo Residencial;20063604047;RUC;Jurídico
+100;Rejilla 1 vía;41819332;DNI;Natural
+231;Bomba de Condensado;33536207;DNI;Natural
+21;Split Pared;19541819;DNI;Natural
+25;Circular Residencial ;95311295;DNI;Natural
+97;Ventana;55562141;DNI;Natural
+166;Helicocentrífugo Residencial;48632810;DNI;Natural
+66;Helicocentrífugo Silent  ;13965949;DNI;Natural
+195;Rejilla de Retorno;34582754;DNI;Natural
+409;Helicocentrífugo Silent  ;20095828050;RUC;Jurídico
+432;Llave de Paso;20166496368;RUC;Jurídico
+270;Gas Refrigerante;60791743;DNI;Natural
+38;Split Ducto;10153244;DNI;Natural
+317;Split Piso Techo;20366392285;RUC;Jurídico
+363;Cinta de Aluminio;20147269508;RUC;Jurídico
+148;Bomba de Condensado;36487555;DNI;Natural
+473;Rejilla 3 vías;20555950817;RUC;Jurídico
+381;Cortina de Aire Industrial;20016552704;RUC;Jurídico
+415;Ducto Circular;20638226765;RUC;Jurídico
+155;Rejilla de Retorno;35826388;DNI;Natural
+398;Ventilador Centrífugo;20594959515;RUC;Jurídico
+73;Tipo Paquete;12130198;DNI;Natural
+165;Helicocentrífugo Residencial;61991921;DNI;Natural
+62;Termostatos;42067921;DNI;Natural
+360;Termostatos;20023634763;RUC;Jurídico
+13;Ventilador Industrial;45817517;DNI;Natural
+409;Ventilador Tubular;20095828050;RUC;Jurídico
+312;Tipo Paquete;20953765662;RUC;Jurídico
+325;Ducto Rectangular;20755903552;RUC;Jurídico
+354;Cassette;20143053557;RUC;Jurídico
+130;Termostatos;23116375;DNI;Natural
+393;Termostatos;20098810404;RUC;Jurídico
+118;Helicocentrífugo Silent  ;49534418;DNI;Natural
+96;Helicocentrífugo Silent  ;28645907;DNI;Natural
+259;Axial Residencial;68694927;DNI;Natural
+42;Tipo Paquete;21353357;DNI;Natural
+74;VRF;90718648;DNI;Natural
+125;Ducto Flexible;31291569;DNI;Natural
+343;VRV;20096223149;RUC;Jurídico
+173;Helicocentrífugo Comercial ;41032798;DNI;Natural
+62;Cassette;42067921;DNI;Natural
+371;Rejilla 4 vías;20016514237;RUC;Jurídico
+303;Ventana;20362414268;RUC;Jurídico
+496;Ducto Rectangular;20542289305;RUC;Jurídico
+443;Ventana;20359749202;RUC;Jurídico
+200;Fan Coil;33929015;DNI;Natural
+151;Tipo Paquete;69916654;DNI;Natural
+465;Ventana;20659097567;RUC;Jurídico
+86;Circular Residencial ;69161940;DNI;Natural
+348;VRF;20618321823;RUC;Jurídico
+279;Tipo Paquete;32180071;DNI;Natural
+316;Split Piso Techo;20861416027;RUC;Jurídico
+44;Split Ducto;83581653;DNI;Natural
+5;Helicocentrífugo Residencial;10236637;DNI;Natural
+417;Ventilador Centrífugo;20948051222;RUC;Jurídico
+357;VRF;20139488893;RUC;Jurídico
+380;Rejilla Circular;20599100175;RUC;Jurídico
+207;Repuestos;63992566;DNI;Natural
+22;Split Piso Techo;80024975;DNI;Natural
+381;Fan Coil;20016552704;RUC;Jurídico
+308;Helicocentrífugo Residencial;20469675998;RUC;Jurídico
+477;Ventilador Tubular;20666597533;RUC;Jurídico
+411;Cortina de Aire ;20174874262;RUC;Jurídico
+345;Cortina de Aire ;20367696161;RUC;Jurídico
+334;Cinta de Aluminio;20274313525;RUC;Jurídico
+398;VRF;20594959515;RUC;Jurídico
+43;Cortina de Aire Industrial;22148550;DNI;Natural
+290;Split Ducto;84838466;DNI;Natural
+346;Ventilador Centrífugo;20310193926;RUC;Jurídico
+56;Cortina de Aire ;44191656;DNI;Natural
+276;Rejilla Circular;72089232;DNI;Natural
+50;Axial Residencial;50252311;DNI;Natural
+114;Helicocentrífugo Silent  ;85095668;DNI;Natural
+118;Aislamiento Térmico;49534418;DNI;Natural
+456;Ducto Rectangular;20017998935;RUC;Jurídico
+388;Tipo Paquete;20151662716;RUC;Jurídico
+464;Rejilla Doble Deflexión;20261777707;RUC;Jurídico
+160;Termostatos;64013255;DNI;Natural
+235;Ventana;14676794;DNI;Natural
+207;Ventana;63992566;DNI;Natural
+316;Circular Residencial ;20861416027;RUC;Jurídico
+364;Cassette;20043661201;RUC;Jurídico
+279;Helicocentrífugo Residencial;32180071;DNI;Natural
+64;Cassette;76253251;DNI;Natural
+34;Helicocentrífugo Silent  ;44287974;DNI;Natural
+122;VRV;29691785;DNI;Natural
+41;Split Piso Techo;63548906;DNI;Natural
+480;Helicocentrífugo Comercial ;20257511937;RUC;Jurídico
+485;Cortina de Aire ;20568680306;RUC;Jurídico
+368;Ventana;20016495290;RUC;Jurídico
+100;Tipo Paquete;41819332;DNI;Natural
+208;Tipo Paquete;55863357;DNI;Natural
+382;Tipo Paquete;20814351551;RUC;Jurídico
+422;Split Pared;20774236074;RUC;Jurídico
+270;Ventilador Centrífugo;60791743;DNI;Natural
+36;Filtro Deshumedecedor;81367734;DNI;Natural
+195;Cassette;34582754;DNI;Natural
+265;Rejilla de Retorno;68182889;DNI;Natural
+295;Cortina de Aire Industrial;82536780;DNI;Natural
+250;Aislamiento Térmico;43031062;DNI;Natural
+81;Helicocentrífugo Comercial ;24532220;DNI;Natural
+26;Cortina de Aire Industrial;60833131;DNI;Natural
+296;Split Pared;63267341;DNI;Natural
+55;Llave de Paso;36378300;DNI;Natural
+276;Split Piso Techo;72089232;DNI;Natural
+289;Fan Coil;15679989;DNI;Natural
+368;Rejilla 4 vías;20016495290;RUC;Jurídico
+252;Ventilador Centrífugo;42750834;DNI;Natural
+228;Split Piso Techo;22840497;DNI;Natural
+287;Split Piso Techo;33321414;DNI;Natural
+111;Split Pared;29289996;DNI;Natural
+91;Cassette;77876908;DNI;Natural
+190;Ducto Rectangular;41616878;DNI;Natural
+3;Termostatos;59523429;DNI;Natural
+362;Ventana;20828583231;RUC;Jurídico
+410;Termostatos;20143368022;RUC;Jurídico
+284;Split Piso Techo;87423665;DNI;Natural
+148;Rejilla 4 vías;36487555;DNI;Natural
+274;Tipo Paquete;96415257;DNI;Natural
+119;Ducto Rectangular;85939187;DNI;Natural
+56;Ventana;44191656;DNI;Natural
+23;Rejilla Circular;21958280;DNI;Natural
+23;Split Pared;21958280;DNI;Natural
+235;Filtro Deshumedecedor;14676794;DNI;Natural
+136;Split Ducto;91262933;DNI;Natural
+163;Ventilador Tubular;53489003;DNI;Natural
+214;Filtro Metálico;33222507;DNI;Natural
+459;Split Piso Techo;20538757529;RUC;Jurídico
+200;Helicocentrífugo Residencial;33929015;DNI;Natural
+411;Cortina de Aire Industrial;20174874262;RUC;Jurídico
+25;Ventana;95311295;DNI;Natural
+55;Cassette;36378300;DNI;Natural
+135;VRV;45696556;DNI;Natural
+4;Tipo Paquete;87834304;DNI;Natural
+179;Cassette;81194316;DNI;Natural
+33;Cortina de Aire Industrial;93956514;DNI;Natural
+358;Ventana;20686795534;RUC;Jurídico
+428;Ventilador Tubular;20676742895;RUC;Jurídico
+345;Helicocentrífugo Residencial;20367696161;RUC;Jurídico
+109;Cassette;80625314;DNI;Natural
+226;Válvula de Servicio;38161990;DNI;Natural
+443;Cinta de Aluminio;20359749202;RUC;Jurídico
+269;Circular Residencial ;45668624;DNI;Natural
+311;Ventana;20079447253;RUC;Jurídico
+253;Helicocentrífugo Residencial;28776480;DNI;Natural
+437;Helicocentrífugo Residencial;20986546382;RUC;Jurídico
+124;Split Piso Techo;13993719;DNI;Natural
+179;Rejilla 3 vías;81194316;DNI;Natural
+326;Cortina de Aire ;20553338373;RUC;Jurídico
+278;VRV;13076752;DNI;Natural
+41;Ventana;63548906;DNI;Natural
+326;VRV;20553338373;RUC;Jurídico
+18;Ducto Flexible;59269700;DNI;Natural
+402;Rejilla de Retorno;20165212174;RUC;Jurídico
+452;VRF;20842782083;RUC;Jurídico
+291;Ventilador Industrial;86138743;DNI;Natural
+226;Filtro Hepa;38161990;DNI;Natural
+327;Tipo Paquete;20790460249;RUC;Jurídico
+38;Split Pared;10153244;DNI;Natural
+221;Termostatos;69813522;DNI;Natural
+431;Cassette;20370608419;RUC;Jurídico
+463;Tubería de Cobre;20999194120;RUC;Jurídico
+358;VRF;20686795534;RUC;Jurídico
+477;Tipo Paquete;20666597533;RUC;Jurídico
+369;Presostato;20278129282;RUC;Jurídico
+462;Split Ducto;20056752611;RUC;Jurídico
+273;Ventilador Industrial;37959691;DNI;Natural
+61;Ventilador Centrífugo;89535911;DNI;Natural
+405;Llave de Paso;20628732631;RUC;Jurídico
+187;VRV;79875576;DNI;Natural
+275;VRV;36451724;DNI;Natural
+197;VRV;36053783;DNI;Natural
+448;Split Ducto;20814877695;RUC;Jurídico
+474;VRF;20219263870;RUC;Jurídico
+452;Ducto Circular;20842782083;RUC;Jurídico
+402;Cortina de Aire Industrial;20165212174;RUC;Jurídico
+289;Fan Coil;15679989;DNI;Natural
+139;Termostatos;89067604;DNI;Natural
+358;Split Ducto;20686795534;RUC;Jurídico
+49;Split Ducto;40797344;DNI;Natural
+164;Split Ducto;87547672;DNI;Natural
+396;Válvula de Servicio;20815519285;RUC;Jurídico
+410;Rejilla Lineal;20143368022;RUC;Jurídico
+200;VRF;33929015;DNI;Natural
+331;Fan Coil;20910604931;RUC;Jurídico
+186;Válvula de Servicio;85089186;DNI;Natural
+250;Filtro Metálico;43031062;DNI;Natural
+260;Axial Residencial;44883589;DNI;Natural
+259;Tipo Paquete;68694927;DNI;Natural
+131;Ventana;76312610;DNI;Natural
+395;Ventana;20739457532;RUC;Jurídico
+378;Ventana;20091969037;RUC;Jurídico
+135;Helicocentrífugo Residencial;45696556;DNI;Natural
+288;Helicocentrífugo Residencial;15526717;DNI;Natural
+192;VRF;35850470;DNI;Natural
+39;Tipo Paquete;16019965;DNI;Natural
+81;VRF;24532220;DNI;Natural
+168;Ventana;27785930;DNI;Natural
+247;Ventilador Industrial;80472825;DNI;Natural
+31;Helicocentrífugo Comercial ;40496568;DNI;Natural
+317;Rejilla 1 vía;20366392285;RUC;Jurídico
+492;Ventana;20081143811;RUC;Jurídico
+431;Rejilla 2 vías;20370608419;RUC;Jurídico
+81;Helicocentrífugo Comercial ;24532220;DNI;Natural
+134;Split Pared;83519788;DNI;Natural
+301;Ventilador Tubular;20585775210;RUC;Jurídico
+24;Filtro Deshumedecedor;27554396;DNI;Natural
+324;Tipo Paquete;20042793047;RUC;Jurídico
+44;Helicocentrífugo Residencial;83581653;DNI;Natural
+338;Termostatos;20558166758;RUC;Jurídico
+308;VRF;20469675998;RUC;Jurídico
+464;VRF;20261777707;RUC;Jurídico
+81;Axial Residencial;24532220;DNI;Natural
+256;Gas Refrigerante;23027948;DNI;Natural
+390;Fan Coil;20122294716;RUC;Jurídico
+46;Ventilador Industrial;79167686;DNI;Natural
+308;Rejilla Circular;20469675998;RUC;Jurídico
+389;Termostatos;20255660233;RUC;Jurídico
+225;Ventilador Centrífugo;31317224;DNI;Natural
+444;Axial Residencial;20137384066;RUC;Jurídico
+254;Axial Residencial;29962348;DNI;Natural
+421;Split Piso Techo;20139369133;RUC;Jurídico
+436;Cassette;20394865120;RUC;Jurídico
+117;Tipo Paquete;17567520;DNI;Natural
+462;Ventana;20056752611;RUC;Jurídico
+496;VRF;20542289305;RUC;Jurídico
+499;Split Piso Techo;20959276550;RUC;Jurídico
+272;Cortina de Aire ;50820592;DNI;Natural
+411;Ventana;20174874262;RUC;Jurídico
+363;Ventilador Centrífugo;20147269508;RUC;Jurídico
+86;Cortina de Aire ;69161940;DNI;Natural
+389;Rejilla Lineal;20255660233;RUC;Jurídico
+379;Ventilador Tubular;20267043561;RUC;Jurídico
+62;Tipo Paquete;42067921;DNI;Natural
+85;Ventilador Tubular;63554229;DNI;Natural
+304;Axial Residencial;20190026008;RUC;Jurídico
+474;Cortina de Aire ;20219263870;RUC;Jurídico
+449;Cassette;20844062475;RUC;Jurídico
+319;Termostatos;20193140048;RUC;Jurídico
+315;VRV;20638068302;RUC;Jurídico
+498;VRF;20990804585;RUC;Jurídico
+11;Circular Residencial ;84389342;DNI;Natural
+261;Filtro Hepa;30426771;DNI;Natural
+56;Split Ducto;44191656;DNI;Natural
+323;Split Ducto;20362124702;RUC;Jurídico
+87;Ventilador Centrífugo;85114956;DNI;Natural
+434;VRF;20736143708;RUC;Jurídico
+87;VRV;85114956;DNI;Natural
+20;Ventilador Centrífugo;97131621;DNI;Natural
+287;Termostatos;33321414;DNI;Natural
+447;Tipo Paquete;20640012631;RUC;Jurídico
+111;Rejilla 2 vías;29289996;DNI;Natural
+394;Split Piso Techo;20210827617;RUC;Jurídico
+298;Rejilla Doble Deflexión;14321179;DNI;Natural
+256;Rejilla Lineal;23027948;DNI;Natural
+205;Ducto Rectangular;96770551;DNI;Natural
+362;Fan Coil;20828583231;RUC;Jurídico
+29;Ventilador Industrial;41795693;DNI;Natural
+426;Helicocentrífugo Silent  ;20885384856;RUC;Jurídico
+238;Aislamiento Térmico;50833522;DNI;Natural
+356;Ventilador Industrial;20536403325;RUC;Jurídico
+328;Repuestos;20196270452;RUC;Jurídico
+314;Helicocentrífugo Residencial;20062242626;RUC;Jurídico
+32;Cortina de Aire ;56010947;DNI;Natural
+340;Filtro Hepa;20824752378;RUC;Jurídico
+378;Fan Coil;20091969037;RUC;Jurídico
+395;VRF;20739457532;RUC;Jurídico
+134;Fan Coil;83519788;DNI;Natural
+154;Helicocentrífugo Silent  ;46362851;DNI;Natural
+339;Termostatos;20978526621;RUC;Jurídico
+52;Ventana;79370509;DNI;Natural
+239;Filtro Hepa;87713081;DNI;Natural
+232;Split Piso Techo;29884380;DNI;Natural
+174;Rejilla Multifuncional;34527965;DNI;Natural
+394;Ventilador Industrial;20210827617;RUC;Jurídico
+108;Cortina de Aire ;40649144;DNI;Natural
+224;Ventilador Industrial;94389470;DNI;Natural
+252;Helicocentrífugo Comercial ;42750834;DNI;Natural
+43;Cortina de Aire ;22148550;DNI;Natural
+43;Split Ducto;22148550;DNI;Natural
+253;Termostatos;28776480;DNI;Natural
+212;Ventana;87185129;DNI;Natural
+315;Cassette;20638068302;RUC;Jurídico
+270;Cinta de Aluminio;60791743;DNI;Natural
+33;Split Piso Techo;93956514;DNI;Natural
+245;Axial Residencial;90228711;DNI;Natural
+134;Helicocentrífugo Residencial;83519788;DNI;Natural
+149;Split Ducto;33416990;DNI;Natural
+497;Rejilla 2 vías;20113788142;RUC;Jurídico
+60;Rejilla Circular;26162564;DNI;Natural
+158;Tipo Paquete;93587805;DNI;Natural
+355;Gas Refrigerante;20637022179;RUC;Jurídico
+115;Tipo Paquete;81517865;DNI;Natural
+60;Split Pared;26162564;DNI;Natural
+261;VRV;30426771;DNI;Natural
+371;Ventilador Tubular;20016514237;RUC;Jurídico
+56;VRV;44191656;DNI;Natural
+85;Ventilador Centrífugo;63554229;DNI;Natural
+227;Rejilla de Retorno;28464595;DNI;Natural
+298;Split Piso Techo;14321179;DNI;Natural
+426;VRV;20885384856;RUC;Jurídico
+256;Split Ducto;23027948;DNI;Natural
+360;VRF;20023634763;RUC;Jurídico
+79;Split Pared;61912909;DNI;Natural
+46;Rejilla de Retorno;79167686;DNI;Natural
+80;Ventilador Tubular;95741720;DNI;Natural
+328;Split Piso Techo;20196270452;RUC;Jurídico
+157;Circular Residencial ;42291896;DNI;Natural
+318;Termostatos;20981104924;RUC;Jurídico
+301;Ventana;20585775210;RUC;Jurídico
+25;Ventana;95311295;DNI;Natural
+118;Split Piso Techo;49534418;DNI;Natural
+235;Ventilador Industrial;14676794;DNI;Natural
+476;Ventilador Centrífugo;20951264459;RUC;Jurídico
+272;Cortina de Aire Industrial;50820592;DNI;Natural
+439;Ventana;20793277546;RUC;Jurídico
+199;Filtro Hepa;96049172;DNI;Natural
+158;Helicocentrífugo Comercial ;93587805;DNI;Natural
+111;Aislamiento Térmico;29289996;DNI;Natural
+311;Cortina de Aire ;20079447253;RUC;Jurídico
+95;Termostatos;76668529;DNI;Natural
+404;Split Piso Techo;20480847588;RUC;Jurídico
+159;Split Piso Techo;71650903;DNI;Natural
+492;Bomba de Condensado;20081143811;RUC;Jurídico
+409;Cortina de Aire ;20095828050;RUC;Jurídico
+359;Cortina de Aire ;20062728268;RUC;Jurídico
+465;Válvula de Servicio;20659097567;RUC;Jurídico
+100;Split Ducto;41819332;DNI;Natural
+469;Helicocentrífugo Comercial ;20084262886;RUC;Jurídico
+221;VRV;69813522;DNI;Natural
+222;Helicocentrífugo Comercial ;76863998;DNI;Natural
+120;Ducto Flexible;43440875;DNI;Natural
+113;Helicocentrífugo Residencial;42933485;DNI;Natural
+122;Rejilla Lineal;29691785;DNI;Natural
+153;Ventilador Industrial;37474632;DNI;Natural
+195;Termostatos;34582754;DNI;Natural
+14;Ventana;60625918;DNI;Natural
+305;Split Ducto;20981428322;RUC;Jurídico
+304;Cortina de Aire Industrial;20190026008;RUC;Jurídico
+120;Ventilador Tubular;43440875;DNI;Natural
+34;Split Piso Techo;44287974;DNI;Natural
+71;Helicocentrífugo Residencial;68257995;DNI;Natural
+487;Ventilador Centrífugo;20061424755;RUC;Jurídico
+412;Split Piso Techo;20930474841;RUC;Jurídico
+356;Fan Coil;20536403325;RUC;Jurídico
+481;Termostatos;20445279562;RUC;Jurídico
+252;Split Pared;42750834;DNI;Natural
+87;Helicocentrífugo Silent  ;85114956;DNI;Natural
+339;Ventilador Centrífugo;20978526621;RUC;Jurídico
+280;Termostatos;55823923;DNI;Natural
+354;Cinta de Aluminio;20143053557;RUC;Jurídico
+358;Helicocentrífugo Comercial ;20686795534;RUC;Jurídico
+402;VRV;20165212174;RUC;Jurídico
+181;Cortina de Aire ;56711959;DNI;Natural
+22;Helicocentrífugo Silent  ;80024975;DNI;Natural
+293;VRV;58963707;DNI;Natural
+138;Ventilador Industrial;27633544;DNI;Natural
+434;Helicocentrífugo Silent  ;20736143708;RUC;Jurídico
+204;Circular Residencial ;78447755;DNI;Natural
+340;Helicocentrífugo Residencial;20824752378;RUC;Jurídico
+267;Gas Refrigerante;92646700;DNI;Natural
+344;Rejilla Multifuncional;20138423806;RUC;Jurídico
+424;Cortina de Aire ;20025625575;RUC;Jurídico
+491;Circular Residencial ;20742934972;RUC;Jurídico
+252;Helicocentrífugo Residencial;42750834;DNI;Natural
+202;Tipo Paquete;38281291;DNI;Natural
+259;Tipo Paquete;68694927;DNI;Natural
+7;Ventana;56679144;DNI;Natural
+255;Filtro de Poliester;45596269;DNI;Natural
+421;Cassette;20139369133;RUC;Jurídico
+345;Helicocentrífugo Residencial;20367696161;RUC;Jurídico
+365;Cortina de Aire Industrial;20882109726;RUC;Jurídico
+264;Helicocentrífugo Silent  ;28946107;DNI;Natural
+135;VRV;45696556;DNI;Natural
+214;Helicocentrífugo Residencial;33222507;DNI;Natural
+270;Tipo Paquete;60791743;DNI;Natural
+441;Split Piso Techo;20384943554;RUC;Jurídico
+400;VRV;20933971732;RUC;Jurídico
+357;VRF;20139488893;RUC;Jurídico
+255;Ventana;45596269;DNI;Natural
+442;Helicocentrífugo Residencial;20230956922;RUC;Jurídico
+189;Ventilador Tubular;55361139;DNI;Natural
+42;Rejilla Lineal;21353357;DNI;Natural
+474;Termostatos;20219263870;RUC;Jurídico
+394;Repuestos;20210827617;RUC;Jurídico
+192;VRF;35850470;DNI;Natural
+379;Ventilador Tubular;20267043561;RUC;Jurídico
+109;Rejilla Circular;80625314;DNI;Natural
+365;Helicocentrífugo Comercial ;20882109726;RUC;Jurídico
+488;Filtro Metálico;20855392695;RUC;Jurídico
+442;Split Piso Techo;20230956922;RUC;Jurídico
+76;Circular Residencial ;85378850;DNI;Natural
+213;Presostato;66429311;DNI;Natural
+485;Split Ducto;20568680306;RUC;Jurídico
+263;Helicocentrífugo Silent  ;49114653;DNI;Natural
+456;Ventana;20017998935;RUC;Jurídico
+242;Ventilador Tubular;78376531;DNI;Natural
+15;Axial Residencial;50685872;DNI;Natural
+496;Ventilador Centrífugo;20542289305;RUC;Jurídico
+55;VRF;36378300;DNI;Natural
+231;Cassette;33536207;DNI;Natural
+448;Ventilador Tubular;20814877695;RUC;Jurídico
+166;Split Pared;48632810;DNI;Natural
+14;Cinta de Aluminio;60625918;DNI;Natural
+395;Helicocentrífugo Silent  ;20739457532;RUC;Jurídico
+468;Helicocentrífugo Silent  ;20425095574;RUC;Jurídico
+394;Cortina de Aire ;20210827617;RUC;Jurídico
+17;Ventana;23814246;DNI;Natural
+333;Bomba de Condensado;20569841805;RUC;Jurídico
+457;Axial Residencial;20018155321;RUC;Jurídico
+373;Fan Coil;20773274193;RUC;Jurídico
+46;Ducto Rectangular;79167686;DNI;Natural
+434;Termostatos;20736143708;RUC;Jurídico
+269;Rejilla 4 vías;45668624;DNI;Natural
+231;Cortina de Aire Industrial;33536207;DNI;Natural
+270;Fan Coil;60791743;DNI;Natural
+228;Ventilador Centrífugo;22840497;DNI;Natural
+155;Termostatos;35826388;DNI;Natural
+182;Split Ducto;41878223;DNI;Natural
+326;Ventilador Centrífugo;20553338373;RUC;Jurídico
+324;Fan Coil;20042793047;RUC;Jurídico
+188;Split Piso Techo;40639576;DNI;Natural
+5;Termostatos;10236637;DNI;Natural
+95;Cassette;76668529;DNI;Natural
+490;Rejilla 2 vías;20981911368;RUC;Jurídico
+176;Filtro Deshumedecedor;44033410;DNI;Natural
+293;VRF;58963707;DNI;Natural
+390;Ventilador Industrial;20122294716;RUC;Jurídico
+443;Fan Coil;20359749202;RUC;Jurídico
+81;Rejilla Lineal;24532220;DNI;Natural
+310;Repuestos;20421245413;RUC;Jurídico
+361;Cassette;20397858753;RUC;Jurídico
+306;Visor Líquido;20681819351;RUC;Jurídico
+180;Tipo Paquete;85138348;DNI;Natural
+252;Visor Líquido;42750834;DNI;Natural
+463;Circular Residencial ;20999194120;RUC;Jurídico
+349;Split Piso Techo;20826989970;RUC;Jurídico
+336;Circular Residencial ;20561816645;RUC;Jurídico
+461;Rejilla 1 vía;20760504260;RUC;Jurídico
+480;Termostatos;20257511937;RUC;Jurídico
+74;Helicocentrífugo Comercial ;90718648;DNI;Natural
+227;Manguera;28464595;DNI;Natural
+298;Helicocentrífugo Residencial;14321179;DNI;Natural
+347;Fan Coil;20386780999;RUC;Jurídico
+7;VRF;56679144;DNI;Natural
+122;Helicocentrífugo Residencial;29691785;DNI;Natural
+196;Ventilador Industrial;13128671;DNI;Natural
+357;Tipo Paquete;20139488893;RUC;Jurídico
+287;Helicocentrífugo Comercial ;33321414;DNI;Natural
+481;Cinta de Aluminio;20445279562;RUC;Jurídico
+472;Ventilador Industrial;20799907521;RUC;Jurídico
+320;VRF;20482938625;RUC;Jurídico
+114;VRV;85095668;DNI;Natural
+207;Split Piso Techo;63992566;DNI;Natural
+438;Tipo Paquete;20267074315;RUC;Jurídico
+151;Tubería de Cobre;69916654;DNI;Natural
+78;Split Pared;83431347;DNI;Natural
+248;Cassette;99439033;DNI;Natural
+348;VRF;20618321823;RUC;Jurídico
+91;Rejilla 2 vías;77876908;DNI;Natural
+158;Helicocentrífugo Residencial;93587805;DNI;Natural
+170;Cassette;92997107;DNI;Natural
+10;Cassette;90520010;DNI;Natural
+120;Helicocentrífugo Residencial;43440875;DNI;Natural
+259;Fan Coil;68694927;DNI;Natural
+391;Helicocentrífugo Comercial ;20029839477;RUC;Jurídico
+14;Filtro Metálico;60625918;DNI;Natural
+478;VRF;20011425290;RUC;Jurídico
+351;Válvula de Servicio;20995149078;RUC;Jurídico
+99;Visor Líquido;12123795;DNI;Natural
+333;Split Pared;20569841805;RUC;Jurídico
+36;Termostatos;81367734;DNI;Natural
+18;Split Pared;59269700;DNI;Natural
+362;Cortina de Aire ;20828583231;RUC;Jurídico
+436;Cortina de Aire ;20394865120;RUC;Jurídico
+141;Ventilador Centrífugo;81953903;DNI;Natural
+286;Split Piso Techo;14976828;DNI;Natural
+164;Rejilla 3 vías;87547672;DNI;Natural
+274;Split Ducto;96415257;DNI;Natural
+92;Helicocentrífugo Residencial;65855593;DNI;Natural
+179;Ducto Circular;81194316;DNI;Natural
+363;Ventilador Tubular;20147269508;RUC;Jurídico
+256;Axial Residencial;23027948;DNI;Natural
+106;VRF;94270379;DNI;Natural
+177;Tubería de Cobre;86929047;DNI;Natural
+284;Válvula de Servicio;87423665;DNI;Natural
+373;Cassette;20773274193;RUC;Jurídico
+82;Split Pared;56910649;DNI;Natural
+110;Ventilador Tubular;14667326;DNI;Natural
+43;Llave de Paso;22148550;DNI;Natural
+296;Rejilla Rotacional;63267341;DNI;Natural
+67;Helicocentrífugo Comercial ;43171911;DNI;Natural
+348;Rejilla Rotacional;20618321823;RUC;Jurídico
+393;Ventana;20098810404;RUC;Jurídico
+261;Axial Residencial;30426771;DNI;Natural
+413;Ventana;20264950266;RUC;Jurídico
+379;Split Ducto;20267043561;RUC;Jurídico
+262;Rejilla Multifuncional;73995615;DNI;Natural
+289;Split Piso Techo;15679989;DNI;Natural
+141;Tubería de Cobre;81953903;DNI;Natural
+118;Presostato;49534418;DNI;Natural
+463;Ventilador Industrial;20999194120;RUC;Jurídico
+237;Tubería de Cobre;47161799;DNI;Natural
+176;VRF;44033410;DNI;Natural
+497;Circular Residencial ;20113788142;RUC;Jurídico
+322;Filtro Deshumedecedor;20979752891;RUC;Jurídico
+140;VRV;69386064;DNI;Natural
+193;Llave de Paso;55546166;DNI;Natural
+80;Cortina de Aire ;95741720;DNI;Natural
+163;VRV;53489003;DNI;Natural
+190;VRV;41616878;DNI;Natural
+444;Split Ducto;20137384066;RUC;Jurídico
+459;Filtro de Poliester;20538757529;RUC;Jurídico
+429;Fan Coil;20067490354;RUC;Jurídico
+35;Split Piso Techo;68775546;DNI;Natural
+383;VRV;20840788663;RUC;Jurídico
+317;VRF;20366392285;RUC;Jurídico
+365;Termostatos;20882109726;RUC;Jurídico
+26;Ventilador Centrífugo;60833131;DNI;Natural
+301;Tipo Paquete;20585775210;RUC;Jurídico
+256;Cinta de Aluminio;23027948;DNI;Natural
+369;Circular Residencial ;20278129282;RUC;Jurídico
+216;VRV;84236271;DNI;Natural
+335;Fan Coil;20087425209;RUC;Jurídico
+451;Cortina de Aire Industrial;20810019416;RUC;Jurídico
+431;Cortina de Aire ;20370608419;RUC;Jurídico
+252;Helicocentrífugo Residencial;42750834;DNI;Natural
+175;Axial Residencial;23241970;DNI;Natural
+109;Split Piso Techo;80625314;DNI;Natural
+101;Filtro Hepa;98343688;DNI;Natural
+300;Ventana;20144707;DNI;Natural
+206;Ventilador Industrial;53926648;DNI;Natural
+176;Cortina de Aire Industrial;44033410;DNI;Natural
+427;Split Ducto;20597971343;RUC;Jurídico
+356;Ventilador Industrial;20536403325;RUC;Jurídico
+27;Ducto Circular;43851264;DNI;Natural
+59;Rejilla Multifuncional;41682933;DNI;Natural
+397;Axial Residencial;20790347552;RUC;Jurídico
+448;Helicocentrífugo Comercial ;20814877695;RUC;Jurídico
+108;Helicocentrífugo Comercial ;40649144;DNI;Natural
+203;Visor Líquido;63939894;DNI;Natural
+44;Filtro de Poliester;83581653;DNI;Natural
+430;Circular Residencial ;20662432978;RUC;Jurídico
+408;Tipo Paquete;20682194310;RUC;Jurídico
+206;VRF;53926648;DNI;Natural
+183;Ventilador Tubular;93020275;DNI;Natural
+66;Gas Refrigerante;13965949;DNI;Natural
+358;Split Ducto;20686795534;RUC;Jurídico
+287;Split Ducto;33321414;DNI;Natural
+218;Ventilador Industrial;21957150;DNI;Natural
+123;Cortina de Aire ;66363983;DNI;Natural
+365;Ventilador Centrífugo;20882109726;RUC;Jurídico
+437;Split Ducto;20986546382;RUC;Jurídico
+344;Rejilla Doble Deflexión;20138423806;RUC;Jurídico
+24;Ducto Circular;27554396;DNI;Natural
+55;Tubería de Cobre;36378300;DNI;Natural
+266;Cortina de Aire Industrial;94746818;DNI;Natural
+307;Tipo Paquete;20815012837;RUC;Jurídico
+315;Cortina de Aire Industrial;20638068302;RUC;Jurídico
+365;Helicocentrífugo Silent  ;20882109726;RUC;Jurídico
+468;Helicocentrífugo Silent  ;20425095574;RUC;Jurídico
+67;Rejilla 1 vía;43171911;DNI;Natural
+400;Ventilador Industrial;20933971732;RUC;Jurídico
+442;Tipo Paquete;20230956922;RUC;Jurídico
+376;Ventana;20675673993;RUC;Jurídico
+46;Axial Residencial;79167686;DNI;Natural
+277;Ventilador Industrial;46833227;DNI;Natural
+76;VRF;85378850;DNI;Natural
+86;Axial Residencial;69161940;DNI;Natural
+78;Axial Residencial;83431347;DNI;Natural
+433;Cortina de Aire ;20574651279;RUC;Jurídico
+417;Cassette;20948051222;RUC;Jurídico
+255;Helicocentrífugo Silent  ;45596269;DNI;Natural
+457;Fan Coil;20018155321;RUC;Jurídico
+307;Rejilla Lineal;20815012837;RUC;Jurídico
+436;Split Ducto;20394865120;RUC;Jurídico
+17;Helicocentrífugo Silent  ;23814246;DNI;Natural
+100;Ventana;41819332;DNI;Natural
+31;Helicocentrífugo Residencial;40496568;DNI;Natural
+240;Tipo Paquete;93511900;DNI;Natural
+351;Filtro Metálico;20995149078;RUC;Jurídico
+491;Ventilador Centrífugo;20742934972;RUC;Jurídico
+111;Cassette;29289996;DNI;Natural
+156;Split Ducto;56671562;DNI;Natural
+14;Cortina de Aire Industrial;60625918;DNI;Natural
+346;Fan Coil;20310193926;RUC;Jurídico
+440;Ventana;20749006345;RUC;Jurídico
+239;Cortina de Aire Industrial;87713081;DNI;Natural
+349;Circular Residencial ;20826989970;RUC;Jurídico
+210;Helicocentrífugo Comercial ;74751993;DNI;Natural
+295;Cinta de Aluminio;82536780;DNI;Natural
+446;Filtro Metálico;20552892196;RUC;Jurídico
+332;Ventilador Centrífugo;20099821963;RUC;Jurídico
+240;Ventilador Tubular;93511900;DNI;Natural
+358;Cortina de Aire Industrial;20686795534;RUC;Jurídico
+398;Ventilador Tubular;20594959515;RUC;Jurídico
+490;VRF;20981911368;RUC;Jurídico
+20;Helicocentrífugo Comercial ;97131621;DNI;Natural
+447;Manguera;20640012631;RUC;Jurídico
+246;Ventilador Industrial;17861202;DNI;Natural
+320;Helicocentrífugo Comercial ;20482938625;RUC;Jurídico
+374;Ventana;20651141039;RUC;Jurídico
+278;Split Piso Techo;13076752;DNI;Natural
+417;Split Ducto;20948051222;RUC;Jurídico
+120;Ventilador Centrífugo;43440875;DNI;Natural
+171;Tipo Paquete;17488253;DNI;Natural
+114;Split Pared;85095668;DNI;Natural
+117;Cortina de Aire ;17567520;DNI;Natural
+474;Rejilla 2 vías;20219263870;RUC;Jurídico
+130;Fan Coil;23116375;DNI;Natural
+425;Axial Residencial;20552961079;RUC;Jurídico
+462;Fan Coil;20056752611;RUC;Jurídico
+263;Manguera;49114653;DNI;Natural
+279;Cassette;32180071;DNI;Natural
+330;Ventilador Industrial;20224680532;RUC;Jurídico
+65;Cassette;42154297;DNI;Natural
+32;Mangas;56010947;DNI;Natural
+305;Cassette;20981428322;RUC;Jurídico
+313;Split Piso Techo;20744113510;RUC;Jurídico
+222;Tubería de Cobre;76863998;DNI;Natural
+142;VRF;59854728;DNI;Natural
+184;Split Piso Techo;81381077;DNI;Natural
+208;Split Pared;55863357;DNI;Natural
+304;Llave de Paso;20190026008;RUC;Jurídico
+5;Helicocentrífugo Silent  ;10236637;DNI;Natural
+1;Split Ducto;20371555;DNI;Natural
+2;Split Pared;45048096;DNI;Natural
+3;VRV;59523429;DNI;Natural
+4;Fan Coil;87834304;DNI;Natural
+5;Split Pared;10236637;DNI;Natural
+6;Axial Residencial;31935535;DNI;Natural
+7;Circular Residencial ;56679144;DNI;Natural
+8;Termostatos;74954129;DNI;Natural
+9;Tipo Paquete;35956616;DNI;Natural
+10;VRV;90520010;DNI;Natural
+11;Ventilador Tubular;84389342;DNI;Natural
+12;VRV;62481694;DNI;Natural
+13;Helicocentrífugo Residencial;45817517;DNI;Natural
+14;Llave de Paso;60625918;DNI;Natural
+15;Ventilador Centrífugo;50685872;DNI;Natural
+16;Cortina de Aire Industrial;34695713;DNI;Natural
+17;VRV;23814246;DNI;Natural
+18;Ventilador Tubular;59269700;DNI;Natural
+19;VRV;75277155;DNI;Natural
+20;Cortina de Aire Industrial;97131621;DNI;Natural
+21;Axial Residencial;19541819;DNI;Natural
+22;Termostatos;80024975;DNI;Natural
+23;Rejilla Doble Deflexión;21958280;DNI;Natural
+24;Ventilador Centrífugo;27554396;DNI;Natural
+25;Split Ducto;95311295;DNI;Natural
+26;Helicocentrífugo Comercial ;60833131;DNI;Natural
+27;Axial Residencial;43851264;DNI;Natural
+28;Axial Residencial;70347136;DNI;Natural
+29;Split Ducto;41795693;DNI;Natural
+30;Tipo Paquete;97535228;DNI;Natural
+31;VRV;40496568;DNI;Natural
+32;Termostatos;56010947;DNI;Natural
+33;Split Ducto;93956514;DNI;Natural
+34;Cortina de Aire Industrial;44287974;DNI;Natural
+35;VRV;68775546;DNI;Natural
+36;Tipo Paquete;81367734;DNI;Natural
+37;Tipo Paquete;47397556;DNI;Natural
+38;Split Ducto;10153244;DNI;Natural
+39;VRV;16019965;DNI;Natural
+40;Cortina de Aire ;84277654;DNI;Natural
+41;Split Ducto;63548906;DNI;Natural
+42;Circular Residencial ;21353357;DNI;Natural
+43;Presostato;22148550;DNI;Natural
+44;Termostatos;83581653;DNI;Natural
+45;Tipo Paquete;61189485;DNI;Natural
+46;Termostatos;79167686;DNI;Natural
+47;Fan Coil;17761403;DNI;Natural
+48;Circular Residencial ;39354362;DNI;Natural
+49;Cassette;40797344;DNI;Natural
+50;Ventilador Centrífugo;50252311;DNI;Natural
+51;Ventilador Centrífugo;72480617;DNI;Natural
+52;Tipo Paquete;79370509;DNI;Natural
+53;Tipo Paquete;19291679;DNI;Natural
+54;Ventilador Centrífugo;78897504;DNI;Natural
+55;Cortina de Aire ;36378300;DNI;Natural
+56;Ventilador Industrial;44191656;DNI;Natural
+57;Circular Residencial ;75923135;DNI;Natural
+58;Cortina de Aire ;10183653;DNI;Natural
+59;Ventana;41682933;DNI;Natural
+60;Rejilla Lineal;26162564;DNI;Natural
+61;Ventilador Industrial;89535911;DNI;Natural
+62;Cortina de Aire ;42067921;DNI;Natural
+63;Rejilla Rotacional;34762965;DNI;Natural
+64;Split Ducto;76253251;DNI;Natural
+65;Cortina de Aire Industrial;42154297;DNI;Natural
+66;Split Piso Techo;13965949;DNI;Natural
+67;Rejilla de Retorno;43171911;DNI;Natural
+68;Ventilador Centrífugo;19142565;DNI;Natural
+69;Ducto Flexible;18910807;DNI;Natural
+70;Cortina de Aire Industrial;31345476;DNI;Natural
+71;Tipo Paquete;68257995;DNI;Natural
+72;Ventilador Centrífugo;21798318;DNI;Natural
+73;Cassette;12130198;DNI;Natural
+74;Cassette;90718648;DNI;Natural
+75;Fan Coil;53755180;DNI;Natural
+76;Helicocentrífugo Comercial ;85378850;DNI;Natural
+77;Ventana;11866258;DNI;Natural
+78;Repuestos;83431347;DNI;Natural
+79;Split Pared;61912909;DNI;Natural
+80;Ventilador Tubular;95741720;DNI;Natural
+81;Termostatos;24532220;DNI;Natural
+82;Axial Residencial;56910649;DNI;Natural
+83;Cortina de Aire Industrial;36378651;DNI;Natural
+84;Visor Líquido;92037340;DNI;Natural
+85;Tipo Paquete;63554229;DNI;Natural
+86;Ventilador Industrial;69161940;DNI;Natural
+87;Split Ducto;85114956;DNI;Natural
+88;Ventilador Centrífugo;49115068;DNI;Natural
+89;Rejilla Rotacional;65398052;DNI;Natural
+90;Split Pared;78424484;DNI;Natural
+91;Cassette;77876908;DNI;Natural
+92;Circular Residencial ;65855593;DNI;Natural
+93;Mangas;18659923;DNI;Natural
+94;Split Piso Techo;12127627;DNI;Natural
+95;Cortina de Aire Industrial;76668529;DNI;Natural
+96;Cassette;28645907;DNI;Natural
+97;Circular Residencial ;55562141;DNI;Natural
+98;Helicocentrífugo Silent  ;53117129;DNI;Natural
+99;Split Pared;12123795;DNI;Natural
+100;Helicocentrífugo Silent  ;41819332;DNI;Natural
+101;Termostatos;98343688;DNI;Natural
+102;VRF;14320905;DNI;Natural
+103;Ventana;45591692;DNI;Natural
+104;Tipo Paquete;60034688;DNI;Natural
+105;Termostatos;16727545;DNI;Natural
+106;Fan Coil;94270379;DNI;Natural
+107;Ventana;16271366;DNI;Natural
+108;Split Ducto;40649144;DNI;Natural
+109;Ventilador Centrífugo;80625314;DNI;Natural
+110;Ventana;14667326;DNI;Natural
+111;Helicocentrífugo Comercial ;29289996;DNI;Natural
+112;Cortina de Aire ;97695670;DNI;Natural
+113;Ventilador Centrífugo;42933485;DNI;Natural
+114;Ventana;85095668;DNI;Natural
+115;Rejilla Lineal;81517865;DNI;Natural
+116;Axial Residencial;98783613;DNI;Natural
+117;Filtro Hepa;17567520;DNI;Natural
+118;Split Pared;49534418;DNI;Natural
+119;Axial Residencial;85939187;DNI;Natural
+120;Ducto Rectangular;43440875;DNI;Natural
+121;Tipo Paquete;98155033;DNI;Natural
+122;Split Piso Techo;29691785;DNI;Natural
+123;Rejilla 4 vías;66363983;DNI;Natural
+124;Split Piso Techo;13993719;DNI;Natural
+125;Rejilla Lineal;31291569;DNI;Natural
+126;Fan Coil;26069570;DNI;Natural
+127;Helicocentrífugo Comercial ;27078026;DNI;Natural
+128;Split Piso Techo;46549836;DNI;Natural
+129;Ventana;74767090;DNI;Natural
+130;Ventilador Centrífugo;23116375;DNI;Natural
+131;Rejilla Doble Deflexión;76312610;DNI;Natural
+132;Helicocentrífugo Silent  ;32746615;DNI;Natural
+133;Termostatos;70578236;DNI;Natural
+134;Válvula de Servicio;83519788;DNI;Natural
+135;Axial Residencial;45696556;DNI;Natural
+136;Split Pared;91262933;DNI;Natural
+137;Ventilador Industrial;98611455;DNI;Natural
+138;Axial Residencial;27633544;DNI;Natural
+139;Termostatos;89067604;DNI;Natural
+140;Ventilador Industrial;69386064;DNI;Natural
+141;VRV;81953903;DNI;Natural
+142;Cortina de Aire Industrial;59854728;DNI;Natural
+143;Helicocentrífugo Silent  ;90584094;DNI;Natural
+144;Helicocentrífugo Comercial ;82794601;DNI;Natural
+145;Helicocentrífugo Residencial;85662745;DNI;Natural
+146;Helicocentrífugo Comercial ;46392535;DNI;Natural
+147;Termostatos;50895142;DNI;Natural
+148;Tipo Paquete;36487555;DNI;Natural
+149;Axial Residencial;33416990;DNI;Natural
+150;VRF;99085845;DNI;Natural
+151;Cortina de Aire Industrial;69916654;DNI;Natural
+152;Cassette;25210545;DNI;Natural
+153;Ducto Circular;37474632;DNI;Natural
+154;Ventilador Centrífugo;46362851;DNI;Natural
+155;Helicocentrífugo Comercial ;35826388;DNI;Natural
+156;Ventilador Centrífugo;56671562;DNI;Natural
+157;Termostatos;42291896;DNI;Natural
+158;Split Piso Techo;93587805;DNI;Natural
+159;Tipo Paquete;71650903;DNI;Natural
+160;VRF;64013255;DNI;Natural
+161;Split Piso Techo;92296961;DNI;Natural
+162;Helicocentrífugo Residencial;33516913;DNI;Natural
+163;Split Pared;53489003;DNI;Natural
+164;Cortina de Aire Industrial;87547672;DNI;Natural
+165;Mangas;61991921;DNI;Natural
+166;Ventilador Centrífugo;48632810;DNI;Natural
+167;Ventana;97964909;DNI;Natural
+168;Helicocentrífugo Silent  ;27785930;DNI;Natural
+169;Ventana;31920692;DNI;Natural
+170;Ventilador Industrial;92997107;DNI;Natural
+171;Ducto Circular;17488253;DNI;Natural
+172;Termostatos;93365932;DNI;Natural
+173;Helicocentrífugo Residencial;41032798;DNI;Natural
+174;Ventilador Centrífugo;34527965;DNI;Natural
+175;Split Piso Techo;23241970;DNI;Natural
+176;Cassette;44033410;DNI;Natural
+177;Cortina de Aire Industrial;86929047;DNI;Natural
+178;Split Ducto;26419001;DNI;Natural
+179;Helicocentrífugo Comercial ;81194316;DNI;Natural
+180;Ventilador Tubular;85138348;DNI;Natural
+181;Fan Coil;56711959;DNI;Natural
+182;Helicocentrífugo Residencial;41878223;DNI;Natural
+183;VRV;93020275;DNI;Natural
+184;Helicocentrífugo Comercial ;81381077;DNI;Natural
+185;Ventilador Centrífugo;10317070;DNI;Natural
+186;Axial Residencial;85089186;DNI;Natural
+187;Gas Refrigerante;79875576;DNI;Natural
+188;Rejilla Multifuncional;40639576;DNI;Natural
+189;Ventana;55361139;DNI;Natural
+190;Tipo Paquete;41616878;DNI;Natural
+191;Split Pared;59825302;DNI;Natural
+192;Ventilador Industrial;35850470;DNI;Natural
+193;Ventilador Industrial;55546166;DNI;Natural
+194;Split Pared;58788816;DNI;Natural
+195;Ventilador Industrial;34582754;DNI;Natural
+196;Cortina de Aire ;13128671;DNI;Natural
+197;Fan Coil;36053783;DNI;Natural
+198;Split Ducto;51711051;DNI;Natural
+199;VRV;96049172;DNI;Natural
+200;Cassette;33929015;DNI;Natural
+201;Split Ducto;47047640;DNI;Natural
+202;Helicocentrífugo Silent  ;38281291;DNI;Natural
+203;Ventana;63939894;DNI;Natural
+204;VRF;78447755;DNI;Natural
+205;VRF;96770551;DNI;Natural
+206;Split Piso Techo;53926648;DNI;Natural
+207;Rejilla Lineal;63992566;DNI;Natural
+208;Split Pared;55863357;DNI;Natural
+209;Helicocentrífugo Comercial ;32125670;DNI;Natural
+210;Cassette;74751993;DNI;Natural
+211;VRF;89010655;DNI;Natural
+212;Fan Coil;87185129;DNI;Natural
+213;Fan Coil;66429311;DNI;Natural
+214;Split Piso Techo;33222507;DNI;Natural
+215;Ventilador Tubular;38160502;DNI;Natural
+216;Cassette;84236271;DNI;Natural
+217;Helicocentrífugo Residencial;84872425;DNI;Natural
+218;Split Piso Techo;21957150;DNI;Natural
+219;Tipo Paquete;16743754;DNI;Natural
+220;Fan Coil;45924894;DNI;Natural
+221;Split Ducto;69813522;DNI;Natural
+222;Cassette;76863998;DNI;Natural
+223;Rejilla Multifuncional;54355139;DNI;Natural
+224;Ducto Flexible;94389470;DNI;Natural
+225;VRF;31317224;DNI;Natural
+226;Cassette;38161990;DNI;Natural
+227;Rejilla Lineal;28464595;DNI;Natural
+228;Termostatos;22840497;DNI;Natural
+229;VRV;43929606;DNI;Natural
+230;Split Pared;99040470;DNI;Natural
+231;Ventilador Centrífugo;33536207;DNI;Natural
+232;Fan Coil;29884380;DNI;Natural
+233;Circular Residencial ;83464777;DNI;Natural
+234;Split Pared;96882930;DNI;Natural
+235;Split Piso Techo;14676794;DNI;Natural
+236;Helicocentrífugo Residencial;27198254;DNI;Natural
+237;Ducto Rectangular;47161799;DNI;Natural
+238;Ventana;50833522;DNI;Natural
+239;Axial Residencial;87713081;DNI;Natural
+240;Cassette;93511900;DNI;Natural
+241;Cassette;29061927;DNI;Natural
+242;Manguera;78376531;DNI;Natural
+243;Ducto Circular;33115993;DNI;Natural
+244;Tipo Paquete;68574489;DNI;Natural
+245;Split Pared;90228711;DNI;Natural
+246;Split Piso Techo;17861202;DNI;Natural
+247;Axial Residencial;80472825;DNI;Natural
+248;Ventana;99439033;DNI;Natural
+249;Ventilador Tubular;77461152;DNI;Natural
+250;Circular Residencial ;43031062;DNI;Natural
+251;Rejilla Circular;65425137;DNI;Natural
+252;Cortina de Aire ;42750834;DNI;Natural
+253;Cortina de Aire Industrial;28776480;DNI;Natural
+254;Cortina de Aire Industrial;29962348;DNI;Natural
+255;Ducto Circular;45596269;DNI;Natural
+256;Split Ducto;23027948;DNI;Natural
+257;Split Pared;91328517;DNI;Natural
+258;Rejilla 2 vías;40275066;DNI;Natural
+259;Ventana;68694927;DNI;Natural
+260;Cortina de Aire ;44883589;DNI;Natural
+261;Válvula de Servicio;30426771;DNI;Natural
+262;Helicocentrífugo Comercial ;73995615;DNI;Natural
+263;Split Pared;49114653;DNI;Natural
+264;Helicocentrífugo Comercial ;28946107;DNI;Natural
+265;Rejilla Rotacional;68182889;DNI;Natural
+266;Split Piso Techo;94746818;DNI;Natural
+267;Ventilador Tubular;92646700;DNI;Natural
+268;Cortina de Aire Industrial;34528742;DNI;Natural
+269;Aislamiento Térmico;45668624;DNI;Natural
+270;Filtro de Poliester;60791743;DNI;Natural
+271;Termostatos;13395402;DNI;Natural
+272;Helicocentrífugo Comercial ;50820592;DNI;Natural
+273;Cortina de Aire ;37959691;DNI;Natural
+274;Split Piso Techo;96415257;DNI;Natural
+275;Llave de Paso;36451724;DNI;Natural
+276;Ventana;72089232;DNI;Natural
+277;Fan Coil;46833227;DNI;Natural
+278;Helicocentrífugo Comercial ;13076752;DNI;Natural
+279;Gas Refrigerante;32180071;DNI;Natural
+280;Cortina de Aire ;55823923;DNI;Natural
+281;Termostatos;34863354;DNI;Natural
+282;VRV;27698755;DNI;Natural
+283;VRF;61317750;DNI;Natural
+284;Ventilador Industrial;87423665;DNI;Natural
+285;Ventilador Centrífugo;48867007;DNI;Natural
+286;Cortina de Aire ;14976828;DNI;Natural
+287;Helicocentrífugo Comercial ;33321414;DNI;Natural
+288;Fan Coil;15526717;DNI;Natural
+289;Rejilla Doble Deflexión;15679989;DNI;Natural
+290;Cortina de Aire Industrial;84838466;DNI;Natural
+291;Rejilla 2 vías;86138743;DNI;Natural
+292;Helicocentrífugo Comercial ;49555466;DNI;Natural
+293;Tipo Paquete;58963707;DNI;Natural
+294;VRF;81119508;DNI;Natural
+295;Manguera;82536780;DNI;Natural
+296;Helicocentrífugo Residencial;63267341;DNI;Natural
+778;Ventilador Industrial;24656890;RUC;Jurídico
+779;Split Piso Techo;24610185;DNI;Natural
+780;Cassette;85998223;DNI;Natural
+781;Split Piso Techo;1511721;RUC;Jurídico
+782;Ventilador Tubular;88052173;DNI;Natural
+783;Termostatos;28530267;RUC;Jurídico
+784;Ventilador Industrial;91956958;RUC;Jurídico
+785;Fan Coil;26906142;RUC;Jurídico
+786;Split Pared;44511997;RUC;Jurídico
+787;Gas Refrigerante;34481802;DNI;Natural
+788;VRF;95541049;RUC;Jurídico
+789;Split Ducto;32107316;DNI;Natural
+790;VRF;47598528;RUC;Jurídico
+791;Cortina de Aire Industrial;90398205;RUC;Jurídico
+792;VRV;84205783;DNI;Natural
+793;Presostato;82280577;RUC;Jurídico
+794;Ventana;82262251;RUC;Jurídico
+795;Split Piso Techo;93238681;DNI;Natural
+796;Split Piso Techo;36390591;DNI;Natural
+797;Ventilador Centrífugo;52630781;RUC;Jurídico
+798;VRV;5781873;DNI;Natural
+799;Aislamiento Térmico;92266657;DNI;Natural
+800;Ventilador Industrial;86028255;DNI;Natural
+801;Tubería de Cobre;76936363;DNI;Natural
+802;Rejilla de Retorno;73468888;RUC;Jurídico
+803;Ventana;30978466;DNI;Natural
+804;Rejilla 1 vía;7828821;RUC;Jurídico
+805;Cortina de Aire Industrial;36791978;DNI;Natural
+806;Termostatos;27724175;DNI;Natural
+807;Ventilador Tubular;92948449;RUC;Jurídico
+808;VRV;44936216;DNI;Natural
+809;Helicocentrífugo Comercial ;26457164;DNI;Natural
+810;Tubería de Cobre;94364029;RUC;Jurídico
+811;Filtro Metálico;3534226;RUC;Jurídico
+812;Split Ducto;96347342;RUC;Jurídico
+813;Fan Coil;93042722;RUC;Jurídico
+814;Rejilla 2 vías;45783980;DNI;Natural
+815;Ventana;21437848;RUC;Jurídico
+816;Rejilla 3 vías;5308186;DNI;Natural
+817;Axial Residencial;24793691;DNI;Natural
+818;Helicocentrífugo Silent  ;84050315;DNI;Natural
+819;Split Piso Techo;89417227;RUC;Jurídico
+820;Visor Líquido;97282215;RUC;Jurídico
+821;Split Piso Techo;49359188;RUC;Jurídico
+822;Split Piso Techo;80291566;DNI;Natural
+823;Split Ducto;53995087;DNI;Natural
+824;VRV;15255556;DNI;Natural
+825;Válvula de Servicio;65765930;DNI;Natural
+826;Cassette;30714419;DNI;Natural
+827;Cortina de Aire ;6768812;DNI;Natural
+828;Ventana;98471273;DNI;Natural
+829;Fan Coil;80847768;RUC;Jurídico
+830;Termostatos;4707251;RUC;Jurídico
+831;Cortina de Aire Industrial;29343622;RUC;Jurídico
+832;Fan Coil;67512963;RUC;Jurídico
+833;Termostatos;46697984;DNI;Natural
+834;Ventilador Industrial;87575930;RUC;Jurídico
+835;Cortina de Aire ;16282455;RUC;Jurídico
+836;Cassette;55182461;RUC;Jurídico
+837;Circular Residencial ;56263868;DNI;Natural
+838;Válvula de Servicio;12974877;DNI;Natural
+839;Fan Coil;10088066;RUC;Jurídico
+840;Cassette;4170759;RUC;Jurídico
+841;VRF;17850061;DNI;Natural
+842;Split Ducto;67076294;DNI;Natural
+843;Ducto Circular;18042083;DNI;Natural
+844;Termostatos;19016182;DNI;Natural
+845;Split Piso Techo;62627649;DNI;Natural
+846;Cassette;95944012;DNI;Natural
+847;VRV;29769857;RUC;Jurídico
+848;Split Pared;85835404;RUC;Jurídico
+849;Axial Residencial;10889898;RUC;Jurídico
+850;Ventilador Tubular;77254452;RUC;Jurídico
+851;Fan Coil;50252802;DNI;Natural
+852;Split Ducto;20143868;RUC;Jurídico
+853;Fan Coil;2426938;RUC;Jurídico
+854;Fan Coil;38876965;RUC;Jurídico
+855;Helicocentrífugo Silent  ;16189938;DNI;Natural
+856;Termostatos;67109430;RUC;Jurídico
+857;VRV;99810274;RUC;Jurídico
+858;VRF;98918625;RUC;Jurídico
+859;Termostatos;68238603;DNI;Natural
+860;Cassette;73389768;RUC;Jurídico
+861;Ventana;14018635;DNI;Natural
+862;Filtro Deshumedecedor;5398192;RUC;Jurídico
+863;Ventana;72636660;RUC;Jurídico
+864;Split Pared;31724637;RUC;Jurídico
+865;Rejilla Rotacional;16231573;RUC;Jurídico
+866;Split Piso Techo;54088712;RUC;Jurídico
+867;Helicocentrífugo Comercial ;36576088;DNI;Natural
+868;Termostatos;8495013;DNI;Natural
+869;Circular Residencial ;92255057;RUC;Jurídico
+870;Rejilla 1 vía;70076520;DNI;Natural
+871;Cortina de Aire Industrial;25544703;RUC;Jurídico
+872;Tipo Paquete;35099030;RUC;Jurídico
+873;Tipo Paquete;66831778;DNI;Natural
+874;Filtro Deshumedecedor;35896485;DNI;Natural
+875;VRF;36461458;DNI;Natural
+876;Split Piso Techo;73277198;RUC;Jurídico
+877;Ventana;84124948;RUC;Jurídico
+878;VRV;56091378;RUC;Jurídico
+879;Split Pared;99661695;RUC;Jurídico
+880;Split Pared;41023949;RUC;Jurídico
+881;VRV;80022600;DNI;Natural
+882;Circular Residencial ;93103857;DNI;Natural
+883;Split Pared;36997269;RUC;Jurídico
+884;Rejilla Multifuncional;62758221;RUC;Jurídico
+885;VRV;45533179;RUC;Jurídico
+886;Rejilla Doble Deflexión;71492680;DNI;Natural
+887;Termostatos;20281629;DNI;Natural
+888;Split Piso Techo;7691037;RUC;Jurídico
+889;Split Pared;9954572;DNI;Natural
+890;Tipo Paquete;92357605;DNI;Natural
+891;Tubería de Cobre;52368673;RUC;Jurídico
+892;Cassette;84228444;RUC;Jurídico
+893;Split Piso Techo;35053600;RUC;Jurídico
+894;Rejilla de Retorno;72346051;DNI;Natural
+895;Tipo Paquete;87907620;DNI;Natural
+896;Llave de Paso;46861278;RUC;Jurídico
+897;Axial Residencial;61273389;RUC;Jurídico
+898;Split Piso Techo;47389131;DNI;Natural
+899;Rejilla Doble Deflexión;38443625;DNI;Natural
+900;Ventilador Tubular;81685304;DNI;Natural
+901;Split Pared;75559185;RUC;Jurídico
+902;Split Ducto;10158818;DNI;Natural
+903;Helicocentrífugo Residencial;35181847;DNI;Natural
+904;Helicocentrífugo Residencial;25713894;DNI;Natural
+905;VRV;2373964;DNI;Natural
+906;VRF;15336772;DNI;Natural
+907;Split Ducto;33950305;RUC;Jurídico
+908;Ventilador Centrífugo;52239575;RUC;Jurídico
+909;Axial Residencial;92331913;DNI;Natural
+910;Termostatos;84610294;RUC;Jurídico
+911;Cortina de Aire ;94414114;DNI;Natural
+912;Visor Líquido;58100258;DNI;Natural
+913;VRV;28030825;RUC;Jurídico
+914;VRV;2734818;DNI;Natural
+915;Split Piso Techo;80476124;RUC;Jurídico
+916;Cinta de Aluminio;63301329;RUC;Jurídico
+917;Circular Residencial ;15768286;RUC;Jurídico
+918;Aislamiento Térmico;74581223;DNI;Natural
+919;Ventilador Centrífugo;56285949;DNI;Natural
+920;Cortina de Aire ;88984449;RUC;Jurídico
+921;Aislamiento Térmico;1276826;RUC;Jurídico
+922;Cortina de Aire ;60612462;RUC;Jurídico
+923;Ventana;18337140;DNI;Natural
+924;Ventilador Centrífugo;32019816;RUC;Jurídico
+925;VRF;84983658;DNI;Natural
+926;Cassette;6598740;DNI;Natural
+927;Rejilla 2 vías;26152690;DNI;Natural
+928;Cortina de Aire Industrial;85795258;DNI;Natural
+929;Split Pared;87835196;DNI;Natural
+930;Split Ducto;42084295;RUC;Jurídico
+931;Axial Residencial;30429947;RUC;Jurídico
+932;Filtro de Poliester;76029814;RUC;Jurídico
+933;Ventilador Industrial;1785331;DNI;Natural
+934;Ventana;92945601;RUC;Jurídico
+935;Split Pared;2470237;RUC;Jurídico
+936;Split Piso Techo;88288290;RUC;Jurídico
+937;Split Pared;25664252;DNI;Natural
+938;Rejilla Rotacional;59090619;RUC;Jurídico
+939;Cortina de Aire ;76767537;DNI;Natural
+940;Ventilador Centrífugo;16604777;DNI;Natural
+941;Rejilla 2 vías;13907281;DNI;Natural
+942;Cortina de Aire Industrial;94509940;RUC;Jurídico
+943;Split Piso Techo;29650720;DNI;Natural
+944;VRF;65146524;RUC;Jurídico
+945;Cortina de Aire Industrial;43865583;DNI;Natural
+946;Split Ducto;70969951;RUC;Jurídico
+947;Ventana;26071985;RUC;Jurídico
+948;Tubería de Cobre;50979106;DNI;Natural
+949;Split Piso Techo;73888301;DNI;Natural
+950;Filtro Metálico;72025378;DNI;Natural
+951;VRV;9293082;RUC;Jurídico
+952;Helicocentrífugo Comercial ;75465842;RUC;Jurídico
+953;Cassette;42879500;RUC;Jurídico
+954;Circular Residencial ;16740774;DNI;Natural
+955;Rejilla 3 vías;13407584;RUC;Jurídico
+956;Cortina de Aire Industrial;1427388;DNI;Natural
+957;Helicocentrífugo Residencial;4048255;DNI;Natural
+958;Axial Residencial;28135035;DNI;Natural
+959;Ventana;47585018;DNI;Natural
+960;Helicocentrífugo Silent  ;16646220;DNI;Natural
+961;Axial Residencial;53538752;RUC;Jurídico
+962;Visor Líquido;75855239;DNI;Natural
+963;Circular Residencial ;48472385;RUC;Jurídico
+964;Fan Coil;71579554;RUC;Jurídico
+965;Rejilla Circular;36849928;RUC;Jurídico
+966;VRF;18094859;RUC;Jurídico
+967;Split Pared;40519723;RUC;Jurídico
+968;Cortina de Aire Industrial;70819152;DNI;Natural
+969;Cassette;40154370;DNI;Natural
+970;Mangas;82886981;DNI;Natural
+971;Helicocentrífugo Silent  ;58825590;DNI;Natural
+972;Helicocentrífugo Silent  ;65464973;DNI;Natural
+973;Cortina de Aire Industrial;96103068;RUC;Jurídico
+974;Split Piso Techo;1908521;RUC;Jurídico
+975;Axial Residencial;29840707;DNI;Natural
+976;Circular Residencial ;36831976;DNI;Natural
+977;Helicocentrífugo Comercial ;33694546;RUC;Jurídico
+978;Cassette;27985101;RUC;Jurídico
+979;Split Piso Techo;53979150;RUC;Jurídico
+980;VRV;78358438;DNI;Natural
+981;Tipo Paquete;64571032;RUC;Jurídico
+982;Circular Residencial ;93224097;DNI;Natural
+983;Ventilador Centrífugo;32527613;DNI;Natural
+984;Ventana;14171224;DNI;Natural
+985;Presostato;82875383;RUC;Jurídico
+986;Ducto Circular;74748409;DNI;Natural
+987;Cassette;76903424;DNI;Natural
+988;Split Ducto;47537065;DNI;Natural
+989;Cassette;71489988;DNI;Natural
+990;VRV;96459609;DNI;Natural
+991;VRF;45577030;RUC;Jurídico
+992;Helicocentrífugo Silent  ;87893487;DNI;Natural
+993;Split Ducto;93205115;DNI;Natural
+994;VRF;80273589;DNI;Natural
+995;Split Ducto;93024237;RUC;Jurídico
+996;VRF;51221622;RUC;Jurídico
+997;Rejilla 2 vías;46050272;RUC;Jurídico
+998;Cortina de Aire Industrial;52983356;RUC;Jurídico
+999;Split Piso Techo;53663401;DNI;Natural
+1000;Rejilla 2 vías;21227784;DNI;Natural
+1;Rejilla 4 vías;20371555;DNI;Natural
+2;VRF;45048096;DNI;Natural
+3;VRF;59523429;DNI;Natural
+4;Ventilador Centrífugo;87834304;DNI;Natural
+5;Fan Coil;10236637;DNI;Natural
+6;Ventilador Centrífugo;31935535;DNI;Natural
+7;Tubería de Cobre;56679144;DNI;Natural
+8;Cortina de Aire Industrial;74954129;DNI;Natural
+9;Circular Residencial ;35956616;DNI;Natural
+10;Rejilla 4 vías;90520010;DNI;Natural
+11;Circular Residencial ;84389342;DNI;Natural
+12;Rejilla 4 vías;62481694;DNI;Natural
+13;Ventilador Tubular;45817517;DNI;Natural
+14;Ventilador Industrial;60625918;DNI;Natural
+15;Filtro de Poliester;50685872;DNI;Natural
+16;Termostatos;34695713;DNI;Natural
+17;VRV;23814246;DNI;Natural
+18;Helicocentrífugo Silent  ;59269700;DNI;Natural
+19;Presostato;75277155;DNI;Natural
+20;Helicocentrífugo Residencial;97131621;DNI;Natural
+21;Ventana;19541819;DNI;Natural
+22;Rejilla Lineal;80024975;DNI;Natural
+23;Split Ducto;21958280;DNI;Natural
+24;Cassette;27554396;DNI;Natural
+25;Axial Residencial;95311295;DNI;Natural
+26;Gas Refrigerante;60833131;DNI;Natural
+27;Ventana;43851264;DNI;Natural
+28;Termostatos;70347136;DNI;Natural
+29;Helicocentrífugo Silent  ;41795693;DNI;Natural
+30;Helicocentrífugo Silent  ;97535228;DNI;Natural
+31;Termostatos;40496568;DNI;Natural
+32;Helicocentrífugo Silent  ;56010947;DNI;Natural
+33;Llave de Paso;93956514;DNI;Natural
+34;Helicocentrífugo Silent  ;44287974;DNI;Natural
+35;Ventilador Tubular;68775546;DNI;Natural
+36;Cassette;81367734;DNI;Natural
+37;Termostatos;47397556;DNI;Natural
+38;Cortina de Aire Industrial;10153244;DNI;Natural
+39;Split Piso Techo;16019965;DNI;Natural
+40;Fan Coil;84277654;DNI;Natural
+41;Válvula de Servicio;63548906;DNI;Natural
+42;Fan Coil;21353357;DNI;Natural
+43;Bomba de Condensado;22148550;DNI;Natural
+44;Helicocentrífugo Residencial;83581653;DNI;Natural
+45;Manguera;61189485;DNI;Natural
+46;Cortina de Aire ;79167686;DNI;Natural
+47;Bomba de Condensado;17761403;DNI;Natural
+48;Cortina de Aire ;39354362;DNI;Natural
+49;Termostatos;40797344;DNI;Natural
+50;Split Pared;50252311;DNI;Natural
+51;Split Ducto;72480617;DNI;Natural
+52;VRF;79370509;DNI;Natural
+53;Cassette;19291679;DNI;Natural
+54;Tipo Paquete;78897504;DNI;Natural
+55;Rejilla 1 vía;36378300;DNI;Natural
+56;Fan Coil;44191656;DNI;Natural
+57;Ventilador Industrial;75923135;DNI;Natural
+58;Axial Residencial;10183653;DNI;Natural
+59;Fan Coil;41682933;DNI;Natural
+60;Split Piso Techo;26162564;DNI;Natural
+61;Helicocentrífugo Residencial;89535911;DNI;Natural
+62;Cortina de Aire Industrial;42067921;DNI;Natural
+63;Ventana;34762965;DNI;Natural
+64;Rejilla 4 vías;76253251;DNI;Natural
+65;Helicocentrífugo Comercial ;42154297;DNI;Natural
+66;Fan Coil;13965949;DNI;Natural
+67;Ventilador Industrial;43171911;DNI;Natural
+68;Split Pared;19142565;DNI;Natural
+69;Rejilla 4 vías;18910807;DNI;Natural
+70;Fan Coil;31345476;DNI;Natural
+71;Split Pared;68257995;DNI;Natural
+72;VRF;21798318;DNI;Natural
+73;Tipo Paquete;12130198;DNI;Natural
+298;Ducto Circular;14321179;DNI;Natural
+299;Axial Residencial;12346512;DNI;Natural
+300;Rejilla de Retorno;20144707;DNI;Natural
+301;Fan Coil;20585775210;RUC;Jurídico
+302;Gas Refrigerante;20340766225;RUC;Jurídico
+303;Termostatos;20362414268;RUC;Jurídico
+304;Tipo Paquete;20190026008;RUC;Jurídico
+305;Visor Líquido;20981428322;RUC;Jurídico
+306;Ventilador Centrífugo;20681819351;RUC;Jurídico
+307;Ventilador Centrífugo;20815012837;RUC;Jurídico
+308;Cassette;20469675998;RUC;Jurídico
+309;Mangas;20485672592;RUC;Jurídico
+310;Termostatos;20421245413;RUC;Jurídico
+311;Rejilla Rotacional;20079447253;RUC;Jurídico
+312;Rejilla Doble Deflexión;20953765662;RUC;Jurídico
+313;Llave de Paso;20744113510;RUC;Jurídico
+314;Split Pared;20062242626;RUC;Jurídico
+315;Fan Coil;20638068302;RUC;Jurídico
+316;Split Piso Techo;20861416027;RUC;Jurídico
+317;Aislamiento Térmico;20366392285;RUC;Jurídico
+318;Fan Coil;20981104924;RUC;Jurídico
+319;Split Ducto;20193140048;RUC;Jurídico
+320;Termostatos;20482938625;RUC;Jurídico
+321;Helicocentrífugo Comercial ;20245101191;RUC;Jurídico
+322;Manguera;20979752891;RUC;Jurídico
+323;Helicocentrífugo Silent  ;20362124702;RUC;Jurídico
+324;Cassette;20042793047;RUC;Jurídico
+325;Fan Coil;20755903552;RUC;Jurídico
+326;Axial Residencial;20553338373;RUC;Jurídico
+327;Ventilador Centrífugo;20790460249;RUC;Jurídico
+328;Rejilla 1 vía;20196270452;RUC;Jurídico
+329;Fan Coil;20442391608;RUC;Jurídico
+330;Filtro de Poliester;20224680532;RUC;Jurídico
+331;Ventilador Tubular;20910604931;RUC;Jurídico
+332;Ventana;20099821963;RUC;Jurídico
+333;Helicocentrífugo Silent  ;20569841805;RUC;Jurídico
+334;Fan Coil;20274313525;RUC;Jurídico
+335;Helicocentrífugo Residencial;20087425209;RUC;Jurídico
+336;Helicocentrífugo Residencial;20561816645;RUC;Jurídico
+337;VRV;20718744374;RUC;Jurídico
+338;Helicocentrífugo Residencial;20558166758;RUC;Jurídico
+339;Helicocentrífugo Residencial;20978526621;RUC;Jurídico
+340;Termostatos;20824752378;RUC;Jurídico
+341;Ventana;20723842185;RUC;Jurídico
+342;VRV;20281878181;RUC;Jurídico
+343;Split Pared;20096223149;RUC;Jurídico
+344;Fan Coil;20138423806;RUC;Jurídico
+345;Fan Coil;20367696161;RUC;Jurídico
+346;Cortina de Aire ;20310193926;RUC;Jurídico
+347;Rejilla Lineal;20386780999;RUC;Jurídico
+348;Ducto Rectangular;20618321823;RUC;Jurídico
+349;Cortina de Aire Industrial;20826989970;RUC;Jurídico
+350;Mangas;20063364523;RUC;Jurídico
+351;Rejilla 3 vías;20995149078;RUC;Jurídico
+352;Cassette;20899922743;RUC;Jurídico
+353;Mangas;20825568406;RUC;Jurídico
+354;Helicocentrífugo Residencial;20143053557;RUC;Jurídico
+355;Helicocentrífugo Silent  ;20637022179;RUC;Jurídico
+356;Split Pared;20536403325;RUC;Jurídico
+357;Bomba de Condensado;20139488893;RUC;Jurídico
+358;Axial Residencial;20686795534;RUC;Jurídico
+359;Termostatos;20062728268;RUC;Jurídico
+360;Tipo Paquete;20023634763;RUC;Jurídico
+361;Cortina de Aire ;20397858753;RUC;Jurídico
+362;Tipo Paquete;20828583231;RUC;Jurídico
+363;Circular Residencial ;20147269508;RUC;Jurídico
+364;Split Piso Techo;20043661201;RUC;Jurídico
+365;Fan Coil;20882109726;RUC;Jurídico
+366;Termostatos;20741749020;RUC;Jurídico
+367;Helicocentrífugo Silent  ;20987040563;RUC;Jurídico
+368;Rejilla 4 vías;20016495290;RUC;Jurídico
+369;Tipo Paquete;20278129282;RUC;Jurídico
+370;Rejilla Rotacional;20411442034;RUC;Jurídico
+371;Axial Residencial;20016514237;RUC;Jurídico
+372;Axial Residencial;20619933139;RUC;Jurídico
+373;Cortina de Aire Industrial;20773274193;RUC;Jurídico
+374;Cassette;20651141039;RUC;Jurídico
+375;Fan Coil;20889270632;RUC;Jurídico
+376;Cortina de Aire ;20675673993;RUC;Jurídico
+377;Helicocentrífugo Silent  ;20515437318;RUC;Jurídico
+378;VRV;20091969037;RUC;Jurídico
+379;Split Piso Techo;20267043561;RUC;Jurídico
+380;Ventana;20599100175;RUC;Jurídico
+381;Split Piso Techo;20016552704;RUC;Jurídico
+382;Helicocentrífugo Comercial ;20814351551;RUC;Jurídico
+383;Split Piso Techo;20840788663;RUC;Jurídico
+384;Ventilador Centrífugo;20499875082;RUC;Jurídico
+385;Axial Residencial;20418123117;RUC;Jurídico
+386;VRF;20662484213;RUC;Jurídico
+387;VRV;20050379817;RUC;Jurídico
+388;Cortina de Aire ;20151662716;RUC;Jurídico
+389;Rejilla 4 vías;20255660233;RUC;Jurídico
+390;Ventilador Tubular;20122294716;RUC;Jurídico
+391;Cassette;20029839477;RUC;Jurídico
+392;Rejilla 3 vías;20297463870;RUC;Jurídico
+393;Helicocentrífugo Comercial ;20098810404;RUC;Jurídico
+394;Helicocentrífugo Silent  ;20210827617;RUC;Jurídico
+395;Termostatos;20739457532;RUC;Jurídico
+396;Ventilador Tubular;20815519285;RUC;Jurídico
+397;Cortina de Aire Industrial;20790347552;RUC;Jurídico
+398;Repuestos;20594959515;RUC;Jurídico
+399;VRF;20425130047;RUC;Jurídico
+400;Termostatos;20933971732;RUC;Jurídico
+401;Rejilla 4 vías;20632846560;RUC;Jurídico
+402;VRF;20165212174;RUC;Jurídico
+403;Ventana;20580253234;RUC;Jurídico
+404;Split Ducto;20480847588;RUC;Jurídico
+405;Tipo Paquete;20628732631;RUC;Jurídico
+406;Tipo Paquete;20929602951;RUC;Jurídico
+407;Axial Residencial;20766644302;RUC;Jurídico
+408;Ventilador Industrial;20682194310;RUC;Jurídico
+409;Helicocentrífugo Residencial;20095828050;RUC;Jurídico
+410;Ventilador Centrífugo;20143368022;RUC;Jurídico
+411;Ventilador Centrífugo;20174874262;RUC;Jurídico
+412;Helicocentrífugo Silent  ;20930474841;RUC;Jurídico
+413;VRF;20264950266;RUC;Jurídico
+414;Split Pared;20063727460;RUC;Jurídico
+415;Termostatos;20638226765;RUC;Jurídico
+416;VRF;20063604047;RUC;Jurídico
+417;Cortina de Aire ;20948051222;RUC;Jurídico
+418;Cinta de Aluminio;20956333660;RUC;Jurídico
+419;Ventilador Tubular;20387728785;RUC;Jurídico
+420;Cortina de Aire Industrial;20315063646;RUC;Jurídico
+421;Split Piso Techo;20139369133;RUC;Jurídico
+422;Ventilador Tubular;20774236074;RUC;Jurídico
+423;VRF;20896541963;RUC;Jurídico
+424;Fan Coil;20025625575;RUC;Jurídico
+425;Termostatos;20552961079;RUC;Jurídico
+426;Circular Residencial ;20885384856;RUC;Jurídico
+427;VRF;20597971343;RUC;Jurídico
+428;Rejilla Circular;20676742895;RUC;Jurídico
+429;Helicocentrífugo Silent  ;20067490354;RUC;Jurídico
+430;VRV;20662432978;RUC;Jurídico
+431;Ventana;20370608419;RUC;Jurídico
+432;Helicocentrífugo Silent  ;20166496368;RUC;Jurídico
+433;Fan Coil;20574651279;RUC;Jurídico
+434;Fan Coil;20736143708;RUC;Jurídico
+435;VRV;20042960530;RUC;Jurídico
+436;Helicocentrífugo Silent  ;20394865120;RUC;Jurídico
+437;Fan Coil;20986546382;RUC;Jurídico
+438;Ventilador Industrial;20267074315;RUC;Jurídico
+439;VRF;20793277546;RUC;Jurídico
+440;Helicocentrífugo Silent  ;20749006345;RUC;Jurídico
+441;Ventana;20384943554;RUC;Jurídico
+442;Tipo Paquete;20230956922;RUC;Jurídico
+443;Válvula de Servicio;20359749202;RUC;Jurídico
+444;VRF;20137384066;RUC;Jurídico
+445;Split Ducto;20057537096;RUC;Jurídico
+446;VRF;20552892196;RUC;Jurídico
+447;Split Ducto;20640012631;RUC;Jurídico
+448;Split Piso Techo;20814877695;RUC;Jurídico
+449;Split Ducto;20844062475;RUC;Jurídico
+450;VRV;20920687740;RUC;Jurídico
+451;Cassette;20810019416;RUC;Jurídico
+452;Cassette;20842782083;RUC;Jurídico
+453;Filtro Deshumedecedor;20839981850;RUC;Jurídico
+454;Ventilador Centrífugo;20351149566;RUC;Jurídico
+455;Split Piso Techo;20099578930;RUC;Jurídico
+456;Helicocentrífugo Silent  ;20017998935;RUC;Jurídico
+457;Split Ducto;20018155321;RUC;Jurídico
+458;Split Ducto;20780601321;RUC;Jurídico
+459;Rejilla Rotacional;20538757529;RUC;Jurídico
+460;Split Ducto;20433600927;RUC;Jurídico
+461;Circular Residencial ;20760504260;RUC;Jurídico
+462;Helicocentrífugo Silent  ;20056752611;RUC;Jurídico
+463;Split Piso Techo;20999194120;RUC;Jurídico
+464;Llave de Paso;20261777707;RUC;Jurídico
+465;VRF;20659097567;RUC;Jurídico
+466;Termostatos;20829445311;RUC;Jurídico
+467;Cortina de Aire Industrial;20383215263;RUC;Jurídico
+468;Split Piso Techo;20425095574;RUC;Jurídico
+469;Fan Coil;20084262886;RUC;Jurídico
+470;Termostatos;20265146631;RUC;Jurídico
+471;Axial Residencial;20326417021;RUC;Jurídico
+472;Termostatos;20799907521;RUC;Jurídico
+473;Cortina de Aire ;20555950817;RUC;Jurídico
+474;Manguera;20219263870;RUC;Jurídico
+475;Cortina de Aire Industrial;20382714220;RUC;Jurídico
+476;Cortina de Aire ;20951264459;RUC;Jurídico
+477;Aislamiento Térmico;20666597533;RUC;Jurídico
+478;Split Ducto;20011425290;RUC;Jurídico
+479;Presostato;20685429727;RUC;Jurídico
+480;Split Ducto;20257511937;RUC;Jurídico
+481;Cortina de Aire Industrial;20445279562;RUC;Jurídico
+482;Repuestos;20466050895;RUC;Jurídico
+483;Split Ducto;20538507857;RUC;Jurídico
+484;Termostatos;20382770268;RUC;Jurídico
+485;Helicocentrífugo Silent  ;20568680306;RUC;Jurídico
+486;Cassette;20976255221;RUC;Jurídico
+487;Rejilla Doble Deflexión;20061424755;RUC;Jurídico
+488;Helicocentrífugo Silent  ;20855392695;RUC;Jurídico
+489;Circular Residencial ;20785328277;RUC;Jurídico
+490;Tipo Paquete;20981911368;RUC;Jurídico
+491;Cassette;20742934972;RUC;Jurídico
+492;VRF;20081143811;RUC;Jurídico
+493;Ventilador Tubular;20970551009;RUC;Jurídico
+494;Helicocentrífugo Comercial ;20481276053;RUC;Jurídico
+495;VRV;20280970417;RUC;Jurídico
+496;Termostatos;20542289305;RUC;Jurídico
+497;Cassette;20113788142;RUC;Jurídico
+498;Cortina de Aire Industrial;20990804585;RUC;Jurídico
+499;Cortina de Aire ;20959276550;RUC;Jurídico
+500;Tipo Paquete;20932811789;RUC;Jurídico
+501;Split Piso Techo;68061236;DNI;Natural
+502;Cassette;6224670;RUC;Jurídico
+503;Ventilador Industrial;22824092;DNI;Natural
+504;Rejilla 2 vías;90188188;DNI;Natural
+505;Cortina de Aire ;18028704;RUC;Jurídico
+506;Ventana;69643098;DNI;Natural
+507;Gas Refrigerante;46026749;DNI;Natural
+508;Ventana;58656442;DNI;Natural
+509;Filtro de Poliester;71345752;DNI;Natural
+510;Split Piso Techo;13617876;DNI;Natural
+511;Cassette;12440709;DNI;Natural
+512;Aislamiento Térmico;49148090;RUC;Jurídico
+513;Helicocentrífugo Silent  ;26699690;DNI;Natural
+514;Helicocentrífugo Comercial ;42913150;RUC;Jurídico
+515;Llave de Paso;84907662;DNI;Natural
+516;Ventilador Centrífugo;13811650;DNI;Natural
+517;Split Ducto;10927549;DNI;Natural
+518;Split Piso Techo;69026694;RUC;Jurídico
+519;Cinta de Aluminio;19709960;DNI;Natural
+520;Split Piso Techo;62268495;DNI;Natural
+521;Rejilla Circular;36628914;RUC;Jurídico
+522;Filtro Metálico;98889315;DNI;Natural
+523;Cinta de Aluminio;12391853;DNI;Natural
+524;Split Ducto;21324575;DNI;Natural
+525;Split Pared;45689094;RUC;Jurídico
+526;Fan Coil;57366569;RUC;Jurídico
+527;VRV;73576027;RUC;Jurídico
+528;VRF;69173067;DNI;Natural
+529;Ventilador Industrial;84823298;DNI;Natural
+530;Circular Residencial ;24469013;RUC;Jurídico
+531;Cinta de Aluminio;6540319;DNI;Natural
+532;Rejilla 3 vías;24630063;DNI;Natural
+533;Fan Coil;99586619;DNI;Natural
+534;Ventilador Tubular;2432872;DNI;Natural
+535;Termostatos;48237890;DNI;Natural
+536;Cortina de Aire ;91315142;DNI;Natural
+537;Ventilador Tubular;77500195;DNI;Natural
+538;Split Pared;41361263;DNI;Natural
+539;Ventana;83478096;DNI;Natural
+540;Cortina de Aire Industrial;89768636;DNI;Natural
+541;Helicocentrífugo Comercial ;47328152;RUC;Jurídico
+542;Ventana;83152826;DNI;Natural
+543;VRF;19425021;DNI;Natural
+544;Fan Coil;25311469;DNI;Natural
+545;VRF;86542164;DNI;Natural
+546;Gas Refrigerante;88464428;DNI;Natural
+547;Cortina de Aire Industrial;61095993;RUC;Jurídico
+548;Split Ducto;31316291;DNI;Natural
+549;Fan Coil;96145309;RUC;Jurídico
+550;Rejilla 2 vías;87625813;RUC;Jurídico
+551;Helicocentrífugo Comercial ;94228710;RUC;Jurídico
+552;Ventana;38653341;RUC;Jurídico
+553;Fan Coil;59889548;RUC;Jurídico
+554;Helicocentrífugo Silent  ;92602746;DNI;Natural
+555;Ventana;71746717;RUC;Jurídico
+556;Split Pared;84771822;DNI;Natural
+557;Ventilador Industrial;54214356;RUC;Jurídico
+558;Tipo Paquete;34161295;DNI;Natural
+559;Axial Residencial;97905180;RUC;Jurídico
+560;VRF;60518838;RUC;Jurídico
+561;Ventana;9281995;DNI;Natural
+562;Tipo Paquete;74341685;DNI;Natural
+563;Helicocentrífugo Silent  ;30196610;DNI;Natural
+564;Split Pared;40309980;DNI;Natural
+565;Helicocentrífugo Residencial;73937215;RUC;Jurídico
+566;Fan Coil;56687260;DNI;Natural
+567;Filtro Hepa;30654687;DNI;Natural
+568;Axial Residencial;45766708;RUC;Jurídico
+569;Ventana;73787198;RUC;Jurídico
+570;VRF;71018398;DNI;Natural
+571;Circular Residencial ;33849035;RUC;Jurídico
+572;VRF;66625489;DNI;Natural
+573;Filtro Deshumedecedor;52312624;DNI;Natural
+574;Ventilador Centrífugo;51741273;DNI;Natural
+575;Ventana;5641539;DNI;Natural
+576;Cinta de Aluminio;30010737;RUC;Jurídico
+577;Helicocentrífugo Comercial ;73062085;DNI;Natural
+578;Cortina de Aire Industrial;15095108;DNI;Natural
+579;Rejilla Doble Deflexión;26518586;DNI;Natural
+580;Tipo Paquete;17042851;RUC;Jurídico
+581;Helicocentrífugo Silent  ;48720470;RUC;Jurídico
+582;Filtro Deshumedecedor;45635170;DNI;Natural
+583;Circular Residencial ;95141344;RUC;Jurídico
+584;Split Pared;52499764;RUC;Jurídico
+585;Filtro Metálico;44075361;DNI;Natural
+586;Repuestos;41996929;RUC;Jurídico
+587;Ventana;36892155;RUC;Jurídico
+588;Ventilador Centrífugo;92992019;DNI;Natural
+589;VRV;48861568;DNI;Natural
+590;Fan Coil;98424031;DNI;Natural
+591;VRV;83856022;RUC;Jurídico
+592;Ventilador Industrial;41719274;DNI;Natural
+593;Split Piso Techo;37558389;RUC;Jurídico
+74;Helicocentrífugo Residencial;90718648;DNI;Natural
+75;Helicocentrífugo Silent  ;53755180;DNI;Natural
+76;Cortina de Aire Industrial;85378850;DNI;Natural
+77;Ventana;11866258;DNI;Natural
+78;Fan Coil;83431347;DNI;Natural
+79;Split Pared;61912909;DNI;Natural
+80;Rejilla 1 vía;95741720;DNI;Natural
+81;Tipo Paquete;24532220;DNI;Natural
+82;Cortina de Aire ;56910649;DNI;Natural
+83;Split Piso Techo;36378651;DNI;Natural
+84;VRF;92037340;DNI;Natural
+85;Tipo Paquete;63554229;DNI;Natural
+86;Split Ducto;69161940;DNI;Natural
+87;Cassette;85114956;DNI;Natural
+88;Rejilla 4 vías;49115068;DNI;Natural
+89;Split Piso Techo;65398052;DNI;Natural
+90;Circular Residencial ;78424484;DNI;Natural
+91;Circular Residencial ;77876908;DNI;Natural
+92;Aislamiento Térmico;65855593;DNI;Natural
+93;Ventilador Centrífugo;18659923;DNI;Natural
+94;Split Piso Techo;12127627;DNI;Natural
+95;Cortina de Aire ;76668529;DNI;Natural
+96;Cassette;28645907;DNI;Natural
+97;Ventana;55562141;DNI;Natural
+98;Tubería de Cobre;53117129;DNI;Natural
+99;Split Ducto;12123795;DNI;Natural
+100;Split Pared;41819332;DNI;Natural
+101;Ventilador Centrífugo;98343688;DNI;Natural
+102;Filtro Deshumedecedor;14320905;DNI;Natural
+103;Bomba de Condensado;45591692;DNI;Natural
+104;Aislamiento Térmico;60034688;DNI;Natural
+105;VRF;16727545;DNI;Natural
+106;Split Piso Techo;94270379;DNI;Natural
+107;Fan Coil;16271366;DNI;Natural
+108;Circular Residencial ;40649144;DNI;Natural
+109;VRV;80625314;DNI;Natural
+110;Ventana;14667326;DNI;Natural
+111;Split Piso Techo;29289996;DNI;Natural
+112;Cassette;97695670;DNI;Natural
+113;Rejilla Lineal;42933485;DNI;Natural
+114;Cortina de Aire ;85095668;DNI;Natural
+115;Split Ducto;81517865;DNI;Natural
+116;Tipo Paquete;98783613;DNI;Natural
+117;Cassette;17567520;DNI;Natural
+118;Helicocentrífugo Silent  ;49534418;DNI;Natural
+119;Ventana;85939187;DNI;Natural
+120;Axial Residencial;43440875;DNI;Natural
+121;Cortina de Aire ;98155033;DNI;Natural
+122;Rejilla 3 vías;29691785;DNI;Natural
+123;Split Pared;66363983;DNI;Natural
+124;VRV;13993719;DNI;Natural
+125;VRV;31291569;DNI;Natural
+126;Fan Coil;26069570;DNI;Natural
+127;Circular Residencial ;27078026;DNI;Natural
+128;Split Pared;46549836;DNI;Natural
+129;Helicocentrífugo Residencial;74767090;DNI;Natural
+130;Ventilador Industrial;23116375;DNI;Natural
+131;Válvula de Servicio;76312610;DNI;Natural
+132;VRV;32746615;DNI;Natural
+133;Ventana;70578236;DNI;Natural
+134;Ventilador Tubular;83519788;DNI;Natural
+135;VRV;45696556;DNI;Natural
+136;Circular Residencial ;91262933;DNI;Natural
+137;Helicocentrífugo Residencial;98611455;DNI;Natural
+138;Ducto Rectangular;27633544;DNI;Natural
+139;Axial Residencial;89067604;DNI;Natural
+140;Axial Residencial;69386064;DNI;Natural
+141;Split Ducto;81953903;DNI;Natural
+142;Mangas;59854728;DNI;Natural
+143;Rejilla Doble Deflexión;90584094;DNI;Natural
+144;Filtro de Poliester;82794601;DNI;Natural
+145;Circular Residencial ;85662745;DNI;Natural
+146;Tipo Paquete;46392535;DNI;Natural
+147;Filtro Hepa;50895142;DNI;Natural
+148;Ventilador Tubular;36487555;DNI;Natural
+149;Termostatos;33416990;DNI;Natural
+150;Fan Coil;99085845;DNI;Natural
+151;Ventana;69916654;DNI;Natural
+152;Cortina de Aire Industrial;25210545;DNI;Natural
+153;Split Ducto;37474632;DNI;Natural
+154;Ventilador Tubular;46362851;DNI;Natural
+155;Manguera;35826388;DNI;Natural
+156;VRF;56671562;DNI;Natural
+157;Helicocentrífugo Residencial;42291896;DNI;Natural
+158;Split Ducto;93587805;DNI;Natural
+159;Fan Coil;71650903;DNI;Natural
+160;Split Piso Techo;64013255;DNI;Natural
+161;Helicocentrífugo Residencial;92296961;DNI;Natural
+162;Aislamiento Térmico;33516913;DNI;Natural
+163;Split Ducto;53489003;DNI;Natural
+164;Helicocentrífugo Comercial ;87547672;DNI;Natural
+165;Cassette;61991921;DNI;Natural
+166;Ventilador Tubular;48632810;DNI;Natural
+167;Ventilador Tubular;97964909;DNI;Natural
+168;Circular Residencial ;27785930;DNI;Natural
+169;VRV;31920692;DNI;Natural
+170;Tipo Paquete;92997107;DNI;Natural
+171;Helicocentrífugo Silent  ;17488253;DNI;Natural
+172;Circular Residencial ;93365932;DNI;Natural
+173;Helicocentrífugo Comercial ;41032798;DNI;Natural
+174;Split Piso Techo;34527965;DNI;Natural
+175;Split Ducto;23241970;DNI;Natural
+176;Cassette;44033410;DNI;Natural
+177;VRF;86929047;DNI;Natural
+178;Rejilla Circular;26419001;DNI;Natural
+179;Split Pared;81194316;DNI;Natural
+180;Split Ducto;85138348;DNI;Natural
+181;Helicocentrífugo Silent  ;56711959;DNI;Natural
+182;Split Piso Techo;41878223;DNI;Natural
+183;Cortina de Aire ;93020275;DNI;Natural
+184;Split Piso Techo;81381077;DNI;Natural
+185;Rejilla Rotacional;10317070;DNI;Natural
+186;VRF;85089186;DNI;Natural
+187;Cortina de Aire Industrial;79875576;DNI;Natural
+188;Split Piso Techo;40639576;DNI;Natural
+189;Ventilador Centrífugo;55361139;DNI;Natural
+190;Fan Coil;41616878;DNI;Natural
+191;Cassette;59825302;DNI;Natural
+192;Ventana;35850470;DNI;Natural
+193;Cassette;55546166;DNI;Natural
+194;Válvula de Servicio;58788816;DNI;Natural
+195;Rejilla de Retorno;34582754;DNI;Natural
+196;Ventana;13128671;DNI;Natural
+197;Ventilador Centrífugo;36053783;DNI;Natural
+198;Helicocentrífugo Comercial ;51711051;DNI;Natural
+199;Split Piso Techo;96049172;DNI;Natural
+200;Axial Residencial;33929015;DNI;Natural
+201;Rejilla Rotacional;47047640;DNI;Natural
+202;Cassette;38281291;DNI;Natural
+203;Tipo Paquete;63939894;DNI;Natural
+204;Ventana;78447755;DNI;Natural
+205;Circular Residencial ;96770551;DNI;Natural
+206;Split Pared;53926648;DNI;Natural
+207;Termostatos;63992566;DNI;Natural
+208;Ventilador Tubular;55863357;DNI;Natural
+209;Tipo Paquete;32125670;DNI;Natural
+210;Ventana;74751993;DNI;Natural
+211;Filtro de Poliester;89010655;DNI;Natural
+212;Split Pared;87185129;DNI;Natural
+213;Ducto Rectangular;66429311;DNI;Natural
+214;VRF;33222507;DNI;Natural
+215;Ventana;38160502;DNI;Natural
+216;Split Pared;84236271;DNI;Natural
+217;Cortina de Aire ;84872425;DNI;Natural
+218;Rejilla Multifuncional;21957150;DNI;Natural
+219;Cortina de Aire ;16743754;DNI;Natural
+220;Split Ducto;45924894;DNI;Natural
+221;Tubería de Cobre;69813522;DNI;Natural
+222;Cassette;76863998;DNI;Natural
+223;Helicocentrífugo Silent  ;54355139;DNI;Natural
+224;Axial Residencial;94389470;DNI;Natural
+225;Cortina de Aire ;31317224;DNI;Natural
+226;Rejilla Doble Deflexión;38161990;DNI;Natural
+227;Ventilador Industrial;28464595;DNI;Natural
+228;Ventana;22840497;DNI;Natural
+229;Helicocentrífugo Silent  ;43929606;DNI;Natural
+230;Termostatos;99040470;DNI;Natural
+231;Split Piso Techo;33536207;DNI;Natural
+232;Helicocentrífugo Residencial;29884380;DNI;Natural
+233;Ventilador Industrial;83464777;DNI;Natural
+234;Split Ducto;96882930;DNI;Natural
+235;Ventilador Centrífugo;14676794;DNI;Natural
+236;Tipo Paquete;27198254;DNI;Natural
+237;Rejilla Rotacional;47161799;DNI;Natural
+238;Ventilador Tubular;50833522;DNI;Natural
+239;VRV;87713081;DNI;Natural
+240;Cassette;93511900;DNI;Natural
+241;Ventilador Centrífugo;29061927;DNI;Natural
+242;Ventana;78376531;DNI;Natural
+243;Rejilla Lineal;33115993;DNI;Natural
+244;Termostatos;68574489;DNI;Natural
+245;Split Ducto;90228711;DNI;Natural
+246;Circular Residencial ;17861202;DNI;Natural
+247;Split Piso Techo;80472825;DNI;Natural
+248;Fan Coil;99439033;DNI;Natural
+249;Cortina de Aire Industrial;77461152;DNI;Natural
+250;Mangas;43031062;DNI;Natural
+251;Filtro Hepa;65425137;DNI;Natural
+252;Split Pared;42750834;DNI;Natural
+253;Cortina de Aire ;28776480;DNI;Natural
+254;Ventilador Industrial;29962348;DNI;Natural
+255;Termostatos;45596269;DNI;Natural
+256;Filtro Metálico;23027948;DNI;Natural
+257;Cortina de Aire ;91328517;DNI;Natural
+258;Ventilador Tubular;40275066;DNI;Natural
+259;Tipo Paquete;68694927;DNI;Natural
+260;Rejilla 1 vía;44883589;DNI;Natural
+261;Llave de Paso;30426771;DNI;Natural
+262;Ventilador Centrífugo;73995615;DNI;Natural
+263;Ventilador Industrial;49114653;DNI;Natural
+264;Cortina de Aire Industrial;28946107;DNI;Natural
+265;Cassette;68182889;DNI;Natural
+266;Ventilador Industrial;94746818;DNI;Natural
+267;Cortina de Aire Industrial;92646700;DNI;Natural
+268;Split Ducto;34528742;DNI;Natural
+269;VRV;45668624;DNI;Natural
+270;VRF;60791743;DNI;Natural
+271;Fan Coil;13395402;DNI;Natural
+272;Rejilla Multifuncional;50820592;DNI;Natural
+273;Ventilador Centrífugo;37959691;DNI;Natural
+274;Rejilla 4 vías;96415257;DNI;Natural
+275;Helicocentrífugo Residencial;36451724;DNI;Natural
+276;Rejilla Doble Deflexión;72089232;DNI;Natural
+277;Fan Coil;46833227;DNI;Natural
+278;Helicocentrífugo Comercial ;13076752;DNI;Natural
+279;Tipo Paquete;32180071;DNI;Natural
+280;Cassette;55823923;DNI;Natural
+281;Fan Coil;34863354;DNI;Natural
+282;Axial Residencial;27698755;DNI;Natural
+283;Split Ducto;61317750;DNI;Natural
+284;Split Pared;87423665;DNI;Natural
+285;Ventana;48867007;DNI;Natural
+286;Cortina de Aire ;14976828;DNI;Natural
+287;Filtro Metálico;33321414;DNI;Natural
+288;Filtro de Poliester;15526717;DNI;Natural
+289;Split Piso Techo;15679989;DNI;Natural
+290;Gas Refrigerante;84838466;DNI;Natural
+291;Fan Coil;86138743;DNI;Natural
+292;Rejilla Rotacional;49555466;DNI;Natural
+293;Cortina de Aire Industrial;58963707;DNI;Natural
+294;Cassette;81119508;DNI;Natural
+295;Ducto Rectangular;82536780;DNI;Natural
+296;VRF;63267341;DNI;Natural
+297;Cortina de Aire ;83887814;DNI;Natural
+298;VRV;14321179;DNI;Natural
+299;Split Ducto;12346512;DNI;Natural
+300;Tipo Paquete;20144707;DNI;Natural
+301;Helicocentrífugo Silent  ;20585775210;RUC;Jurídico
+302;Filtro de Poliester;20340766225;RUC;Jurídico
+303;Split Ducto;20362414268;RUC;Jurídico
+304;Termostatos;20190026008;RUC;Jurídico
+305;Termostatos;20981428322;RUC;Jurídico
+306;VRV;20681819351;RUC;Jurídico
+307;Ventana;20815012837;RUC;Jurídico
+308;Split Ducto;20469675998;RUC;Jurídico
+309;Axial Residencial;20485672592;RUC;Jurídico
+310;Tipo Paquete;20421245413;RUC;Jurídico
+311;Split Piso Techo;20079447253;RUC;Jurídico
+312;Split Pared;20953765662;RUC;Jurídico
+313;Cassette;20744113510;RUC;Jurídico
+314;Split Pared;20062242626;RUC;Jurídico
+315;Termostatos;20638068302;RUC;Jurídico
+316;Ventilador Tubular;20861416027;RUC;Jurídico
+317;Axial Residencial;20366392285;RUC;Jurídico
+318;Ventilador Centrífugo;20981104924;RUC;Jurídico
+319;Rejilla Rotacional;20193140048;RUC;Jurídico
+320;Cassette;20482938625;RUC;Jurídico
+321;Split Piso Techo;20245101191;RUC;Jurídico
+322;Split Pared;20979752891;RUC;Jurídico
+323;Tipo Paquete;20362124702;RUC;Jurídico
+324;Rejilla 2 vías;20042793047;RUC;Jurídico
+325;Cassette;20755903552;RUC;Jurídico
+326;Rejilla 4 vías;20553338373;RUC;Jurídico
+327;Ventilador Industrial;20790460249;RUC;Jurídico
+328;Axial Residencial;20196270452;RUC;Jurídico
+329;Helicocentrífugo Residencial;20442391608;RUC;Jurídico
+330;Split Pared;20224680532;RUC;Jurídico
+331;VRF;20910604931;RUC;Jurídico
+332;Helicocentrífugo Comercial ;20099821963;RUC;Jurídico
+333;Ventilador Industrial;20569841805;RUC;Jurídico
+334;Termostatos;20274313525;RUC;Jurídico
+335;Ventilador Industrial;20087425209;RUC;Jurídico
+336;Cortina de Aire Industrial;20561816645;RUC;Jurídico
+337;Fan Coil;20718744374;RUC;Jurídico
+338;Split Piso Techo;20558166758;RUC;Jurídico
+339;Ventana;20978526621;RUC;Jurídico
+340;Helicocentrífugo Silent  ;20824752378;RUC;Jurídico
+341;Rejilla 2 vías;20723842185;RUC;Jurídico
+342;VRV;20281878181;RUC;Jurídico
+343;Helicocentrífugo Silent  ;20096223149;RUC;Jurídico
+344;Ventilador Tubular;20138423806;RUC;Jurídico
+345;Helicocentrífugo Residencial;20367696161;RUC;Jurídico
+346;Helicocentrífugo Residencial;20310193926;RUC;Jurídico
+347;Cassette;20386780999;RUC;Jurídico
+348;Cassette;20618321823;RUC;Jurídico
+349;Split Pared;20826989970;RUC;Jurídico
+350;Ventilador Centrífugo;20063364523;RUC;Jurídico
+351;Fan Coil;20995149078;RUC;Jurídico
+352;Helicocentrífugo Comercial ;20899922743;RUC;Jurídico
+353;Split Piso Techo;20825568406;RUC;Jurídico
+354;Cinta de Aluminio;20143053557;RUC;Jurídico
+355;Cassette;20637022179;RUC;Jurídico
+356;Helicocentrífugo Residencial;20536403325;RUC;Jurídico
+357;VRV;20139488893;RUC;Jurídico
+358;Rejilla Rotacional;20686795534;RUC;Jurídico
+359;Split Pared;20062728268;RUC;Jurídico
+360;Split Piso Techo;20023634763;RUC;Jurídico
+361;VRF;20397858753;RUC;Jurídico
+362;Rejilla 3 vías;20828583231;RUC;Jurídico
+363;Split Piso Techo;20147269508;RUC;Jurídico
+364;Cassette;20043661201;RUC;Jurídico
+365;Helicocentrífugo Residencial;20882109726;RUC;Jurídico
+366;Fan Coil;20741749020;RUC;Jurídico
+367;Ventana;20987040563;RUC;Jurídico
+368;Split Ducto;20016495290;RUC;Jurídico
+369;Tipo Paquete;20278129282;RUC;Jurídico
+595;Rejilla Rotacional;72569665;RUC;Jurídico
+596;Split Piso Techo;73446903;DNI;Natural
+597;VRF;55856455;RUC;Jurídico
+598;Helicocentrífugo Residencial;47690019;RUC;Jurídico
+599;Circular Residencial ;87695672;DNI;Natural
+600;Fan Coil;25084167;DNI;Natural
+601;Split Pared;42936379;RUC;Jurídico
+602;VRV;96309362;DNI;Natural
+603;Filtro de Poliester;9485314;RUC;Jurídico
+604;Split Pared;29210489;DNI;Natural
+605;Ventilador Industrial;27011879;DNI;Natural
+606;Axial Residencial;98531000;DNI;Natural
+607;VRF;41635541;RUC;Jurídico
+608;Cassette;88856738;RUC;Jurídico
+609;Split Piso Techo;46216231;RUC;Jurídico
+610;Cassette;79632392;RUC;Jurídico
+611;Ducto Rectangular;40930118;RUC;Jurídico
+612;Ventilador Industrial;34059744;DNI;Natural
+613;Cortina de Aire ;21586989;DNI;Natural
+614;VRF;21495891;DNI;Natural
+615;Cortina de Aire Industrial;7499616;RUC;Jurídico
+616;Termostatos;48075447;DNI;Natural
+617;Rejilla de Retorno;73559889;DNI;Natural
+618;Ventana;40260593;DNI;Natural
+619;Ventilador Centrífugo;87228722;DNI;Natural
+620;Split Pared;37387333;DNI;Natural
+621;Cassette;25700837;RUC;Jurídico
+622;Tipo Paquete;40492917;RUC;Jurídico
+623;Ventana;81235668;DNI;Natural
+624;Ventilador Industrial;66263303;RUC;Jurídico
+625;VRV;40304184;DNI;Natural
+626;Helicocentrífugo Silent  ;62143545;DNI;Natural
+627;Tipo Paquete;97395105;RUC;Jurídico
+628;Tipo Paquete;85953188;DNI;Natural
+629;Termostatos;65689412;DNI;Natural
+630;Mangas;15849030;DNI;Natural
+631;Axial Residencial;9289032;DNI;Natural
+632;Manguera;54242245;DNI;Natural
+633;Tipo Paquete;11592386;DNI;Natural
+634;Helicocentrífugo Comercial ;67319642;DNI;Natural
+635;Fan Coil;67379302;DNI;Natural
+636;Helicocentrífugo Comercial ;49833175;RUC;Jurídico
+637;Ventana;11159021;DNI;Natural
+638;Filtro Metálico;10795179;DNI;Natural
+639;Tipo Paquete;47353880;DNI;Natural
+640;Split Piso Techo;51635281;DNI;Natural
+641;Split Piso Techo;75629349;DNI;Natural
+642;Circular Residencial ;55870854;DNI;Natural
+643;Ducto Rectangular;32571021;DNI;Natural
+644;Fan Coil;88672035;RUC;Jurídico
+645;Split Piso Techo;40684788;RUC;Jurídico
+646;Cassette;80504301;DNI;Natural
+647;Ventana;71271639;RUC;Jurídico
+648;Fan Coil;14086869;DNI;Natural
+649;Termostatos;18130029;DNI;Natural
+650;Cassette;4567748;DNI;Natural
+651;Mangas;84123800;DNI;Natural
+652;Tubería de Cobre;88483415;DNI;Natural
+653;Termostatos;70313367;DNI;Natural
+654;Split Pared;47084671;RUC;Jurídico
+655;Cassette;70502963;RUC;Jurídico
+656;Ventilador Industrial;27782461;RUC;Jurídico
+657;VRV;33667028;DNI;Natural
+658;Ventilador Centrífugo;3092511;RUC;Jurídico
+659;Cinta de Aluminio;34979073;RUC;Jurídico
+660;Helicocentrífugo Residencial;23615707;RUC;Jurídico
+661;Helicocentrífugo Residencial;83982511;DNI;Natural
+662;Fan Coil;66797451;RUC;Jurídico
+663;Split Pared;3143145;DNI;Natural
+664;VRV;99870859;RUC;Jurídico
+665;Axial Residencial;49902820;RUC;Jurídico
+666;Helicocentrífugo Residencial;37268911;RUC;Jurídico
+667;Ventana;81461441;RUC;Jurídico
+668;Ventana;75625068;DNI;Natural
+669;Split Piso Techo;1641907;RUC;Jurídico
+670;VRF;84589586;DNI;Natural
+671;VRV;96644923;RUC;Jurídico
+672;Termostatos;44519781;DNI;Natural
+673;Ventana;35350610;DNI;Natural
+674;Cortina de Aire Industrial;64736064;DNI;Natural
+675;Split Piso Techo;73955755;RUC;Jurídico
+676;Circular Residencial ;37170898;RUC;Jurídico
+677;Manguera;86013124;DNI;Natural
+678;Ventilador Centrífugo;63666196;RUC;Jurídico
+679;Axial Residencial;60332181;RUC;Jurídico
+680;Mangas;88620917;DNI;Natural
+681;Split Pared;72004469;RUC;Jurídico
+682;Ventana;67489405;DNI;Natural
+683;Cortina de Aire ;99321858;RUC;Jurídico
+684;Axial Residencial;83775340;DNI;Natural
+685;Gas Refrigerante;11678372;RUC;Jurídico
+686;VRV;45483190;RUC;Jurídico
+687;Ventilador Industrial;9335792;RUC;Jurídico
+688;Split Pared;4496010;RUC;Jurídico
+689;Manguera;38874810;DNI;Natural
+690;Termostatos;56096304;RUC;Jurídico
+691;Ventilador Tubular;20637599;DNI;Natural
+692;Cassette;70951502;DNI;Natural
+693;Split Piso Techo;86915846;DNI;Natural
+694;Ventilador Industrial;67106989;DNI;Natural
+695;VRF;36315995;RUC;Jurídico
+696;Cassette;21257862;DNI;Natural
+697;Tipo Paquete;46896252;RUC;Jurídico
+698;VRV;72865823;DNI;Natural
+699;Rejilla Lineal;35945471;DNI;Natural
+700;VRV;74849458;RUC;Jurídico
+701;Visor Líquido;4341938;DNI;Natural
+702;Split Pared;79999741;DNI;Natural
+703;Tipo Paquete;81414342;RUC;Jurídico
+704;Split Pared;27456419;RUC;Jurídico
+705;Termostatos;66312255;RUC;Jurídico
+706;Split Pared;26168322;RUC;Jurídico
+707;VRV;38169876;DNI;Natural
+708;Ventilador Centrífugo;80295131;DNI;Natural
+709;Split Pared;78385433;DNI;Natural
+710;Fan Coil;34538515;DNI;Natural
+711;Rejilla Doble Deflexión;1238441;DNI;Natural
+712;Fan Coil;26719774;DNI;Natural
+713;Cortina de Aire ;46114029;DNI;Natural
+714;Split Ducto;53408358;DNI;Natural
+715;Fan Coil;98054202;RUC;Jurídico
+716;Rejilla 1 vía;89351495;DNI;Natural
+717;Ventilador Tubular;56547347;RUC;Jurídico
+718;Termostatos;51556339;RUC;Jurídico
+719;Circular Residencial ;88309566;RUC;Jurídico
+720;Helicocentrífugo Comercial ;91224744;RUC;Jurídico
+721;Rejilla Circular;57907859;DNI;Natural
+722;Axial Residencial;25093140;RUC;Jurídico
+723;Split Ducto;93852273;DNI;Natural
+724;Cassette;41605835;RUC;Jurídico
+725;Fan Coil;32003368;DNI;Natural
+726;Split Piso Techo;23209661;RUC;Jurídico
+727;Fan Coil;62099074;DNI;Natural
+728;Ventana;5871648;DNI;Natural
+729;Ventana;89233989;DNI;Natural
+730;Cortina de Aire Industrial;12215700;RUC;Jurídico
+731;VRF;7869662;DNI;Natural
+732;Ventana;7395036;DNI;Natural
+733;Circular Residencial ;24176423;DNI;Natural
+734;Fan Coil;57408841;RUC;Jurídico
+735;Split Ducto;76644161;RUC;Jurídico
+736;Split Piso Techo;6508825;RUC;Jurídico
+737;Split Piso Techo;32822476;DNI;Natural
+738;Fan Coil;14729831;DNI;Natural
+739;Helicocentrífugo Comercial ;69465951;DNI;Natural
+740;Cortina de Aire ;7465670;RUC;Jurídico
+741;Fan Coil;31686474;RUC;Jurídico
+742;Termostatos;80441996;RUC;Jurídico
+743;VRF;12282117;RUC;Jurídico
+744;Rejilla 3 vías;65587805;DNI;Natural
+745;Helicocentrífugo Comercial ;98394976;RUC;Jurídico
+746;Bomba de Condensado;95564890;RUC;Jurídico
+747;Gas Refrigerante;55632174;RUC;Jurídico
+748;Filtro de Poliester;36423759;DNI;Natural
+749;Helicocentrífugo Comercial ;18138434;DNI;Natural
+750;VRF;88872123;RUC;Jurídico
+751;Rejilla 4 vías;12834779;DNI;Natural
+752;Cortina de Aire ;48623515;DNI;Natural
+753;Split Ducto;94318483;DNI;Natural
+754;Cortina de Aire ;24912984;RUC;Jurídico
+755;Repuestos;32427362;RUC;Jurídico
+756;Split Pared;68726684;DNI;Natural
+757;Helicocentrífugo Comercial ;49005666;RUC;Jurídico
+758;Split Pared;72923860;DNI;Natural
+759;Split Ducto;23663987;DNI;Natural
+760;Fan Coil;81843066;RUC;Jurídico
+761;Visor Líquido;17702410;DNI;Natural
+762;Aislamiento Térmico;79806396;DNI;Natural
+763;Axial Residencial;5823346;DNI;Natural
+764;Split Ducto;26775587;RUC;Jurídico
+765;Ventana;44305311;RUC;Jurídico
+766;VRF;10737797;DNI;Natural
+767;Ventilador Tubular;21298942;DNI;Natural
+768;Cinta de Aluminio;5376259;DNI;Natural
+769;Ventana;80640011;DNI;Natural
+770;Termostatos;34463635;RUC;Jurídico
+771;Axial Residencial;6792163;DNI;Natural
+772;Axial Residencial;20121918;DNI;Natural
+773;Split Pared;86599854;RUC;Jurídico
+774;Helicocentrífugo Silent  ;83867377;RUC;Jurídico
+775;VRF;58131840;DNI;Natural
+776;Axial Residencial;82967367;RUC;Jurídico
+777;VRF;73286044;RUC;Jurídico
+778;Helicocentrífugo Residencial;24656890;RUC;Jurídico
+779;Rejilla 2 vías;24610185;DNI;Natural
+780;Termostatos;85998223;DNI;Natural
+781;Helicocentrífugo Comercial ;1511721;RUC;Jurídico
+782;Ventana;88052173;DNI;Natural
+783;Termostatos;28530267;RUC;Jurídico
+784;Cinta de Aluminio;91956958;RUC;Jurídico
+785;Termostatos;26906142;RUC;Jurídico
+786;Helicocentrífugo Comercial ;44511997;RUC;Jurídico
+787;Split Ducto;34481802;DNI;Natural
+788;Fan Coil;95541049;RUC;Jurídico
+789;Ducto Flexible;32107316;DNI;Natural
+790;Rejilla 1 vía;47598528;RUC;Jurídico
+791;VRV;90398205;RUC;Jurídico
+792;Ventana;84205783;DNI;Natural
+793;VRF;82280577;RUC;Jurídico
+794;Tipo Paquete;82262251;RUC;Jurídico
+795;Cortina de Aire ;93238681;DNI;Natural
+796;Circular Residencial ;36390591;DNI;Natural
+797;Split Piso Techo;52630781;RUC;Jurídico
+798;Split Ducto;5781873;DNI;Natural
+799;Cassette;92266657;DNI;Natural
+800;Cassette;86028255;DNI;Natural
+801;Fan Coil;76936363;DNI;Natural
+802;Tipo Paquete;73468888;RUC;Jurídico
+803;Ducto Circular;30978466;DNI;Natural
+804;Ventana;7828821;RUC;Jurídico
+805;Split Pared;36791978;DNI;Natural
+806;Ventilador Centrífugo;27724175;DNI;Natural
+807;Split Pared;92948449;RUC;Jurídico
+808;Ducto Flexible;44936216;DNI;Natural
+809;Split Piso Techo;26457164;DNI;Natural
+810;Visor Líquido;94364029;RUC;Jurídico
+811;Tipo Paquete;3534226;RUC;Jurídico
+812;Fan Coil;96347342;RUC;Jurídico
+813;Termostatos;93042722;RUC;Jurídico
+814;Ducto Circular;45783980;DNI;Natural
+815;Tipo Paquete;21437848;RUC;Jurídico
+816;Termostatos;5308186;DNI;Natural
+817;VRF;24793691;DNI;Natural
+818;Rejilla Circular;84050315;DNI;Natural
+819;Ventilador Centrífugo;89417227;RUC;Jurídico
+820;Tipo Paquete;97282215;RUC;Jurídico
+821;VRF;49359188;RUC;Jurídico
+822;VRF;80291566;DNI;Natural
+823;Helicocentrífugo Comercial ;53995087;DNI;Natural
+824;Split Ducto;15255556;DNI;Natural
+825;Helicocentrífugo Silent  ;65765930;DNI;Natural
+826;Helicocentrífugo Comercial ;30714419;DNI;Natural
+827;Ventilador Centrífugo;6768812;DNI;Natural
+828;Ventana;98471273;DNI;Natural
+829;VRV;80847768;RUC;Jurídico
+830;VRF;4707251;RUC;Jurídico
+831;Cortina de Aire Industrial;29343622;RUC;Jurídico
+832;VRV;67512963;RUC;Jurídico
+833;Split Piso Techo;46697984;DNI;Natural
+834;Ventilador Centrífugo;87575930;RUC;Jurídico
+835;Repuestos;16282455;RUC;Jurídico
+836;Cassette;55182461;RUC;Jurídico
+837;Ventilador Centrífugo;56263868;DNI;Natural
+838;Split Ducto;12974877;DNI;Natural
+839;Axial Residencial;10088066;RUC;Jurídico
+840;Rejilla 3 vías;4170759;RUC;Jurídico
+841;Filtro Deshumedecedor;17850061;DNI;Natural
+842;Split Pared;67076294;DNI;Natural
+843;Cortina de Aire ;18042083;DNI;Natural
+844;VRF;19016182;DNI;Natural
+845;Circular Residencial ;62627649;DNI;Natural
+846;Split Ducto;95944012;DNI;Natural
+847;VRV;29769857;RUC;Jurídico
+848;VRF;85835404;RUC;Jurídico
+849;VRF;10889898;RUC;Jurídico
+850;Ventilador Tubular;77254452;RUC;Jurídico
+851;Split Pared;50252802;DNI;Natural
+852;Helicocentrífugo Comercial ;20143868;RUC;Jurídico
+853;VRV;2426938;RUC;Jurídico
+854;VRF;38876965;RUC;Jurídico
+855;Aislamiento Térmico;16189938;DNI;Natural
+856;Filtro Deshumedecedor;67109430;RUC;Jurídico
+857;Split Pared;99810274;RUC;Jurídico
+858;Cortina de Aire ;98918625;RUC;Jurídico
+859;Cassette;68238603;DNI;Natural
+860;Termostatos;73389768;RUC;Jurídico
+861;Cassette;14018635;DNI;Natural
+862;Ducto Circular;5398192;RUC;Jurídico
+863;Tipo Paquete;72636660;RUC;Jurídico
+864;Rejilla Circular;31724637;RUC;Jurídico
+865;Ventilador Centrífugo;16231573;RUC;Jurídico
+866;Ventilador Tubular;54088712;RUC;Jurídico
+867;Helicocentrífugo Residencial;36576088;DNI;Natural
+868;Cortina de Aire Industrial;8495013;DNI;Natural
+869;Cassette;92255057;RUC;Jurídico
+870;Rejilla 1 vía;70076520;DNI;Natural
+871;Ventilador Industrial;25544703;RUC;Jurídico
+872;Split Piso Techo;35099030;RUC;Jurídico
+873;Rejilla Circular;66831778;DNI;Natural
+874;Termostatos;35896485;DNI;Natural
+875;Ventilador Industrial;36461458;DNI;Natural
+876;Rejilla 3 vías;73277198;RUC;Jurídico
+877;Fan Coil;84124948;RUC;Jurídico
+878;Rejilla de Retorno;56091378;RUC;Jurídico
+879;Helicocentrífugo Silent  ;99661695;RUC;Jurídico
+880;VRF;41023949;RUC;Jurídico
+881;Helicocentrífugo Silent  ;80022600;DNI;Natural
+882;VRV;93103857;DNI;Natural
+883;Ventilador Centrífugo;36997269;RUC;Jurídico
+884;Rejilla Rotacional;62758221;RUC;Jurídico
+885;Fan Coil;45533179;RUC;Jurídico
+886;Split Pared;71492680;DNI;Natural
+887;Ducto Circular;20281629;DNI;Natural
+888;Circular Residencial ;7691037;RUC;Jurídico
+889;Axial Residencial;9954572;DNI;Natural
+890;Helicocentrífugo Silent  ;92357605;DNI;Natural
+892;Rejilla Circular;84228444;RUC;Jurídico
+893;Ventilador Tubular;35053600;RUC;Jurídico
+894;Helicocentrífugo Residencial;72346051;DNI;Natural
+895;Helicocentrífugo Residencial;87907620;DNI;Natural
+896;Split Pared;46861278;RUC;Jurídico
+897;Filtro Hepa;61273389;RUC;Jurídico
+898;Termostatos;47389131;DNI;Natural
+899;Rejilla Lineal;38443625;DNI;Natural
+900;Filtro Hepa;81685304;DNI;Natural
+901;Ventana;75559185;RUC;Jurídico
+902;Filtro Hepa;10158818;DNI;Natural
+903;Bomba de Condensado;35181847;DNI;Natural
+904;Split Pared;25713894;DNI;Natural
+905;Ducto Flexible;2373964;DNI;Natural
+906;Ventilador Centrífugo;15336772;DNI;Natural
+907;Tipo Paquete;33950305;RUC;Jurídico
+908;Fan Coil;52239575;RUC;Jurídico
+909;Axial Residencial;92331913;DNI;Natural
+910;Rejilla 1 vía;84610294;RUC;Jurídico
+911;Rejilla Multifuncional;94414114;DNI;Natural
+912;Helicocentrífugo Comercial ;58100258;DNI;Natural
+913;VRV;28030825;RUC;Jurídico
+914;Bomba de Condensado;2734818;DNI;Natural
+915;Helicocentrífugo Residencial;80476124;RUC;Jurídico
+916;Rejilla 2 vías;63301329;RUC;Jurídico
+917;Rejilla 1 vía;15768286;RUC;Jurídico
+918;Cassette;74581223;DNI;Natural
+919;Ventilador Industrial;56285949;DNI;Natural
+920;Split Ducto;88984449;RUC;Jurídico
+921;Filtro Hepa;1276826;RUC;Jurídico
+922;Split Pared;60612462;RUC;Jurídico
+923;VRF;18337140;DNI;Natural
+924;Ventilador Tubular;32019816;RUC;Jurídico
+925;Cortina de Aire ;84983658;DNI;Natural
+926;Gas Refrigerante;6598740;DNI;Natural
+927;Circular Residencial ;26152690;DNI;Natural
+928;Cassette;85795258;DNI;Natural
+929;VRF;87835196;DNI;Natural
+930;Cassette;42084295;RUC;Jurídico
+931;Fan Coil;30429947;RUC;Jurídico
+932;Manguera;76029814;RUC;Jurídico
+933;Termostatos;1785331;DNI;Natural
+934;Split Piso Techo;92945601;RUC;Jurídico
+935;Rejilla 1 vía;2470237;RUC;Jurídico
+936;Llave de Paso;88288290;RUC;Jurídico
+937;Termostatos;25664252;DNI;Natural
+938;Split Ducto;59090619;RUC;Jurídico
+939;Ventilador Tubular;76767537;DNI;Natural
+940;Ducto Rectangular;16604777;DNI;Natural
+941;VRF;13907281;DNI;Natural
+942;Rejilla Rotacional;94509940;RUC;Jurídico
+943;Ventilador Tubular;29650720;DNI;Natural
+944;Helicocentrífugo Comercial ;65146524;RUC;Jurídico
+945;Cortina de Aire Industrial;43865583;DNI;Natural
+946;Split Ducto;70969951;RUC;Jurídico
+947;Fan Coil;26071985;RUC;Jurídico
+948;Termostatos;50979106;DNI;Natural
+949;VRV;73888301;DNI;Natural
+950;Circular Residencial ;72025378;DNI;Natural
+951;Rejilla 2 vías;9293082;RUC;Jurídico
+952;Helicocentrífugo Residencial;75465842;RUC;Jurídico
+953;Fan Coil;42879500;RUC;Jurídico
+954;Split Piso Techo;16740774;DNI;Natural
+955;Split Pared;13407584;RUC;Jurídico
+956;VRV;1427388;DNI;Natural
+957;Helicocentrífugo Residencial;4048255;DNI;Natural
+958;Helicocentrífugo Comercial ;28135035;DNI;Natural
+959;Helicocentrífugo Residencial;47585018;DNI;Natural
+960;Split Pared;16646220;DNI;Natural
+961;Split Piso Techo;53538752;RUC;Jurídico
+962;Termostatos;75855239;DNI;Natural
+963;Ventilador Centrífugo;48472385;RUC;Jurídico
+964;Termostatos;71579554;RUC;Jurídico
+965;Helicocentrífugo Comercial ;36849928;RUC;Jurídico
+966;Tipo Paquete;18094859;RUC;Jurídico
+967;Cassette;40519723;RUC;Jurídico
+968;Split Pared;70819152;DNI;Natural
+969;Filtro Hepa;40154370;DNI;Natural
+970;Helicocentrífugo Silent  ;82886981;DNI;Natural
+971;Tubería de Cobre;58825590;DNI;Natural
+972;Fan Coil;65464973;DNI;Natural
+973;VRV;96103068;RUC;Jurídico
+974;Split Ducto;1908521;RUC;Jurídico
+975;Termostatos;29840707;DNI;Natural
+976;Termostatos;36831976;DNI;Natural
+977;Split Pared;33694546;RUC;Jurídico
+978;Ventana;27985101;RUC;Jurídico
+979;Cortina de Aire Industrial;53979150;RUC;Jurídico
+980;VRV;78358438;DNI;Natural
+981;Ventilador Centrífugo;64571032;RUC;Jurídico
+982;Split Piso Techo;93224097;DNI;Natural
+983;Tipo Paquete;32527613;DNI;Natural
+984;Mangas;14171224;DNI;Natural
+985;VRF;82875383;RUC;Jurídico
+986;VRV;74748409;DNI;Natural
+987;Fan Coil;76903424;DNI;Natural
+988;Ventilador Industrial;47537065;DNI;Natural
+989;Ventilador Centrífugo;71489988;DNI;Natural
+990;Cortina de Aire Industrial;96459609;DNI;Natural
+991;Filtro Metálico;45577030;RUC;Jurídico
+992;Tipo Paquete;87893487;DNI;Natural
+993;Termostatos;93205115;DNI;Natural
+994;Ducto Flexible;80273589;DNI;Natural
+995;Cortina de Aire Industrial;93024237;RUC;Jurídico
+996;VRF;51221622;RUC;Jurídico
+997;VRF;46050272;RUC;Jurídico
+998;Rejilla Doble Deflexión;52983356;RUC;Jurídico
+999;VRF;53663401;DNI;Natural
+1000;Fan Coil;21227784;DNI;Natural
+1;Fan Coil;20371555;DNI;Natural
+2;Helicocentrífugo Silent  ;45048096;DNI;Natural
+3;Aislamiento Térmico;59523429;DNI;Natural
+4;Termostatos;87834304;DNI;Natural
+5;Fan Coil;10236637;DNI;Natural
+6;Cassette;31935535;DNI;Natural
+7;Axial Residencial;56679144;DNI;Natural
+8;Cortina de Aire ;74954129;DNI;Natural
+9;Termostatos;35956616;DNI;Natural
+10;Tipo Paquete;90520010;DNI;Natural
+11;Termostatos;84389342;DNI;Natural
+12;Ventana;62481694;DNI;Natural
+13;Ventilador Industrial;45817517;DNI;Natural
+14;Split Piso Techo;60625918;DNI;Natural
+15;Rejilla Lineal;50685872;DNI;Natural
+16;Fan Coil;34695713;DNI;Natural
+17;Helicocentrífugo Silent  ;23814246;DNI;Natural
+18;Split Ducto;59269700;DNI;Natural
+19;Cassette;75277155;DNI;Natural
+20;Ventilador Centrífugo;97131621;DNI;Natural
+21;Cassette;19541819;DNI;Natural
+22;VRF;80024975;DNI;Natural
+23;Rejilla 3 vías;21958280;DNI;Natural
+24;VRV;27554396;DNI;Natural
+25;Cassette;95311295;DNI;Natural
+26;Rejilla 3 vías;60833131;DNI;Natural
+27;VRF;43851264;DNI;Natural
+28;Helicocentrífugo Residencial;70347136;DNI;Natural
+29;Helicocentrífugo Comercial ;41795693;DNI;Natural
+30;VRV;97535228;DNI;Natural
+31;Axial Residencial;40496568;DNI;Natural
+32;VRF;56010947;DNI;Natural
+33;Helicocentrífugo Silent  ;93956514;DNI;Natural
+34;Fan Coil;44287974;DNI;Natural
+35;VRV;68775546;DNI;Natural
+36;Cassette;81367734;DNI;Natural
+37;Circular Residencial ;47397556;DNI;Natural
+38;Cinta de Aluminio;10153244;DNI;Natural
+39;Split Ducto;16019965;DNI;Natural
+40;Helicocentrífugo Comercial ;84277654;DNI;Natural
+41;Split Piso Techo;63548906;DNI;Natural
+42;Ducto Flexible;21353357;DNI;Natural
+43;VRV;22148550;DNI;Natural
+44;VRF;83581653;DNI;Natural
+45;Cassette;61189485;DNI;Natural
+46;Ventilador Industrial;79167686;DNI;Natural
+47;Aislamiento Térmico;17761403;DNI;Natural
+48;Split Ducto;39354362;DNI;Natural
+49;Fan Coil;40797344;DNI;Natural
+50;Rejilla de Retorno;50252311;DNI;Natural
+51;Split Ducto;72480617;DNI;Natural
+52;Helicocentrífugo Comercial ;79370509;DNI;Natural
+53;Tipo Paquete;19291679;DNI;Natural
+54;Helicocentrífugo Residencial;78897504;DNI;Natural
+55;Split Pared;36378300;DNI;Natural
+56;Fan Coil;44191656;DNI;Natural
+57;Cassette;75923135;DNI;Natural
+58;Fan Coil;10183653;DNI;Natural
+59;Ventana;41682933;DNI;Natural
+60;Split Ducto;26162564;DNI;Natural
+61;Helicocentrífugo Residencial;89535911;DNI;Natural
+62;VRF;42067921;DNI;Natural
+63;Split Piso Techo;34762965;DNI;Natural
+64;Tipo Paquete;76253251;DNI;Natural
+65;Ventilador Tubular;42154297;DNI;Natural
+66;Ventilador Tubular;13965949;DNI;Natural
+67;Ducto Circular;43171911;DNI;Natural
+68;Presostato;19142565;DNI;Natural
+69;Tipo Paquete;18910807;DNI;Natural
+70;Helicocentrífugo Silent  ;31345476;DNI;Natural
+71;Repuestos;68257995;DNI;Natural
+72;Axial Residencial;21798318;DNI;Natural
+73;Tipo Paquete;12130198;DNI;Natural
+74;Circular Residencial ;90718648;DNI;Natural
+75;Ducto Flexible;53755180;DNI;Natural
+76;Split Pared;85378850;DNI;Natural
+77;Circular Residencial ;11866258;DNI;Natural
+78;Split Piso Techo;83431347;DNI;Natural
+79;Rejilla 3 vías;61912909;DNI;Natural
+80;Filtro Hepa;95741720;DNI;Natural
+81;Cortina de Aire Industrial;24532220;DNI;Natural
+82;VRV;56910649;DNI;Natural
+83;VRF;36378651;DNI;Natural
+84;Ducto Circular;92037340;DNI;Natural
+85;Axial Residencial;63554229;DNI;Natural
+86;Ventana;69161940;DNI;Natural
+87;Termostatos;85114956;DNI;Natural
+88;Split Piso Techo;49115068;DNI;Natural
+89;Split Pared;65398052;DNI;Natural
+90;Fan Coil;78424484;DNI;Natural
+91;Ventilador Tubular;77876908;DNI;Natural
+92;Cortina de Aire Industrial;65855593;DNI;Natural
+93;Presostato;18659923;DNI;Natural
+94;Bomba de Condensado;12127627;DNI;Natural
+95;Split Pared;76668529;DNI;Natural
+96;Ventilador Tubular;28645907;DNI;Natural
+97;Split Ducto;55562141;DNI;Natural
+98;Ventilador Centrífugo;53117129;DNI;Natural
+99;Ventilador Tubular;12123795;DNI;Natural
+100;Ventana;41819332;DNI;Natural
+101;Axial Residencial;98343688;DNI;Natural
+102;VRV;14320905;DNI;Natural
+103;Cortina de Aire Industrial;45591692;DNI;Natural
+104;Split Ducto;60034688;DNI;Natural
+105;Split Ducto;16727545;DNI;Natural
+106;Cortina de Aire Industrial;94270379;DNI;Natural
+107;Helicocentrífugo Residencial;16271366;DNI;Natural
+108;Tipo Paquete;40649144;DNI;Natural
+109;Ventilador Industrial;80625314;DNI;Natural
+110;VRV;14667326;DNI;Natural
+111;Helicocentrífugo Silent  ;29289996;DNI;Natural
+112;Termostatos;97695670;DNI;Natural
+113;Cortina de Aire Industrial;42933485;DNI;Natural
+114;Ventana;85095668;DNI;Natural
+115;Helicocentrífugo Comercial ;81517865;DNI;Natural
+116;Termostatos;98783613;DNI;Natural
+117;VRF;17567520;DNI;Natural
+118;Tipo Paquete;49534418;DNI;Natural
+119;VRV;85939187;DNI;Natural
+120;Split Ducto;43440875;DNI;Natural
+121;Split Ducto;98155033;DNI;Natural
+122;Filtro Deshumedecedor;29691785;DNI;Natural
+123;Ventilador Tubular;66363983;DNI;Natural
+124;Ventilador Industrial;13993719;DNI;Natural
+125;VRV;31291569;DNI;Natural
+126;Axial Residencial;26069570;DNI;Natural
+127;Fan Coil;27078026;DNI;Natural
+128;Split Piso Techo;46549836;DNI;Natural
+129;Rejilla Rotacional;74767090;DNI;Natural
+130;Split Piso Techo;23116375;DNI;Natural
+131;Ventilador Industrial;76312610;DNI;Natural
+132;Helicocentrífugo Residencial;32746615;DNI;Natural
+133;Termostatos;70578236;DNI;Natural
+134;Rejilla Doble Deflexión;83519788;DNI;Natural
+135;Llave de Paso;45696556;DNI;Natural
+136;Helicocentrífugo Residencial;91262933;DNI;Natural
+137;Cinta de Aluminio;98611455;DNI;Natural
+138;Helicocentrífugo Residencial;27633544;DNI;Natural
+139;Split Pared;89067604;DNI;Natural
+140;Tipo Paquete;69386064;DNI;Natural
+141;Cortina de Aire Industrial;81953903;DNI;Natural
+142;Split Piso Techo;59854728;DNI;Natural
+143;Ventilador Centrífugo;90584094;DNI;Natural
+144;Split Pared;82794601;DNI;Natural
+145;Helicocentrífugo Silent  ;85662745;DNI;Natural
+146;Split Piso Techo;46392535;DNI;Natural
+147;Split Ducto;50895142;DNI;Natural
+148;Ventilador Tubular;36487555;DNI;Natural
+149;Ducto Rectangular;33416990;DNI;Natural
+150;Ventilador Tubular;99085845;DNI;Natural
+151;Tipo Paquete;69916654;DNI;Natural
+152;Fan Coil;25210545;DNI;Natural
+153;Tubería de Cobre;37474632;DNI;Natural
+154;Axial Residencial;46362851;DNI;Natural
+155;Axial Residencial;35826388;DNI;Natural
+156;Visor Líquido;56671562;DNI;Natural
+157;Split Pared;42291896;DNI;Natural
+158;Ducto Rectangular;93587805;DNI;Natural
+159;Ventilador Industrial;71650903;DNI;Natural
+160;Helicocentrífugo Residencial;64013255;DNI;Natural
+161;Filtro Metálico;92296961;DNI;Natural
+162;Helicocentrífugo Comercial ;33516913;DNI;Natural
+163;Split Pared;53489003;DNI;Natural
+164;Cassette;87547672;DNI;Natural
+165;Split Piso Techo;61991921;DNI;Natural
+166;Rejilla 3 vías;48632810;DNI;Natural
+167;Rejilla 2 vías;97964909;DNI;Natural
+168;Split Ducto;27785930;DNI;Natural
+169;Axial Residencial;31920692;DNI;Natural
+170;Ventilador Centrífugo;92997107;DNI;Natural
+171;Ventilador Tubular;17488253;DNI;Natural
+172;Filtro Metálico;93365932;DNI;Natural
+173;VRF;41032798;DNI;Natural
+174;Fan Coil;34527965;DNI;Natural
+175;Cortina de Aire ;23241970;DNI;Natural
+176;Split Pared;44033410;DNI;Natural
+177;Ventilador Tubular;86929047;DNI;Natural
+178;VRF;26419001;DNI;Natural
+179;Termostatos;81194316;DNI;Natural
+180;VRF;85138348;DNI;Natural
+181;Helicocentrífugo Comercial ;56711959;DNI;Natural
+182;Tipo Paquete;41878223;DNI;Natural
+183;Ducto Flexible;93020275;DNI;Natural
+184;Termostatos;81381077;DNI;Natural
+185;Split Piso Techo;10317070;DNI;Natural
+186;Repuestos;85089186;DNI;Natural
+187;Split Piso Techo;79875576;DNI;Natural
+26;Fan Coil;60833131;DNI;Natural
+99;Split Pared;12123795;DNI;Natural
+404;Fan Coil;20480847588;RUC;Jurídico
+90;Split Piso Techo;78424484;DNI;Natural
+229;Mangas;43929606;DNI;Natural
+89;VRV;65398052;DNI;Natural
+497;Fan Coil;20113788142;RUC;Jurídico
+311;Cassette;20079447253;RUC;Jurídico
+470;Termostatos;20265146631;RUC;Jurídico
+433;Ventilador Centrífugo;20574651279;RUC;Jurídico
+132;Termostatos;32746615;DNI;Natural
+53;Split Pared;19291679;DNI;Natural
+408;Aislamiento Térmico;20682194310;RUC;Jurídico
+3;Tipo Paquete;59523429;DNI;Natural
+487;Split Ducto;20061424755;RUC;Jurídico
+54;Repuestos;78897504;DNI;Natural
+152;Tipo Paquete;25210545;DNI;Natural
+77;Tipo Paquete;11866258;DNI;Natural
+330;Helicocentrífugo Comercial ;20224680532;RUC;Jurídico
+200;Cassette;33929015;DNI;Natural
+418;Ventilador Industrial;20956333660;RUC;Jurídico
+272;Ventana;50820592;DNI;Natural
+187;Split Pared;79875576;DNI;Natural
+138;Filtro Hepa;27633544;DNI;Natural
+184;VRF;81381077;DNI;Natural
+363;Ventilador Tubular;20147269508;RUC;Jurídico
+21;Split Ducto;19541819;DNI;Natural
+279;VRV;32180071;DNI;Natural
+418;Helicocentrífugo Comercial ;20956333660;RUC;Jurídico
+58;VRF;10183653;DNI;Natural
+22;Axial Residencial;80024975;DNI;Natural
+425;Ventana;20552961079;RUC;Jurídico
+202;Ventilador Tubular;38281291;DNI;Natural
+452;Cortina de Aire Industrial;20842782083;RUC;Jurídico
+17;Manguera;23814246;DNI;Natural
+340;Ventilador Tubular;20824752378;RUC;Jurídico
+459;Ventilador Industrial;20538757529;RUC;Jurídico
+196;Axial Residencial;13128671;DNI;Natural
+85;VRV;63554229;DNI;Natural
+165;Split Piso Techo;61991921;DNI;Natural
+313;Tubería de Cobre;20744113510;RUC;Jurídico
+477;Split Piso Techo;20666597533;RUC;Jurídico
+446;Helicocentrífugo Residencial;20552892196;RUC;Jurídico
+177;VRF;86929047;DNI;Natural
+184;Ventana;81381077;DNI;Natural
+360;Ventilador Industrial;20023634763;RUC;Jurídico
+438;Termostatos;20267074315;RUC;Jurídico
+343;Split Ducto;20096223149;RUC;Jurídico
+323;Rejilla Rotacional;20362124702;RUC;Jurídico
+335;Ducto Flexible;20087425209;RUC;Jurídico
+131;Circular Residencial ;76312610;DNI;Natural
+32;Tipo Paquete;56010947;DNI;Natural
+254;Fan Coil;29962348;DNI;Natural
+499;Cassette;20959276550;RUC;Jurídico
+195;Helicocentrífugo Comercial ;34582754;DNI;Natural
+329;Axial Residencial;20442391608;RUC;Jurídico
+480;Termostatos;20257511937;RUC;Jurídico
+243;Ventana;33115993;DNI;Natural
+478;Split Ducto;20011425290;RUC;Jurídico
+229;Tubería de Cobre;43929606;DNI;Natural
+278;Split Ducto;13076752;DNI;Natural
+360;Cortina de Aire Industrial;20023634763;RUC;Jurídico
+210;Tipo Paquete;74751993;DNI;Natural
+339;Ventana;20978526621;RUC;Jurídico
+290;Ventilador Tubular;84838466;DNI;Natural
+133;Axial Residencial;70578236;DNI;Natural
+171;Circular Residencial ;17488253;DNI;Natural
+139;Split Piso Techo;89067604;DNI;Natural
+463;Split Ducto;20999194120;RUC;Jurídico
+341;Bomba de Condensado;20723842185;RUC;Jurídico
+124;Cortina de Aire Industrial;13993719;DNI;Natural
+406;Aislamiento Térmico;20929602951;RUC;Jurídico
+231;Split Piso Techo;33536207;DNI;Natural
+58;Ventana;10183653;DNI;Natural
+453;Rejilla Doble Deflexión;20839981850;RUC;Jurídico
+186;Termostatos;85089186;DNI;Natural
+98;Split Piso Techo;53117129;DNI;Natural
+342;Ducto Rectangular;20281878181;RUC;Jurídico
+138;Tubería de Cobre;27633544;DNI;Natural
+338;Termostatos;20558166758;RUC;Jurídico
+32;Cassette;56010947;DNI;Natural
+451;Split Piso Techo;20810019416;RUC;Jurídico
+213;Split Pared;66429311;DNI;Natural
+407;Filtro de Poliester;20766644302;RUC;Jurídico
+388;Tipo Paquete;20151662716;RUC;Jurídico
+294;Ventilador Tubular;81119508;DNI;Natural
+394;Tipo Paquete;20210827617;RUC;Jurídico
+217;Rejilla Lineal;84872425;DNI;Natural
+220;Bomba de Condensado;45924894;DNI;Natural
+231;Cortina de Aire Industrial;33536207;DNI;Natural
+126;Ducto Circular;26069570;DNI;Natural
+81;Visor Líquido;24532220;DNI;Natural
+338;Termostatos;20558166758;RUC;Jurídico
+442;Cortina de Aire Industrial;20230956922;RUC;Jurídico
+267;Split Piso Techo;92646700;DNI;Natural
+409;Ventilador Centrífugo;20095828050;RUC;Jurídico
+127;Split Piso Techo;27078026;DNI;Natural
+429;Split Pared;20067490354;RUC;Jurídico
+324;Cortina de Aire Industrial;20042793047;RUC;Jurídico
+98;Tipo Paquete;53117129;DNI;Natural
+312;VRF;20953765662;RUC;Jurídico
+352;Visor Líquido;20899922743;RUC;Jurídico
+359;Tipo Paquete;20062728268;RUC;Jurídico
+245;Termostatos;90228711;DNI;Natural
+388;Cortina de Aire ;20151662716;RUC;Jurídico
+214;Ventana;33222507;DNI;Natural
+419;Fan Coil;20387728785;RUC;Jurídico
+383;Tipo Paquete;20840788663;RUC;Jurídico
+404;VRF;20480847588;RUC;Jurídico
+171;Ventilador Tubular;17488253;DNI;Natural
+105;Tipo Paquete;16727545;DNI;Natural
+364;Ventana;20043661201;RUC;Jurídico
+233;Bomba de Condensado;83464777;DNI;Natural
+419;Cassette;20387728785;RUC;Jurídico
+142;Rejilla Doble Deflexión;59854728;DNI;Natural
+410;Ventana;20143368022;RUC;Jurídico
+143;Ventilador Industrial;90584094;DNI;Natural
+4;Ventana;87834304;DNI;Natural
+333;Helicocentrífugo Silent  ;20569841805;RUC;Jurídico
+320;Helicocentrífugo Comercial ;20482938625;RUC;Jurídico
+169;Ventana;31920692;DNI;Natural
+255;Repuestos;45596269;DNI;Natural
+220;Ventilador Centrífugo;45924894;DNI;Natural
+73;Ventana;12130198;DNI;Natural
+162;Termostatos;33516913;DNI;Natural
+192;Aislamiento Térmico;35850470;DNI;Natural
+372;Ventilador Tubular;20619933139;RUC;Jurídico
+151;Ventana;69916654;DNI;Natural
+426;VRF;20885384856;RUC;Jurídico
+281;Presostato;34863354;DNI;Natural
+209;Ventilador Tubular;32125670;DNI;Natural
+45;Ventana;61189485;DNI;Natural
+102;Termostatos;14320905;DNI;Natural
+231;Presostato;33536207;DNI;Natural
+457;Ducto Circular;20018155321;RUC;Jurídico
+408;Fan Coil;20682194310;RUC;Jurídico
+350;Helicocentrífugo Silent  ;20063364523;RUC;Jurídico
+302;Circular Residencial ;20340766225;RUC;Jurídico
+475;VRV;20382714220;RUC;Jurídico
+133;Rejilla Multifuncional;70578236;DNI;Natural
+139;VRV;89067604;DNI;Natural
+164;Ventana;87547672;DNI;Natural
+220;Filtro Metálico;45924894;DNI;Natural
+462;Termostatos;20056752611;RUC;Jurídico
+164;VRF;87547672;DNI;Natural
+275;Ventilador Industrial;36451724;DNI;Natural
+4;Axial Residencial;87834304;DNI;Natural
+254;Fan Coil;29962348;DNI;Natural
+397;VRF;20790347552;RUC;Jurídico
+44;VRV;83581653;DNI;Natural
+234;Helicocentrífugo Comercial ;96882930;DNI;Natural
+474;Fan Coil;20219263870;RUC;Jurídico
