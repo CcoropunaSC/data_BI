@@ -1,4 +1,5 @@
-﻿1;Ventana;20371555;DNI;Natural
+﻿idCliente;producto;numero_doc;tipo_doc;tipo_cli
+1;Ventana;20371555;DNI;Natural
 298;VRF;14321179;DNI;Natural
 595;Termostatos;72569665;RUC;Jurídico
 892;Cassette;84228444;RUC;Jurídico
@@ -226,28 +227,28 @@
 2;Cortina de Aire Industrial;45048096;DNI;Natural
 3;Ventilador Tubular;59523429;DNI;Natural
 4;Cortina de Aire Industrial;87834304;DNI;Natural
-5;"Circular Residencial ";10236637;DNI;Natural
+5;Circular Residencial ;10236637;DNI;Natural
 6;Ventilador Tubular;31935535;DNI;Natural
 7;Helicocentrífugo Residencial;56679144;DNI;Natural
 8;Cortina de Aire Industrial;74954129;DNI;Natural
-9;"Cortina de Aire ";35956616;DNI;Natural
+9;Cortina de Aire ;35956616;DNI;Natural
 10;Ventilador Centrífugo;90520010;DNI;Natural
 11;Axial Residencial;84389342;DNI;Natural
 12;Ventilador Centrífugo;62481694;DNI;Natural
-13;"Helicocentrífugo Comercial ";45817517;DNI;Natural
+13;Helicocentrífugo Comercial ;45817517;DNI;Natural
 14;Cortina de Aire Industrial;60625918;DNI;Natural
 15;Cortina de Aire Industrial;50685872;DNI;Natural
 16;Axial Residencial;34695713;DNI;Natural
 17;Axial Residencial;23814246;DNI;Natural
 18;Ventilador Centrífugo;59269700;DNI;Natural
-19;"Cortina de Aire ";75277155;DNI;Natural
-20;"Helicocentrífugo Silent  ";97131621;DNI;Natural
+19;Cortina de Aire ;75277155;DNI;Natural
+20;Helicocentrífugo Silent  ;97131621;DNI;Natural
 21;Helicocentrífugo Residencial;19541819;DNI;Natural
-22;"Helicocentrífugo Silent  ";80024975;DNI;Natural
+22;Helicocentrífugo Silent  ;80024975;DNI;Natural
 23;Ventilador Tubular;21958280;DNI;Natural
-24;"Circular Residencial ";27554396;DNI;Natural
-25;"Circular Residencial ";95311295;DNI;Natural
-26;"Helicocentrífugo Silent  ";60833131;DNI;Natural
+24;Circular Residencial ;27554396;DNI;Natural
+25;Circular Residencial ;95311295;DNI;Natural
+26;Helicocentrífugo Silent  ;60833131;DNI;Natural
 27;Helicocentrífugo Residencial;43851264;DNI;Natural
 28;Ventilador Centrífugo;70347136;DNI;Natural
 29;Axial Residencial;41795693;DNI;Natural
@@ -256,44 +257,44 @@
 32;Ventilador Industrial;56010947;DNI;Natural
 33;Axial Residencial;93956514;DNI;Natural
 34;Ventilador Industrial;44287974;DNI;Natural
-35;"Cortina de Aire ";68775546;DNI;Natural
+35;Cortina de Aire ;68775546;DNI;Natural
 36;Ventilador Centrífugo;81367734;DNI;Natural
-37;"Helicocentrífugo Silent  ";47397556;DNI;Natural
+37;Helicocentrífugo Silent  ;47397556;DNI;Natural
 38;Ventilador Tubular;10153244;DNI;Natural
 39;Cortina de Aire Industrial;16019965;DNI;Natural
-40;"Helicocentrífugo Comercial ";84277654;DNI;Natural
-41;"Helicocentrífugo Comercial ";63548906;DNI;Natural
+40;Helicocentrífugo Comercial ;84277654;DNI;Natural
+41;Helicocentrífugo Comercial ;63548906;DNI;Natural
 42;Ventilador Industrial;21353357;DNI;Natural
 43;Ventilador Centrífugo;22148550;DNI;Natural
 44;Helicocentrífugo Residencial;83581653;DNI;Natural
 45;Ventilador Tubular;61189485;DNI;Natural
-46;"Helicocentrífugo Silent  ";79167686;DNI;Natural
+46;Helicocentrífugo Silent  ;79167686;DNI;Natural
 47;Ventilador Tubular;17761403;DNI;Natural
 48;Ventilador Industrial;39354362;DNI;Natural
 49;Helicocentrífugo Residencial;40797344;DNI;Natural
 50;Axial Residencial;50252311;DNI;Natural
 51;Helicocentrífugo Residencial;72480617;DNI;Natural
 52;Helicocentrífugo Residencial;79370509;DNI;Natural
-53;"Circular Residencial ";19291679;DNI;Natural
-54;"Helicocentrífugo Comercial ";78897504;DNI;Natural
+53;Circular Residencial ;19291679;DNI;Natural
+54;Helicocentrífugo Comercial ;78897504;DNI;Natural
 55;Axial Residencial;36378300;DNI;Natural
 56;Axial Residencial;44191656;DNI;Natural
 57;Ventilador Tubular;75923135;DNI;Natural
 58;Cortina de Aire Industrial;10183653;DNI;Natural
 59;Ventilador Tubular;41682933;DNI;Natural
 60;Ventilador Centrífugo;26162564;DNI;Natural
-61;"Helicocentrífugo Silent  ";89535911;DNI;Natural
+61;Helicocentrífugo Silent  ;89535911;DNI;Natural
 62;Ventilador Centrífugo;42067921;DNI;Natural
-63;"Helicocentrífugo Comercial ";34762965;DNI;Natural
-64;"Helicocentrífugo Comercial ";76253251;DNI;Natural
+63;Helicocentrífugo Comercial ;34762965;DNI;Natural
+64;Helicocentrífugo Comercial ;76253251;DNI;Natural
 65;Cortina de Aire Industrial;42154297;DNI;Natural
 66;Helicocentrífugo Residencial;13965949;DNI;Natural
 67;Ventilador Tubular;43171911;DNI;Natural
 68;Axial Residencial;19142565;DNI;Natural
 69;Helicocentrífugo Residencial;18910807;DNI;Natural
-70;"Cortina de Aire ";31345476;DNI;Natural
+70;Cortina de Aire ;31345476;DNI;Natural
 71;Axial Residencial;68257995;DNI;Natural
-72;"Helicocentrífugo Comercial ";21798318;DNI;Natural
+72;Helicocentrífugo Comercial ;21798318;DNI;Natural
 487;VRV;20061424755;RUC;Jurídico
 488;Split Pared;20855392695;RUC;Jurídico
 489;Cassette;20785328277;RUC;Jurídico
@@ -590,36 +591,36 @@
 780;Termostatos;85998223;DNI;Natural
 781;Ventana;1511721;RUC;Jurídico
 782;Fan Coil;88052173;DNI;Natural
-73;"Helicocentrífugo Silent  ";12130198;DNI;Natural
+73;Helicocentrífugo Silent  ;12130198;DNI;Natural
 74;Cortina de Aire Industrial;90718648;DNI;Natural
 75;Ventilador Centrífugo;53755180;DNI;Natural
 76;Cortina de Aire Industrial;85378850;DNI;Natural
-77;"Circular Residencial ";11866258;DNI;Natural
-78;"Helicocentrífugo Comercial ";83431347;DNI;Natural
-79;"Helicocentrífugo Silent  ";61912909;DNI;Natural
+77;Circular Residencial ;11866258;DNI;Natural
+78;Helicocentrífugo Comercial ;83431347;DNI;Natural
+79;Helicocentrífugo Silent  ;61912909;DNI;Natural
 80;Ventilador Centrífugo;95741720;DNI;Natural
 81;Cortina de Aire Industrial;24532220;DNI;Natural
 82;Axial Residencial;56910649;DNI;Natural
 83;Helicocentrífugo Residencial;36378651;DNI;Natural
-84;"Helicocentrífugo Comercial ";92037340;DNI;Natural
-85;"Circular Residencial ";63554229;DNI;Natural
+84;Helicocentrífugo Comercial ;92037340;DNI;Natural
+85;Circular Residencial ;63554229;DNI;Natural
 86;Ventilador Tubular;69161940;DNI;Natural
-87;"Helicocentrífugo Silent  ";85114956;DNI;Natural
-88;"Helicocentrífugo Silent  ";49115068;DNI;Natural
-89;"Helicocentrífugo Comercial ";65398052;DNI;Natural
+87;Helicocentrífugo Silent  ;85114956;DNI;Natural
+88;Helicocentrífugo Silent  ;49115068;DNI;Natural
+89;Helicocentrífugo Comercial ;65398052;DNI;Natural
 90;Axial Residencial;78424484;DNI;Natural
-91;"Cortina de Aire ";77876908;DNI;Natural
-92;"Helicocentrífugo Silent  ";65855593;DNI;Natural
+91;Cortina de Aire ;77876908;DNI;Natural
+92;Helicocentrífugo Silent  ;65855593;DNI;Natural
 93;Ventilador Industrial;18659923;DNI;Natural
 94;Helicocentrífugo Residencial;12127627;DNI;Natural
-95;"Helicocentrífugo Silent  ";76668529;DNI;Natural
+95;Helicocentrífugo Silent  ;76668529;DNI;Natural
 96;Ventilador Industrial;28645907;DNI;Natural
-97;"Cortina de Aire ";55562141;DNI;Natural
-98;"Cortina de Aire ";53117129;DNI;Natural
+97;Cortina de Aire ;55562141;DNI;Natural
+98;Cortina de Aire ;53117129;DNI;Natural
 99;Axial Residencial;12123795;DNI;Natural
-100;"Circular Residencial ";41819332;DNI;Natural
-101;"Cortina de Aire ";98343688;DNI;Natural
-102;"Helicocentrífugo Comercial ";14320905;DNI;Natural
+100;Circular Residencial ;41819332;DNI;Natural
+101;Cortina de Aire ;98343688;DNI;Natural
+102;Helicocentrífugo Comercial ;14320905;DNI;Natural
 103;Axial Residencial;45591692;DNI;Natural
 104;Ventilador Industrial;60034688;DNI;Natural
 105;Ventilador Tubular;16727545;DNI;Natural
@@ -632,12 +633,12 @@
 112;Cortina de Aire Industrial;97695670;DNI;Natural
 113;Cortina de Aire Industrial;42933485;DNI;Natural
 114;Ventilador Tubular;85095668;DNI;Natural
-115;"Cortina de Aire ";81517865;DNI;Natural
+115;Cortina de Aire ;81517865;DNI;Natural
 116;Helicocentrífugo Residencial;98783613;DNI;Natural
 117;Axial Residencial;17567520;DNI;Natural
-118;"Circular Residencial ";49534418;DNI;Natural
+118;Circular Residencial ;49534418;DNI;Natural
 119;Ventilador Industrial;85939187;DNI;Natural
-120;"Cortina de Aire ";43440875;DNI;Natural
+120;Cortina de Aire ;43440875;DNI;Natural
 121;Cortina de Aire Industrial;98155033;DNI;Natural
 122;Axial Residencial;29691785;DNI;Natural
 123;Axial Residencial;66363983;DNI;Natural
@@ -647,437 +648,437 @@
 127;Ventilador Centrífugo;27078026;DNI;Natural
 128;Helicocentrífugo Residencial;46549836;DNI;Natural
 129;Ventilador Tubular;74767090;DNI;Natural
-130;"Circular Residencial ";23116375;DNI;Natural
+130;Circular Residencial ;23116375;DNI;Natural
 131;Axial Residencial;76312610;DNI;Natural
 132;Ventilador Centrífugo;32746615;DNI;Natural
 133;Cortina de Aire Industrial;70578236;DNI;Natural
 134;Ventilador Tubular;83519788;DNI;Natural
 135;Ventilador Tubular;45696556;DNI;Natural
 136;Ventilador Tubular;91262933;DNI;Natural
-137;"Cortina de Aire ";98611455;DNI;Natural
-138;"Circular Residencial ";27633544;DNI;Natural
-139;"Helicocentrífugo Silent  ";89067604;DNI;Natural
-140;"Helicocentrífugo Silent  ";69386064;DNI;Natural
+137;Cortina de Aire ;98611455;DNI;Natural
+138;Circular Residencial ;27633544;DNI;Natural
+139;Helicocentrífugo Silent  ;89067604;DNI;Natural
+140;Helicocentrífugo Silent  ;69386064;DNI;Natural
 141;Ventilador Tubular;81953903;DNI;Natural
 142;Cortina de Aire Industrial;59854728;DNI;Natural
 143;Ventilador Centrífugo;90584094;DNI;Natural
 144;Ventilador Centrífugo;82794601;DNI;Natural
 145;Ventilador Tubular;85662745;DNI;Natural
-146;"Cortina de Aire ";46392535;DNI;Natural
+146;Cortina de Aire ;46392535;DNI;Natural
 147;Ventilador Tubular;50895142;DNI;Natural
-148;"Circular Residencial ";36487555;DNI;Natural
+148;Circular Residencial ;36487555;DNI;Natural
 149;Ventilador Centrífugo;33416990;DNI;Natural
-150;"Cortina de Aire ";99085845;DNI;Natural
+150;Cortina de Aire ;99085845;DNI;Natural
 151;Axial Residencial;69916654;DNI;Natural
-152;"Cortina de Aire ";25210545;DNI;Natural
+152;Cortina de Aire ;25210545;DNI;Natural
 153;Ventilador Industrial;37474632;DNI;Natural
-154;"Circular Residencial ";46362851;DNI;Natural
-155;"Helicocentrífugo Silent  ";35826388;DNI;Natural
-156;"Cortina de Aire ";56671562;DNI;Natural
+154;Circular Residencial ;46362851;DNI;Natural
+155;Helicocentrífugo Silent  ;35826388;DNI;Natural
+156;Cortina de Aire ;56671562;DNI;Natural
 157;Axial Residencial;42291896;DNI;Natural
 158;Axial Residencial;93587805;DNI;Natural
-159;"Circular Residencial ";71650903;DNI;Natural
+159;Circular Residencial ;71650903;DNI;Natural
 160;Ventilador Centrífugo;64013255;DNI;Natural
 161;Helicocentrífugo Residencial;92296961;DNI;Natural
-162;"Helicocentrífugo Comercial ";33516913;DNI;Natural
+162;Helicocentrífugo Comercial ;33516913;DNI;Natural
 163;Ventilador Centrífugo;53489003;DNI;Natural
 164;Ventilador Tubular;87547672;DNI;Natural
 165;Ventilador Tubular;61991921;DNI;Natural
-166;"Cortina de Aire ";48632810;DNI;Natural
-167;"Cortina de Aire ";97964909;DNI;Natural
+166;Cortina de Aire ;48632810;DNI;Natural
+167;Cortina de Aire ;97964909;DNI;Natural
 168;Ventilador Centrífugo;27785930;DNI;Natural
 169;Axial Residencial;31920692;DNI;Natural
-170;"Helicocentrífugo Silent  ";92997107;DNI;Natural
-171;"Helicocentrífugo Silent  ";17488253;DNI;Natural
-172;"Circular Residencial ";93365932;DNI;Natural
-173;"Cortina de Aire ";41032798;DNI;Natural
-174;"Cortina de Aire ";34527965;DNI;Natural
+170;Helicocentrífugo Silent  ;92997107;DNI;Natural
+171;Helicocentrífugo Silent  ;17488253;DNI;Natural
+172;Circular Residencial ;93365932;DNI;Natural
+173;Cortina de Aire ;41032798;DNI;Natural
+174;Cortina de Aire ;34527965;DNI;Natural
 175;Cortina de Aire Industrial;23241970;DNI;Natural
-176;"Cortina de Aire ";44033410;DNI;Natural
+176;Cortina de Aire ;44033410;DNI;Natural
 177;Ventilador Centrífugo;86929047;DNI;Natural
 178;Helicocentrífugo Residencial;26419001;DNI;Natural
-179;"Helicocentrífugo Comercial ";81194316;DNI;Natural
+179;Helicocentrífugo Comercial ;81194316;DNI;Natural
 180;Cortina de Aire Industrial;85138348;DNI;Natural
 181;Axial Residencial;56711959;DNI;Natural
-182;"Cortina de Aire ";41878223;DNI;Natural
-183;"Helicocentrífugo Comercial ";93020275;DNI;Natural
-184;"Helicocentrífugo Silent  ";81381077;DNI;Natural
-185;"Cortina de Aire ";10317070;DNI;Natural
-186;"Cortina de Aire ";85089186;DNI;Natural
-187;"Circular Residencial ";79875576;DNI;Natural
-188;"Helicocentrífugo Silent  ";40639576;DNI;Natural
-189;"Circular Residencial ";55361139;DNI;Natural
+182;Cortina de Aire ;41878223;DNI;Natural
+183;Helicocentrífugo Comercial ;93020275;DNI;Natural
+184;Helicocentrífugo Silent  ;81381077;DNI;Natural
+185;Cortina de Aire ;10317070;DNI;Natural
+186;Cortina de Aire ;85089186;DNI;Natural
+187;Circular Residencial ;79875576;DNI;Natural
+188;Helicocentrífugo Silent  ;40639576;DNI;Natural
+189;Circular Residencial ;55361139;DNI;Natural
 190;Ventilador Tubular;41616878;DNI;Natural
-191;"Helicocentrífugo Silent  ";59825302;DNI;Natural
+191;Helicocentrífugo Silent  ;59825302;DNI;Natural
 192;Axial Residencial;35850470;DNI;Natural
 193;Ventilador Tubular;55546166;DNI;Natural
-194;"Helicocentrífugo Silent  ";58788816;DNI;Natural
+194;Helicocentrífugo Silent  ;58788816;DNI;Natural
 195;Helicocentrífugo Residencial;34582754;DNI;Natural
 196;Axial Residencial;13128671;DNI;Natural
 197;Axial Residencial;36053783;DNI;Natural
 198;Ventilador Centrífugo;51711051;DNI;Natural
-199;"Cortina de Aire ";96049172;DNI;Natural
-200;"Circular Residencial ";33929015;DNI;Natural
+199;Cortina de Aire ;96049172;DNI;Natural
+200;Circular Residencial ;33929015;DNI;Natural
 201;Ventilador Centrífugo;47047640;DNI;Natural
 202;Ventilador Tubular;38281291;DNI;Natural
 203;Ventilador Centrífugo;63939894;DNI;Natural
 204;Axial Residencial;78447755;DNI;Natural
-205;"Helicocentrífugo Silent  ";96770551;DNI;Natural
-206;"Helicocentrífugo Silent  ";53926648;DNI;Natural
+205;Helicocentrífugo Silent  ;96770551;DNI;Natural
+206;Helicocentrífugo Silent  ;53926648;DNI;Natural
 207;Ventilador Industrial;63992566;DNI;Natural
 208;Helicocentrífugo Residencial;55863357;DNI;Natural
 209;Ventilador Tubular;32125670;DNI;Natural
-210;"Cortina de Aire ";74751993;DNI;Natural
-211;"Circular Residencial ";89010655;DNI;Natural
+210;Cortina de Aire ;74751993;DNI;Natural
+211;Circular Residencial ;89010655;DNI;Natural
 212;Ventilador Tubular;87185129;DNI;Natural
-213;"Circular Residencial ";66429311;DNI;Natural
+213;Circular Residencial ;66429311;DNI;Natural
 214;Ventilador Centrífugo;33222507;DNI;Natural
 215;Helicocentrífugo Residencial;38160502;DNI;Natural
 216;Ventilador Centrífugo;84236271;DNI;Natural
-217;"Cortina de Aire ";84872425;DNI;Natural
-218;"Circular Residencial ";21957150;DNI;Natural
+217;Cortina de Aire ;84872425;DNI;Natural
+218;Circular Residencial ;21957150;DNI;Natural
 219;Ventilador Industrial;16743754;DNI;Natural
 220;Ventilador Tubular;45924894;DNI;Natural
-221;"Helicocentrífugo Silent  ";69813522;DNI;Natural
-222;"Circular Residencial ";76863998;DNI;Natural
-223;"Helicocentrífugo Comercial ";54355139;DNI;Natural
+221;Helicocentrífugo Silent  ;69813522;DNI;Natural
+222;Circular Residencial ;76863998;DNI;Natural
+223;Helicocentrífugo Comercial ;54355139;DNI;Natural
 224;Ventilador Industrial;94389470;DNI;Natural
-225;"Circular Residencial ";31317224;DNI;Natural
+225;Circular Residencial ;31317224;DNI;Natural
 226;Ventilador Centrífugo;38161990;DNI;Natural
 227;Ventilador Centrífugo;28464595;DNI;Natural
-228;"Circular Residencial ";22840497;DNI;Natural
+228;Circular Residencial ;22840497;DNI;Natural
 229;Ventilador Industrial;43929606;DNI;Natural
 230;Helicocentrífugo Residencial;99040470;DNI;Natural
-231;"Cortina de Aire ";33536207;DNI;Natural
-232;"Circular Residencial ";29884380;DNI;Natural
+231;Cortina de Aire ;33536207;DNI;Natural
+232;Circular Residencial ;29884380;DNI;Natural
 233;Ventilador Tubular;83464777;DNI;Natural
 234;Axial Residencial;96882930;DNI;Natural
 235;Ventilador Industrial;14676794;DNI;Natural
 236;Ventilador Centrífugo;27198254;DNI;Natural
 237;Ventilador Industrial;47161799;DNI;Natural
 238;Ventilador Centrífugo;50833522;DNI;Natural
-239;"Helicocentrífugo Silent  ";87713081;DNI;Natural
+239;Helicocentrífugo Silent  ;87713081;DNI;Natural
 240;Cortina de Aire Industrial;93511900;DNI;Natural
-241;"Cortina de Aire ";29061927;DNI;Natural
-242;"Helicocentrífugo Silent  ";78376531;DNI;Natural
-243;"Cortina de Aire ";33115993;DNI;Natural
+241;Cortina de Aire ;29061927;DNI;Natural
+242;Helicocentrífugo Silent  ;78376531;DNI;Natural
+243;Cortina de Aire ;33115993;DNI;Natural
 244;Cortina de Aire Industrial;68574489;DNI;Natural
 245;Axial Residencial;90228711;DNI;Natural
-246;"Cortina de Aire ";17861202;DNI;Natural
+246;Cortina de Aire ;17861202;DNI;Natural
 247;Cortina de Aire Industrial;80472825;DNI;Natural
 248;Ventilador Centrífugo;99439033;DNI;Natural
-249;"Helicocentrífugo Silent  ";77461152;DNI;Natural
-250;"Cortina de Aire ";43031062;DNI;Natural
+249;Helicocentrífugo Silent  ;77461152;DNI;Natural
+250;Cortina de Aire ;43031062;DNI;Natural
 251;Ventilador Tubular;65425137;DNI;Natural
-252;"Circular Residencial ";42750834;DNI;Natural
+252;Circular Residencial ;42750834;DNI;Natural
 253;Cortina de Aire Industrial;28776480;DNI;Natural
 254;Cortina de Aire Industrial;29962348;DNI;Natural
 255;Ventilador Industrial;45596269;DNI;Natural
-256;"Helicocentrífugo Comercial ";23027948;DNI;Natural
+256;Helicocentrífugo Comercial ;23027948;DNI;Natural
 257;Ventilador Tubular;91328517;DNI;Natural
 258;Helicocentrífugo Residencial;40275066;DNI;Natural
 259;Ventilador Centrífugo;68694927;DNI;Natural
 260;Ventilador Industrial;44883589;DNI;Natural
 261;Helicocentrífugo Residencial;30426771;DNI;Natural
-262;"Helicocentrífugo Silent  ";73995615;DNI;Natural
+262;Helicocentrífugo Silent  ;73995615;DNI;Natural
 263;Axial Residencial;49114653;DNI;Natural
 264;Ventilador Centrífugo;28946107;DNI;Natural
 265;Helicocentrífugo Residencial;68182889;DNI;Natural
 266;Cortina de Aire Industrial;94746818;DNI;Natural
 267;Ventilador Industrial;92646700;DNI;Natural
-268;"Helicocentrífugo Silent  ";34528742;DNI;Natural
-269;"Helicocentrífugo Silent  ";45668624;DNI;Natural
-270;"Cortina de Aire ";60791743;DNI;Natural
-271;"Helicocentrífugo Comercial ";13395402;DNI;Natural
+268;Helicocentrífugo Silent  ;34528742;DNI;Natural
+269;Helicocentrífugo Silent  ;45668624;DNI;Natural
+270;Cortina de Aire ;60791743;DNI;Natural
+271;Helicocentrífugo Comercial ;13395402;DNI;Natural
 272;Helicocentrífugo Residencial;50820592;DNI;Natural
-273;"Cortina de Aire ";37959691;DNI;Natural
+273;Cortina de Aire ;37959691;DNI;Natural
 274;Cortina de Aire Industrial;96415257;DNI;Natural
-275;"Helicocentrífugo Silent  ";36451724;DNI;Natural
+275;Helicocentrífugo Silent  ;36451724;DNI;Natural
 276;Helicocentrífugo Residencial;72089232;DNI;Natural
 277;Ventilador Tubular;46833227;DNI;Natural
-278;"Cortina de Aire ";13076752;DNI;Natural
+278;Cortina de Aire ;13076752;DNI;Natural
 279;Cortina de Aire Industrial;32180071;DNI;Natural
 280;Axial Residencial;55823923;DNI;Natural
 281;Axial Residencial;34863354;DNI;Natural
 282;Ventilador Industrial;27698755;DNI;Natural
 283;Ventilador Tubular;61317750;DNI;Natural
 284;Ventilador Centrífugo;87423665;DNI;Natural
-285;"Helicocentrífugo Silent  ";48867007;DNI;Natural
-286;"Cortina de Aire ";14976828;DNI;Natural
+285;Helicocentrífugo Silent  ;48867007;DNI;Natural
+286;Cortina de Aire ;14976828;DNI;Natural
 287;Ventilador Tubular;33321414;DNI;Natural
 288;Ventilador Tubular;15526717;DNI;Natural
-289;"Helicocentrífugo Comercial ";15679989;DNI;Natural
-290;"Helicocentrífugo Silent  ";84838466;DNI;Natural
+289;Helicocentrífugo Comercial ;15679989;DNI;Natural
+290;Helicocentrífugo Silent  ;84838466;DNI;Natural
 291;Axial Residencial;86138743;DNI;Natural
-292;"Circular Residencial ";49555466;DNI;Natural
+292;Circular Residencial ;49555466;DNI;Natural
 293;Ventilador Centrífugo;58963707;DNI;Natural
-294;"Helicocentrífugo Comercial ";81119508;DNI;Natural
+294;Helicocentrífugo Comercial ;81119508;DNI;Natural
 295;Helicocentrífugo Residencial;82536780;DNI;Natural
 296;Ventilador Centrífugo;63267341;DNI;Natural
 297;Helicocentrífugo Residencial;83887814;DNI;Natural
-298;"Cortina de Aire ";14321179;DNI;Natural
+298;Cortina de Aire ;14321179;DNI;Natural
 299;Ventilador Tubular;12346512;DNI;Natural
-300;"Helicocentrífugo Silent  ";20144707;DNI;Natural
+300;Helicocentrífugo Silent  ;20144707;DNI;Natural
 301;Ventilador Centrífugo;20585775210;RUC;Jurídico
-302;"Cortina de Aire ";20340766225;RUC;Jurídico
+302;Cortina de Aire ;20340766225;RUC;Jurídico
 303;Cortina de Aire Industrial;20362414268;RUC;Jurídico
-304;"Helicocentrífugo Comercial ";20190026008;RUC;Jurídico
-305;"Cortina de Aire ";20981428322;RUC;Jurídico
+304;Helicocentrífugo Comercial ;20190026008;RUC;Jurídico
+305;Cortina de Aire ;20981428322;RUC;Jurídico
 306;Helicocentrífugo Residencial;20681819351;RUC;Jurídico
 307;Helicocentrífugo Residencial;20815012837;RUC;Jurídico
-308;"Cortina de Aire ";20469675998;RUC;Jurídico
+308;Cortina de Aire ;20469675998;RUC;Jurídico
 309;Axial Residencial;20485672592;RUC;Jurídico
-310;"Helicocentrífugo Comercial ";20421245413;RUC;Jurídico
-311;"Cortina de Aire ";20079447253;RUC;Jurídico
+310;Helicocentrífugo Comercial ;20421245413;RUC;Jurídico
+311;Cortina de Aire ;20079447253;RUC;Jurídico
 312;Ventilador Industrial;20953765662;RUC;Jurídico
-313;"Helicocentrífugo Silent  ";20744113510;RUC;Jurídico
+313;Helicocentrífugo Silent  ;20744113510;RUC;Jurídico
 314;Ventilador Industrial;20062242626;RUC;Jurídico
 315;Axial Residencial;20638068302;RUC;Jurídico
 316;Cortina de Aire Industrial;20861416027;RUC;Jurídico
-317;"Circular Residencial ";20366392285;RUC;Jurídico
-318;"Cortina de Aire ";20981104924;RUC;Jurídico
-319;"Cortina de Aire ";20193140048;RUC;Jurídico
-320;"Cortina de Aire ";20482938625;RUC;Jurídico
+317;Circular Residencial ;20366392285;RUC;Jurídico
+318;Cortina de Aire ;20981104924;RUC;Jurídico
+319;Cortina de Aire ;20193140048;RUC;Jurídico
+320;Cortina de Aire ;20482938625;RUC;Jurídico
 321;Ventilador Centrífugo;20245101191;RUC;Jurídico
 322;Ventilador Industrial;20979752891;RUC;Jurídico
 323;Helicocentrífugo Residencial;20362124702;RUC;Jurídico
 324;Ventilador Industrial;20042793047;RUC;Jurídico
 325;Helicocentrífugo Residencial;20755903552;RUC;Jurídico
-326;"Cortina de Aire ";20553338373;RUC;Jurídico
+326;Cortina de Aire ;20553338373;RUC;Jurídico
 327;Ventilador Tubular;20790460249;RUC;Jurídico
 328;Helicocentrífugo Residencial;20196270452;RUC;Jurídico
 329;Cortina de Aire Industrial;20442391608;RUC;Jurídico
-330;"Circular Residencial ";20224680532;RUC;Jurídico
-331;"Cortina de Aire ";20910604931;RUC;Jurídico
+330;Circular Residencial ;20224680532;RUC;Jurídico
+331;Cortina de Aire ;20910604931;RUC;Jurídico
 332;Ventilador Centrífugo;20099821963;RUC;Jurídico
-333;"Cortina de Aire ";20569841805;RUC;Jurídico
+333;Cortina de Aire ;20569841805;RUC;Jurídico
 334;Ventilador Tubular;20274313525;RUC;Jurídico
 335;Ventilador Tubular;20087425209;RUC;Jurídico
-336;"Circular Residencial ";20561816645;RUC;Jurídico
+336;Circular Residencial ;20561816645;RUC;Jurídico
 337;Helicocentrífugo Residencial;20718744374;RUC;Jurídico
 338;Ventilador Centrífugo;20558166758;RUC;Jurídico
 339;Axial Residencial;20978526621;RUC;Jurídico
 340;Axial Residencial;20824752378;RUC;Jurídico
 341;Axial Residencial;20723842185;RUC;Jurídico
 342;Ventilador Tubular;20281878181;RUC;Jurídico
-343;"Helicocentrífugo Silent  ";20096223149;RUC;Jurídico
-344;"Cortina de Aire ";20138423806;RUC;Jurídico
-345;"Helicocentrífugo Comercial ";20367696161;RUC;Jurídico
+343;Helicocentrífugo Silent  ;20096223149;RUC;Jurídico
+344;Cortina de Aire ;20138423806;RUC;Jurídico
+345;Helicocentrífugo Comercial ;20367696161;RUC;Jurídico
 346;Axial Residencial;20310193926;RUC;Jurídico
 347;Helicocentrífugo Residencial;20386780999;RUC;Jurídico
-348;"Helicocentrífugo Silent  ";20618321823;RUC;Jurídico
-349;"Circular Residencial ";20826989970;RUC;Jurídico
+348;Helicocentrífugo Silent  ;20618321823;RUC;Jurídico
+349;Circular Residencial ;20826989970;RUC;Jurídico
 350;Ventilador Centrífugo;20063364523;RUC;Jurídico
 351;Helicocentrífugo Residencial;20995149078;RUC;Jurídico
 352;Ventilador Industrial;20899922743;RUC;Jurídico
-353;"Helicocentrífugo Comercial ";20825568406;RUC;Jurídico
-354;"Helicocentrífugo Silent  ";20143053557;RUC;Jurídico
-355;"Helicocentrífugo Comercial ";20637022179;RUC;Jurídico
+353;Helicocentrífugo Comercial ;20825568406;RUC;Jurídico
+354;Helicocentrífugo Silent  ;20143053557;RUC;Jurídico
+355;Helicocentrífugo Comercial ;20637022179;RUC;Jurídico
 356;Cortina de Aire Industrial;20536403325;RUC;Jurídico
 357;Ventilador Industrial;20139488893;RUC;Jurídico
 358;Ventilador Centrífugo;20686795534;RUC;Jurídico
 359;Axial Residencial;20062728268;RUC;Jurídico
 360;Helicocentrífugo Residencial;20023634763;RUC;Jurídico
-361;"Circular Residencial ";20397858753;RUC;Jurídico
+361;Circular Residencial ;20397858753;RUC;Jurídico
 362;Axial Residencial;20828583231;RUC;Jurídico
-363;"Helicocentrífugo Silent  ";20147269508;RUC;Jurídico
+363;Helicocentrífugo Silent  ;20147269508;RUC;Jurídico
 364;Axial Residencial;20043661201;RUC;Jurídico
 365;Ventilador Centrífugo;20882109726;RUC;Jurídico
 366;Ventilador Industrial;20741749020;RUC;Jurídico
 367;Ventilador Industrial;20987040563;RUC;Jurídico
-368;"Helicocentrífugo Comercial ";20016495290;RUC;Jurídico
+368;Helicocentrífugo Comercial ;20016495290;RUC;Jurídico
 369;Ventilador Industrial;20278129282;RUC;Jurídico
-370;"Cortina de Aire ";20411442034;RUC;Jurídico
+370;Cortina de Aire ;20411442034;RUC;Jurídico
 371;Ventilador Industrial;20016514237;RUC;Jurídico
 372;Helicocentrífugo Residencial;20619933139;RUC;Jurídico
-373;"Helicocentrífugo Silent  ";20773274193;RUC;Jurídico
-374;"Cortina de Aire ";20651141039;RUC;Jurídico
+373;Helicocentrífugo Silent  ;20773274193;RUC;Jurídico
+374;Cortina de Aire ;20651141039;RUC;Jurídico
 375;Ventilador Tubular;20889270632;RUC;Jurídico
 376;Axial Residencial;20675673993;RUC;Jurídico
 377;Ventilador Industrial;20515437318;RUC;Jurídico
 378;Ventilador Tubular;20091969037;RUC;Jurídico
 379;Ventilador Industrial;20267043561;RUC;Jurídico
-380;"Helicocentrífugo Comercial ";20599100175;RUC;Jurídico
+380;Helicocentrífugo Comercial ;20599100175;RUC;Jurídico
 381;Ventilador Centrífugo;20016552704;RUC;Jurídico
-382;"Helicocentrífugo Comercial ";20814351551;RUC;Jurídico
-383;"Cortina de Aire ";20840788663;RUC;Jurídico
+382;Helicocentrífugo Comercial ;20814351551;RUC;Jurídico
+383;Cortina de Aire ;20840788663;RUC;Jurídico
 384;Ventilador Industrial;20499875082;RUC;Jurídico
 385;Ventilador Industrial;20418123117;RUC;Jurídico
-386;"Helicocentrífugo Comercial ";20662484213;RUC;Jurídico
-387;"Cortina de Aire ";20050379817;RUC;Jurídico
+386;Helicocentrífugo Comercial ;20662484213;RUC;Jurídico
+387;Cortina de Aire ;20050379817;RUC;Jurídico
 388;Ventilador Centrífugo;20151662716;RUC;Jurídico
-389;"Helicocentrífugo Comercial ";20255660233;RUC;Jurídico
-390;"Cortina de Aire ";20122294716;RUC;Jurídico
-391;"Helicocentrífugo Comercial ";20029839477;RUC;Jurídico
+389;Helicocentrífugo Comercial ;20255660233;RUC;Jurídico
+390;Cortina de Aire ;20122294716;RUC;Jurídico
+391;Helicocentrífugo Comercial ;20029839477;RUC;Jurídico
 392;Helicocentrífugo Residencial;20297463870;RUC;Jurídico
 393;Ventilador Industrial;20098810404;RUC;Jurídico
-394;"Circular Residencial ";20210827617;RUC;Jurídico
+394;Circular Residencial ;20210827617;RUC;Jurídico
 395;Ventilador Tubular;20739457532;RUC;Jurídico
 396;Helicocentrífugo Residencial;20815519285;RUC;Jurídico
 397;Helicocentrífugo Residencial;20790347552;RUC;Jurídico
 398;Ventilador Centrífugo;20594959515;RUC;Jurídico
 399;Helicocentrífugo Residencial;20425130047;RUC;Jurídico
-400;"Circular Residencial ";20933971732;RUC;Jurídico
-401;"Helicocentrífugo Silent  ";20632846560;RUC;Jurídico
+400;Circular Residencial ;20933971732;RUC;Jurídico
+401;Helicocentrífugo Silent  ;20632846560;RUC;Jurídico
 402;Ventilador Centrífugo;20165212174;RUC;Jurídico
 403;Helicocentrífugo Residencial;20580253234;RUC;Jurídico
-404;"Helicocentrífugo Silent  ";20480847588;RUC;Jurídico
+404;Helicocentrífugo Silent  ;20480847588;RUC;Jurídico
 405;Ventilador Centrífugo;20628732631;RUC;Jurídico
 406;Helicocentrífugo Residencial;20929602951;RUC;Jurídico
 407;Axial Residencial;20766644302;RUC;Jurídico
 408;Axial Residencial;20682194310;RUC;Jurídico
-409;"Helicocentrífugo Silent  ";20095828050;RUC;Jurídico
+409;Helicocentrífugo Silent  ;20095828050;RUC;Jurídico
 410;Ventilador Centrífugo;20143368022;RUC;Jurídico
-411;"Cortina de Aire ";20174874262;RUC;Jurídico
+411;Cortina de Aire ;20174874262;RUC;Jurídico
 412;Cortina de Aire Industrial;20930474841;RUC;Jurídico
 413;Ventilador Tubular;20264950266;RUC;Jurídico
-414;"Helicocentrífugo Silent  ";20063727460;RUC;Jurídico
+414;Helicocentrífugo Silent  ;20063727460;RUC;Jurídico
 415;Cortina de Aire Industrial;20638226765;RUC;Jurídico
-416;"Circular Residencial ";20063604047;RUC;Jurídico
+416;Circular Residencial ;20063604047;RUC;Jurídico
 417;Helicocentrífugo Residencial;20948051222;RUC;Jurídico
 418;Ventilador Industrial;20956333660;RUC;Jurídico
 419;Axial Residencial;20387728785;RUC;Jurídico
-420;"Helicocentrífugo Silent  ";20315063646;RUC;Jurídico
+420;Helicocentrífugo Silent  ;20315063646;RUC;Jurídico
 421;Axial Residencial;20139369133;RUC;Jurídico
-422;"Helicocentrífugo Comercial ";20774236074;RUC;Jurídico
-423;"Helicocentrífugo Silent  ";20896541963;RUC;Jurídico
+422;Helicocentrífugo Comercial ;20774236074;RUC;Jurídico
+423;Helicocentrífugo Silent  ;20896541963;RUC;Jurídico
 424;Cortina de Aire Industrial;20025625575;RUC;Jurídico
 425;Axial Residencial;20552961079;RUC;Jurídico
 426;Helicocentrífugo Residencial;20885384856;RUC;Jurídico
 427;Ventilador Centrífugo;20597971343;RUC;Jurídico
-428;"Cortina de Aire ";20676742895;RUC;Jurídico
-429;"Circular Residencial ";20067490354;RUC;Jurídico
+428;Cortina de Aire ;20676742895;RUC;Jurídico
+429;Circular Residencial ;20067490354;RUC;Jurídico
 430;Helicocentrífugo Residencial;20662432978;RUC;Jurídico
-431;"Cortina de Aire ";20370608419;RUC;Jurídico
+431;Cortina de Aire ;20370608419;RUC;Jurídico
 432;Helicocentrífugo Residencial;20166496368;RUC;Jurídico
-433;"Helicocentrífugo Silent  ";20574651279;RUC;Jurídico
+433;Helicocentrífugo Silent  ;20574651279;RUC;Jurídico
 434;Helicocentrífugo Residencial;20736143708;RUC;Jurídico
-435;"Helicocentrífugo Silent  ";20042960530;RUC;Jurídico
-436;"Circular Residencial ";20394865120;RUC;Jurídico
-437;"Helicocentrífugo Comercial ";20986546382;RUC;Jurídico
-438;"Helicocentrífugo Comercial ";20267074315;RUC;Jurídico
+435;Helicocentrífugo Silent  ;20042960530;RUC;Jurídico
+436;Circular Residencial ;20394865120;RUC;Jurídico
+437;Helicocentrífugo Comercial ;20986546382;RUC;Jurídico
+438;Helicocentrífugo Comercial ;20267074315;RUC;Jurídico
 439;Ventilador Tubular;20793277546;RUC;Jurídico
-440;"Circular Residencial ";20749006345;RUC;Jurídico
-441;"Helicocentrífugo Comercial ";20384943554;RUC;Jurídico
+440;Circular Residencial ;20749006345;RUC;Jurídico
+441;Helicocentrífugo Comercial ;20384943554;RUC;Jurídico
 442;Cortina de Aire Industrial;20230956922;RUC;Jurídico
-443;"Cortina de Aire ";20359749202;RUC;Jurídico
-444;"Helicocentrífugo Comercial ";20137384066;RUC;Jurídico
+443;Cortina de Aire ;20359749202;RUC;Jurídico
+444;Helicocentrífugo Comercial ;20137384066;RUC;Jurídico
 445;Ventilador Tubular;20057537096;RUC;Jurídico
 446;Ventilador Tubular;20552892196;RUC;Jurídico
 447;Cortina de Aire Industrial;20640012631;RUC;Jurídico
 448;Helicocentrífugo Residencial;20814877695;RUC;Jurídico
 449;Ventilador Tubular;20844062475;RUC;Jurídico
-450;"Helicocentrífugo Comercial ";20920687740;RUC;Jurídico
+450;Helicocentrífugo Comercial ;20920687740;RUC;Jurídico
 451;Cortina de Aire Industrial;20810019416;RUC;Jurídico
-452;"Cortina de Aire ";20842782083;RUC;Jurídico
+452;Cortina de Aire ;20842782083;RUC;Jurídico
 453;Ventilador Tubular;20839981850;RUC;Jurídico
-454;"Helicocentrífugo Silent  ";20351149566;RUC;Jurídico
+454;Helicocentrífugo Silent  ;20351149566;RUC;Jurídico
 455;Ventilador Tubular;20099578930;RUC;Jurídico
-456;"Cortina de Aire ";20017998935;RUC;Jurídico
+456;Cortina de Aire ;20017998935;RUC;Jurídico
 457;Ventilador Tubular;20018155321;RUC;Jurídico
-458;"Circular Residencial ";20780601321;RUC;Jurídico
+458;Circular Residencial ;20780601321;RUC;Jurídico
 459;Cortina de Aire Industrial;20538757529;RUC;Jurídico
-460;"Cortina de Aire ";20433600927;RUC;Jurídico
+460;Cortina de Aire ;20433600927;RUC;Jurídico
 461;Ventilador Industrial;20760504260;RUC;Jurídico
 462;Ventilador Tubular;20056752611;RUC;Jurídico
 463;Ventilador Tubular;20999194120;RUC;Jurídico
 464;Axial Residencial;20261777707;RUC;Jurídico
 465;Ventilador Tubular;20659097567;RUC;Jurídico
-466;"Cortina de Aire ";20829445311;RUC;Jurídico
+466;Cortina de Aire ;20829445311;RUC;Jurídico
 467;Ventilador Industrial;20383215263;RUC;Jurídico
-468;"Cortina de Aire ";20425095574;RUC;Jurídico
+468;Cortina de Aire ;20425095574;RUC;Jurídico
 469;Ventilador Centrífugo;20084262886;RUC;Jurídico
-470;"Helicocentrífugo Silent  ";20265146631;RUC;Jurídico
+470;Helicocentrífugo Silent  ;20265146631;RUC;Jurídico
 471;Axial Residencial;20326417021;RUC;Jurídico
-472;"Helicocentrífugo Silent  ";20799907521;RUC;Jurídico
-473;"Helicocentrífugo Silent  ";20555950817;RUC;Jurídico
-474;"Helicocentrífugo Comercial ";20219263870;RUC;Jurídico
-475;"Cortina de Aire ";20382714220;RUC;Jurídico
+472;Helicocentrífugo Silent  ;20799907521;RUC;Jurídico
+473;Helicocentrífugo Silent  ;20555950817;RUC;Jurídico
+474;Helicocentrífugo Comercial ;20219263870;RUC;Jurídico
+475;Cortina de Aire ;20382714220;RUC;Jurídico
 476;Ventilador Tubular;20951264459;RUC;Jurídico
-477;"Circular Residencial ";20666597533;RUC;Jurídico
-478;"Helicocentrífugo Comercial ";20011425290;RUC;Jurídico
+477;Circular Residencial ;20666597533;RUC;Jurídico
+478;Helicocentrífugo Comercial ;20011425290;RUC;Jurídico
 479;Ventilador Tubular;20685429727;RUC;Jurídico
 480;Ventilador Centrífugo;20257511937;RUC;Jurídico
-481;"Cortina de Aire ";20445279562;RUC;Jurídico
+481;Cortina de Aire ;20445279562;RUC;Jurídico
 482;Axial Residencial;20466050895;RUC;Jurídico
 483;Helicocentrífugo Residencial;20538507857;RUC;Jurídico
 484;Ventilador Industrial;20382770268;RUC;Jurídico
-485;"Circular Residencial ";20568680306;RUC;Jurídico
+485;Circular Residencial ;20568680306;RUC;Jurídico
 486;Helicocentrífugo Residencial;20976255221;RUC;Jurídico
-487;"Helicocentrífugo Silent  ";20061424755;RUC;Jurídico
+487;Helicocentrífugo Silent  ;20061424755;RUC;Jurídico
 488;Axial Residencial;20855392695;RUC;Jurídico
-489;"Circular Residencial ";20785328277;RUC;Jurídico
-490;"Cortina de Aire ";20981911368;RUC;Jurídico
-491;"Helicocentrífugo Comercial ";20742934972;RUC;Jurídico
+489;Circular Residencial ;20785328277;RUC;Jurídico
+490;Cortina de Aire ;20981911368;RUC;Jurídico
+491;Helicocentrífugo Comercial ;20742934972;RUC;Jurídico
 492;Ventilador Tubular;20081143811;RUC;Jurídico
-493;"Cortina de Aire ";20970551009;RUC;Jurídico
-494;"Helicocentrífugo Comercial ";20481276053;RUC;Jurídico
-495;"Helicocentrífugo Silent  ";20280970417;RUC;Jurídico
+493;Cortina de Aire ;20970551009;RUC;Jurídico
+494;Helicocentrífugo Comercial ;20481276053;RUC;Jurídico
+495;Helicocentrífugo Silent  ;20280970417;RUC;Jurídico
 496;Axial Residencial;20542289305;RUC;Jurídico
-497;"Helicocentrífugo Comercial ";20113788142;RUC;Jurídico
-498;"Helicocentrífugo Silent  ";20990804585;RUC;Jurídico
+497;Helicocentrífugo Comercial ;20113788142;RUC;Jurídico
+498;Helicocentrífugo Silent  ;20990804585;RUC;Jurídico
 499;Axial Residencial;20959276550;RUC;Jurídico
 500;Ventilador Industrial;20932811789;RUC;Jurídico
-501;"Cortina de Aire ";68061236;DNI;Natural
-502;"Cortina de Aire ";6224670;RUC;Jurídico
+501;Cortina de Aire ;68061236;DNI;Natural
+502;Cortina de Aire ;6224670;RUC;Jurídico
 503;Ventilador Industrial;22824092;DNI;Natural
-504;"Helicocentrífugo Comercial ";90188188;DNI;Natural
+504;Helicocentrífugo Comercial ;90188188;DNI;Natural
 505;Ventilador Centrífugo;18028704;RUC;Jurídico
-506;"Cortina de Aire ";69643098;DNI;Natural
+506;Cortina de Aire ;69643098;DNI;Natural
 507;Ventilador Centrífugo;46026749;DNI;Natural
 508;Axial Residencial;58656442;DNI;Natural
 509;Ventilador Industrial;71345752;DNI;Natural
-510;"Circular Residencial ";13617876;DNI;Natural
+510;Circular Residencial ;13617876;DNI;Natural
 511;Axial Residencial;12440709;DNI;Natural
 512;Ventilador Industrial;49148090;RUC;Jurídico
 513;Ventilador Tubular;26699690;DNI;Natural
-514;"Helicocentrífugo Comercial ";42913150;RUC;Jurídico
+514;Helicocentrífugo Comercial ;42913150;RUC;Jurídico
 515;Ventilador Centrífugo;84907662;DNI;Natural
 516;Ventilador Centrífugo;13811650;DNI;Natural
-517;"Circular Residencial ";10927549;DNI;Natural
+517;Circular Residencial ;10927549;DNI;Natural
 518;Helicocentrífugo Residencial;69026694;RUC;Jurídico
-519;"Cortina de Aire ";19709960;DNI;Natural
+519;Cortina de Aire ;19709960;DNI;Natural
 520;Ventilador Industrial;62268495;DNI;Natural
 521;Ventilador Tubular;36628914;RUC;Jurídico
 522;Cortina de Aire Industrial;98889315;DNI;Natural
 523;Helicocentrífugo Residencial;12391853;DNI;Natural
-524;"Circular Residencial ";21324575;DNI;Natural
+524;Circular Residencial ;21324575;DNI;Natural
 525;Cortina de Aire Industrial;45689094;RUC;Jurídico
-526;"Circular Residencial ";57366569;RUC;Jurídico
+526;Circular Residencial ;57366569;RUC;Jurídico
 527;Cortina de Aire Industrial;73576027;RUC;Jurídico
 528;Ventilador Centrífugo;69173067;DNI;Natural
 529;Axial Residencial;84823298;DNI;Natural
-530;"Cortina de Aire ";24469013;RUC;Jurídico
+530;Cortina de Aire ;24469013;RUC;Jurídico
 531;Cortina de Aire Industrial;6540319;DNI;Natural
-532;"Helicocentrífugo Silent  ";24630063;DNI;Natural
+532;Helicocentrífugo Silent  ;24630063;DNI;Natural
 533;Ventilador Centrífugo;99586619;DNI;Natural
 534;Ventilador Centrífugo;2432872;DNI;Natural
 535;Ventilador Tubular;48237890;DNI;Natural
 536;Ventilador Tubular;91315142;DNI;Natural
 537;Cortina de Aire Industrial;77500195;DNI;Natural
 538;Cortina de Aire Industrial;41361263;DNI;Natural
-539;"Circular Residencial ";83478096;DNI;Natural
+539;Circular Residencial ;83478096;DNI;Natural
 540;Ventilador Centrífugo;89768636;DNI;Natural
 541;Helicocentrífugo Residencial;47328152;RUC;Jurídico
-542;"Helicocentrífugo Silent  ";83152826;DNI;Natural
-543;"Helicocentrífugo Silent  ";19425021;DNI;Natural
-544;"Helicocentrífugo Silent  ";25311469;DNI;Natural
+542;Helicocentrífugo Silent  ;83152826;DNI;Natural
+543;Helicocentrífugo Silent  ;19425021;DNI;Natural
+544;Helicocentrífugo Silent  ;25311469;DNI;Natural
 545;Ventilador Industrial;86542164;DNI;Natural
-546;"Cortina de Aire ";88464428;DNI;Natural
+546;Cortina de Aire ;88464428;DNI;Natural
 547;Axial Residencial;61095993;RUC;Jurídico
 548;Ventilador Centrífugo;31316291;DNI;Natural
 549;Ventilador Industrial;96145309;RUC;Jurídico
 550;Axial Residencial;87625813;RUC;Jurídico
 551;Ventilador Centrífugo;94228710;RUC;Jurídico
 552;Cortina de Aire Industrial;38653341;RUC;Jurídico
-553;"Helicocentrífugo Silent  ";59889548;RUC;Jurídico
-554;"Cortina de Aire ";92602746;DNI;Natural
+553;Helicocentrífugo Silent  ;59889548;RUC;Jurídico
+554;Cortina de Aire ;92602746;DNI;Natural
 555;Ventilador Industrial;71746717;RUC;Jurídico
-556;"Helicocentrífugo Comercial ";84771822;DNI;Natural
+556;Helicocentrífugo Comercial ;84771822;DNI;Natural
 557;Cortina de Aire Industrial;54214356;RUC;Jurídico
 558;Helicocentrífugo Residencial;34161295;DNI;Natural
 559;Ventilador Centrífugo;97905180;RUC;Jurídico
-560;"Cortina de Aire ";60518838;RUC;Jurídico
+560;Cortina de Aire ;60518838;RUC;Jurídico
 561;Ventilador Centrífugo;9281995;DNI;Natural
 562;Ventilador Centrífugo;74341685;DNI;Natural
 563;Axial Residencial;30196610;DNI;Natural
@@ -1087,85 +1088,85 @@
 567;Axial Residencial;30654687;DNI;Natural
 568;Ventilador Tubular;45766708;RUC;Jurídico
 569;Ventilador Industrial;73787198;RUC;Jurídico
-570;"Helicocentrífugo Silent  ";71018398;DNI;Natural
-571;"Helicocentrífugo Comercial ";33849035;RUC;Jurídico
+570;Helicocentrífugo Silent  ;71018398;DNI;Natural
+571;Helicocentrífugo Comercial ;33849035;RUC;Jurídico
 572;Axial Residencial;66625489;DNI;Natural
-573;"Circular Residencial ";52312624;DNI;Natural
+573;Circular Residencial ;52312624;DNI;Natural
 574;Axial Residencial;51741273;DNI;Natural
 575;Ventilador Industrial;5641539;DNI;Natural
 576;Helicocentrífugo Residencial;30010737;RUC;Jurídico
 577;Helicocentrífugo Residencial;73062085;DNI;Natural
 578;Cortina de Aire Industrial;15095108;DNI;Natural
-579;"Cortina de Aire ";26518586;DNI;Natural
-580;"Helicocentrífugo Comercial ";17042851;RUC;Jurídico
+579;Cortina de Aire ;26518586;DNI;Natural
+580;Helicocentrífugo Comercial ;17042851;RUC;Jurídico
 581;Ventilador Centrífugo;48720470;RUC;Jurídico
 582;Cortina de Aire Industrial;45635170;DNI;Natural
-583;"Cortina de Aire ";95141344;RUC;Jurídico
+583;Cortina de Aire ;95141344;RUC;Jurídico
 584;Ventilador Centrífugo;52499764;RUC;Jurídico
 585;Ventilador Centrífugo;44075361;DNI;Natural
 586;Cortina de Aire Industrial;41996929;RUC;Jurídico
 587;Axial Residencial;36892155;RUC;Jurídico
 588;Helicocentrífugo Residencial;92992019;DNI;Natural
 589;Ventilador Centrífugo;48861568;DNI;Natural
-590;"Helicocentrífugo Comercial ";98424031;DNI;Natural
+590;Helicocentrífugo Comercial ;98424031;DNI;Natural
 591;Helicocentrífugo Residencial;83856022;RUC;Jurídico
-592;"Helicocentrífugo Comercial ";41719274;DNI;Natural
+592;Helicocentrífugo Comercial ;41719274;DNI;Natural
 593;Cortina de Aire Industrial;37558389;RUC;Jurídico
-594;"Circular Residencial ";39731526;RUC;Jurídico
+594;Circular Residencial ;39731526;RUC;Jurídico
 595;Helicocentrífugo Residencial;72569665;RUC;Jurídico
 596;Axial Residencial;73446903;DNI;Natural
 597;Axial Residencial;55856455;RUC;Jurídico
-598;"Helicocentrífugo Silent  ";47690019;RUC;Jurídico
-599;"Helicocentrífugo Silent  ";87695672;DNI;Natural
-600;"Circular Residencial ";25084167;DNI;Natural
+598;Helicocentrífugo Silent  ;47690019;RUC;Jurídico
+599;Helicocentrífugo Silent  ;87695672;DNI;Natural
+600;Circular Residencial ;25084167;DNI;Natural
 601;Ventilador Industrial;42936379;RUC;Jurídico
-602;"Circular Residencial ";96309362;DNI;Natural
-603;"Helicocentrífugo Comercial ";9485314;RUC;Jurídico
+602;Circular Residencial ;96309362;DNI;Natural
+603;Helicocentrífugo Comercial ;9485314;RUC;Jurídico
 604;Cortina de Aire Industrial;29210489;DNI;Natural
 605;Ventilador Industrial;27011879;DNI;Natural
 606;Axial Residencial;98531000;DNI;Natural
-607;"Circular Residencial ";41635541;RUC;Jurídico
+607;Circular Residencial ;41635541;RUC;Jurídico
 608;Cortina de Aire Industrial;88856738;RUC;Jurídico
 609;Ventilador Centrífugo;46216231;RUC;Jurídico
 610;Ventilador Centrífugo;79632392;RUC;Jurídico
-611;"Cortina de Aire ";40930118;RUC;Jurídico
-612;"Helicocentrífugo Comercial ";34059744;DNI;Natural
-613;"Helicocentrífugo Comercial ";21586989;DNI;Natural
+611;Cortina de Aire ;40930118;RUC;Jurídico
+612;Helicocentrífugo Comercial ;34059744;DNI;Natural
+613;Helicocentrífugo Comercial ;21586989;DNI;Natural
 614;Cortina de Aire Industrial;21495891;DNI;Natural
 615;Axial Residencial;7499616;RUC;Jurídico
 616;Axial Residencial;48075447;DNI;Natural
 617;Ventilador Industrial;73559889;DNI;Natural
 618;Ventilador Tubular;40260593;DNI;Natural
-619;"Helicocentrífugo Silent  ";87228722;DNI;Natural
+619;Helicocentrífugo Silent  ;87228722;DNI;Natural
 620;Ventilador Industrial;37387333;DNI;Natural
 621;Ventilador Centrífugo;25700837;RUC;Jurídico
 622;Ventilador Industrial;40492917;RUC;Jurídico
 623;Cortina de Aire Industrial;81235668;DNI;Natural
 624;Axial Residencial;66263303;RUC;Jurídico
-625;"Helicocentrífugo Comercial ";40304184;DNI;Natural
-626;"Helicocentrífugo Comercial ";62143545;DNI;Natural
-627;"Helicocentrífugo Comercial ";97395105;RUC;Jurídico
+625;Helicocentrífugo Comercial ;40304184;DNI;Natural
+626;Helicocentrífugo Comercial ;62143545;DNI;Natural
+627;Helicocentrífugo Comercial ;97395105;RUC;Jurídico
 628;Axial Residencial;85953188;DNI;Natural
 629;Ventilador Tubular;65689412;DNI;Natural
 630;Ventilador Tubular;15849030;DNI;Natural
-631;"Helicocentrífugo Comercial ";9289032;DNI;Natural
+631;Helicocentrífugo Comercial ;9289032;DNI;Natural
 632;Ventilador Industrial;54242245;DNI;Natural
 633;Cortina de Aire Industrial;11592386;DNI;Natural
-634;"Cortina de Aire ";67319642;DNI;Natural
+634;Cortina de Aire ;67319642;DNI;Natural
 635;Ventilador Industrial;67379302;DNI;Natural
 636;Axial Residencial;49833175;RUC;Jurídico
 637;Helicocentrífugo Residencial;11159021;DNI;Natural
 638;Ventilador Industrial;10795179;DNI;Natural
 639;Ventilador Centrífugo;47353880;DNI;Natural
 640;Cortina de Aire Industrial;51635281;DNI;Natural
-641;"Cortina de Aire ";75629349;DNI;Natural
-642;"Helicocentrífugo Comercial ";55870854;DNI;Natural
+641;Cortina de Aire ;75629349;DNI;Natural
+642;Helicocentrífugo Comercial ;55870854;DNI;Natural
 643;Helicocentrífugo Residencial;32571021;DNI;Natural
-644;"Helicocentrífugo Silent  ";88672035;RUC;Jurídico
+644;Helicocentrífugo Silent  ;88672035;RUC;Jurídico
 645;Ventilador Industrial;40684788;RUC;Jurídico
-646;"Circular Residencial ";80504301;DNI;Natural
+646;Circular Residencial ;80504301;DNI;Natural
 647;Ventilador Centrífugo;71271639;RUC;Jurídico
-648;"Cortina de Aire ";14086869;DNI;Natural
+648;Cortina de Aire ;14086869;DNI;Natural
 649;Axial Residencial;18130029;DNI;Natural
 650;Ventilador Industrial;4567748;DNI;Natural
 651;Cortina de Aire Industrial;84123800;DNI;Natural
@@ -1174,84 +1175,84 @@
 654;Ventilador Centrífugo;47084671;RUC;Jurídico
 655;Axial Residencial;70502963;RUC;Jurídico
 656;Helicocentrífugo Residencial;27782461;RUC;Jurídico
-657;"Helicocentrífugo Silent  ";33667028;DNI;Natural
+657;Helicocentrífugo Silent  ;33667028;DNI;Natural
 658;Ventilador Industrial;3092511;RUC;Jurídico
 659;Axial Residencial;34979073;RUC;Jurídico
-660;"Helicocentrífugo Silent  ";23615707;RUC;Jurídico
+660;Helicocentrífugo Silent  ;23615707;RUC;Jurídico
 661;Ventilador Centrífugo;83982511;DNI;Natural
 662;Cortina de Aire Industrial;66797451;RUC;Jurídico
 663;Axial Residencial;3143145;DNI;Natural
 664;Axial Residencial;99870859;RUC;Jurídico
-665;"Circular Residencial ";49902820;RUC;Jurídico
+665;Circular Residencial ;49902820;RUC;Jurídico
 666;Ventilador Centrífugo;37268911;RUC;Jurídico
-667;"Circular Residencial ";81461441;RUC;Jurídico
-668;"Helicocentrífugo Comercial ";75625068;DNI;Natural
+667;Circular Residencial ;81461441;RUC;Jurídico
+668;Helicocentrífugo Comercial ;75625068;DNI;Natural
 669;Cortina de Aire Industrial;1641907;RUC;Jurídico
 670;Ventilador Industrial;84589586;DNI;Natural
-671;"Cortina de Aire ";96644923;RUC;Jurídico
-672;"Cortina de Aire ";44519781;DNI;Natural
-673;"Cortina de Aire ";35350610;DNI;Natural
+671;Cortina de Aire ;96644923;RUC;Jurídico
+672;Cortina de Aire ;44519781;DNI;Natural
+673;Cortina de Aire ;35350610;DNI;Natural
 674;Helicocentrífugo Residencial;64736064;DNI;Natural
 675;Ventilador Industrial;73955755;RUC;Jurídico
 676;Axial Residencial;37170898;RUC;Jurídico
 677;Helicocentrífugo Residencial;86013124;DNI;Natural
 678;Ventilador Industrial;63666196;RUC;Jurídico
 679;Ventilador Industrial;60332181;RUC;Jurídico
-680;"Cortina de Aire ";88620917;DNI;Natural
+680;Cortina de Aire ;88620917;DNI;Natural
 681;Ventilador Industrial;72004469;RUC;Jurídico
 682;Ventilador Tubular;67489405;DNI;Natural
 683;Ventilador Industrial;99321858;RUC;Jurídico
 684;Ventilador Centrífugo;83775340;DNI;Natural
-685;"Circular Residencial ";11678372;RUC;Jurídico
+685;Circular Residencial ;11678372;RUC;Jurídico
 686;Ventilador Tubular;45483190;RUC;Jurídico
-687;"Circular Residencial ";9335792;RUC;Jurídico
+687;Circular Residencial ;9335792;RUC;Jurídico
 688;Ventilador Centrífugo;4496010;RUC;Jurídico
 689;Helicocentrífugo Residencial;38874810;DNI;Natural
 690;Ventilador Tubular;56096304;RUC;Jurídico
-691;"Helicocentrífugo Comercial ";20637599;DNI;Natural
+691;Helicocentrífugo Comercial ;20637599;DNI;Natural
 692;Axial Residencial;70951502;DNI;Natural
 693;Ventilador Centrífugo;86915846;DNI;Natural
 694;Cortina de Aire Industrial;67106989;DNI;Natural
-695;"Cortina de Aire ";36315995;RUC;Jurídico
+695;Cortina de Aire ;36315995;RUC;Jurídico
 696;Cortina de Aire Industrial;21257862;DNI;Natural
 697;Helicocentrífugo Residencial;46896252;RUC;Jurídico
 698;Cortina de Aire Industrial;72865823;DNI;Natural
 699;Ventilador Tubular;35945471;DNI;Natural
 700;Ventilador Centrífugo;74849458;RUC;Jurídico
-701;"Helicocentrífugo Silent  ";4341938;DNI;Natural
-702;"Helicocentrífugo Comercial ";79999741;DNI;Natural
-703;"Helicocentrífugo Silent  ";81414342;RUC;Jurídico
-704;"Helicocentrífugo Comercial ";27456419;RUC;Jurídico
+701;Helicocentrífugo Silent  ;4341938;DNI;Natural
+702;Helicocentrífugo Comercial ;79999741;DNI;Natural
+703;Helicocentrífugo Silent  ;81414342;RUC;Jurídico
+704;Helicocentrífugo Comercial ;27456419;RUC;Jurídico
 705;Axial Residencial;66312255;RUC;Jurídico
 706;Ventilador Tubular;26168322;RUC;Jurídico
-707;"Circular Residencial ";38169876;DNI;Natural
+707;Circular Residencial ;38169876;DNI;Natural
 708;Axial Residencial;80295131;DNI;Natural
 709;Ventilador Tubular;78385433;DNI;Natural
 710;Axial Residencial;34538515;DNI;Natural
 711;Ventilador Industrial;1238441;DNI;Natural
-712;"Cortina de Aire ";26719774;DNI;Natural
-713;"Circular Residencial ";46114029;DNI;Natural
-714;"Helicocentrífugo Comercial ";53408358;DNI;Natural
-715;"Helicocentrífugo Silent  ";98054202;RUC;Jurídico
+712;Cortina de Aire ;26719774;DNI;Natural
+713;Circular Residencial ;46114029;DNI;Natural
+714;Helicocentrífugo Comercial ;53408358;DNI;Natural
+715;Helicocentrífugo Silent  ;98054202;RUC;Jurídico
 716;Cortina de Aire Industrial;89351495;DNI;Natural
-717;"Cortina de Aire ";56547347;RUC;Jurídico
-718;"Helicocentrífugo Comercial ";51556339;RUC;Jurídico
+717;Cortina de Aire ;56547347;RUC;Jurídico
+718;Helicocentrífugo Comercial ;51556339;RUC;Jurídico
 719;Ventilador Industrial;88309566;RUC;Jurídico
 720;Axial Residencial;91224744;RUC;Jurídico
 721;Ventilador Centrífugo;57907859;DNI;Natural
-722;"Cortina de Aire ";25093140;RUC;Jurídico
+722;Cortina de Aire ;25093140;RUC;Jurídico
 723;Ventilador Tubular;93852273;DNI;Natural
-724;"Circular Residencial ";41605835;RUC;Jurídico
-725;"Helicocentrífugo Silent  ";32003368;DNI;Natural
+724;Circular Residencial ;41605835;RUC;Jurídico
+725;Helicocentrífugo Silent  ;32003368;DNI;Natural
 726;Cortina de Aire Industrial;23209661;RUC;Jurídico
 727;Ventilador Industrial;62099074;DNI;Natural
-728;"Circular Residencial ";5871648;DNI;Natural
+728;Circular Residencial ;5871648;DNI;Natural
 729;Ventilador Centrífugo;89233989;DNI;Natural
-730;"Cortina de Aire ";12215700;RUC;Jurídico
-731;"Helicocentrífugo Silent  ";7869662;DNI;Natural
+730;Cortina de Aire ;12215700;RUC;Jurídico
+731;Helicocentrífugo Silent  ;7869662;DNI;Natural
 732;Ventilador Tubular;7395036;DNI;Natural
 733;Cortina de Aire Industrial;24176423;DNI;Natural
-734;"Helicocentrífugo Comercial ";57408841;RUC;Jurídico
+734;Helicocentrífugo Comercial ;57408841;RUC;Jurídico
 735;Helicocentrífugo Residencial;76644161;RUC;Jurídico
 736;Ventilador Industrial;6508825;RUC;Jurídico
 737;Ventilador Industrial;32822476;DNI;Natural
@@ -1261,263 +1262,263 @@
 741;Helicocentrífugo Residencial;31686474;RUC;Jurídico
 742;Axial Residencial;80441996;RUC;Jurídico
 743;Axial Residencial;12282117;RUC;Jurídico
-744;"Cortina de Aire ";65587805;DNI;Natural
+744;Cortina de Aire ;65587805;DNI;Natural
 745;Ventilador Centrífugo;98394976;RUC;Jurídico
 746;Ventilador Industrial;95564890;RUC;Jurídico
-747;"Cortina de Aire ";55632174;RUC;Jurídico
-748;"Circular Residencial ";36423759;DNI;Natural
-749;"Cortina de Aire ";18138434;DNI;Natural
+747;Cortina de Aire ;55632174;RUC;Jurídico
+748;Circular Residencial ;36423759;DNI;Natural
+749;Cortina de Aire ;18138434;DNI;Natural
 750;Cortina de Aire Industrial;88872123;RUC;Jurídico
 751;Ventilador Centrífugo;12834779;DNI;Natural
 752;Ventilador Industrial;48623515;DNI;Natural
 753;Cortina de Aire Industrial;94318483;DNI;Natural
-754;"Helicocentrífugo Silent  ";24912984;RUC;Jurídico
+754;Helicocentrífugo Silent  ;24912984;RUC;Jurídico
 755;Ventilador Centrífugo;32427362;RUC;Jurídico
 756;Ventilador Centrífugo;68726684;DNI;Natural
 757;Ventilador Industrial;49005666;RUC;Jurídico
 758;Ventilador Centrífugo;72923860;DNI;Natural
 759;Ventilador Tubular;23663987;DNI;Natural
 760;Helicocentrífugo Residencial;81843066;RUC;Jurídico
-761;"Helicocentrífugo Comercial ";17702410;DNI;Natural
-762;"Helicocentrífugo Comercial ";79806396;DNI;Natural
-763;"Cortina de Aire ";5823346;DNI;Natural
-764;"Helicocentrífugo Silent  ";26775587;RUC;Jurídico
+761;Helicocentrífugo Comercial ;17702410;DNI;Natural
+762;Helicocentrífugo Comercial ;79806396;DNI;Natural
+763;Cortina de Aire ;5823346;DNI;Natural
+764;Helicocentrífugo Silent  ;26775587;RUC;Jurídico
 765;Ventilador Tubular;44305311;RUC;Jurídico
 766;Axial Residencial;10737797;DNI;Natural
 767;Ventilador Industrial;21298942;DNI;Natural
 768;Helicocentrífugo Residencial;5376259;DNI;Natural
-769;"Circular Residencial ";80640011;DNI;Natural
-770;"Circular Residencial ";34463635;RUC;Jurídico
+769;Circular Residencial ;80640011;DNI;Natural
+770;Circular Residencial ;34463635;RUC;Jurídico
 771;Helicocentrífugo Residencial;6792163;DNI;Natural
 772;Helicocentrífugo Residencial;20121918;DNI;Natural
 773;Ventilador Industrial;86599854;RUC;Jurídico
 774;Ventilador Tubular;83867377;RUC;Jurídico
-775;"Helicocentrífugo Silent  ";58131840;DNI;Natural
-776;"Circular Residencial ";82967367;RUC;Jurídico
+775;Helicocentrífugo Silent  ;58131840;DNI;Natural
+776;Circular Residencial ;82967367;RUC;Jurídico
 777;Ventilador Centrífugo;73286044;RUC;Jurídico
 778;Ventilador Industrial;24656890;RUC;Jurídico
 779;Ventilador Industrial;24610185;DNI;Natural
 780;Ventilador Industrial;85998223;DNI;Natural
-781;"Helicocentrífugo Comercial ";1511721;RUC;Jurídico
+781;Helicocentrífugo Comercial ;1511721;RUC;Jurídico
 782;Ventilador Tubular;88052173;DNI;Natural
 783;Ventilador Industrial;28530267;RUC;Jurídico
 784;Helicocentrífugo Residencial;91956958;RUC;Jurídico
 785;Axial Residencial;26906142;RUC;Jurídico
 786;Ventilador Tubular;44511997;RUC;Jurídico
-787;"Cortina de Aire ";34481802;DNI;Natural
-788;"Cortina de Aire ";95541049;RUC;Jurídico
-789;"Helicocentrífugo Silent  ";32107316;DNI;Natural
-790;"Cortina de Aire ";47598528;RUC;Jurídico
+787;Cortina de Aire ;34481802;DNI;Natural
+788;Cortina de Aire ;95541049;RUC;Jurídico
+789;Helicocentrífugo Silent  ;32107316;DNI;Natural
+790;Cortina de Aire ;47598528;RUC;Jurídico
 791;Helicocentrífugo Residencial;90398205;RUC;Jurídico
 792;Ventilador Tubular;84205783;DNI;Natural
 793;Ventilador Tubular;82280577;RUC;Jurídico
-794;"Helicocentrífugo Silent  ";82262251;RUC;Jurídico
+794;Helicocentrífugo Silent  ;82262251;RUC;Jurídico
 795;Ventilador Industrial;93238681;DNI;Natural
-796;"Helicocentrífugo Comercial ";36390591;DNI;Natural
-797;"Helicocentrífugo Silent  ";52630781;RUC;Jurídico
+796;Helicocentrífugo Comercial ;36390591;DNI;Natural
+797;Helicocentrífugo Silent  ;52630781;RUC;Jurídico
 798;Ventilador Centrífugo;5781873;DNI;Natural
 799;Cortina de Aire Industrial;92266657;DNI;Natural
-800;"Circular Residencial ";86028255;DNI;Natural
-801;"Cortina de Aire ";76936363;DNI;Natural
+800;Circular Residencial ;86028255;DNI;Natural
+801;Cortina de Aire ;76936363;DNI;Natural
 802;Ventilador Centrífugo;73468888;RUC;Jurídico
 803;Cortina de Aire Industrial;30978466;DNI;Natural
-804;"Circular Residencial ";7828821;RUC;Jurídico
+804;Circular Residencial ;7828821;RUC;Jurídico
 805;Helicocentrífugo Residencial;36791978;DNI;Natural
-806;"Helicocentrífugo Comercial ";27724175;DNI;Natural
-807;"Helicocentrífugo Silent  ";92948449;RUC;Jurídico
-808;"Cortina de Aire ";44936216;DNI;Natural
-809;"Cortina de Aire ";26457164;DNI;Natural
+806;Helicocentrífugo Comercial ;27724175;DNI;Natural
+807;Helicocentrífugo Silent  ;92948449;RUC;Jurídico
+808;Cortina de Aire ;44936216;DNI;Natural
+809;Cortina de Aire ;26457164;DNI;Natural
 810;Helicocentrífugo Residencial;94364029;RUC;Jurídico
 811;Ventilador Tubular;3534226;RUC;Jurídico
 812;Cortina de Aire Industrial;96347342;RUC;Jurídico
-813;"Helicocentrífugo Comercial ";93042722;RUC;Jurídico
+813;Helicocentrífugo Comercial ;93042722;RUC;Jurídico
 814;Helicocentrífugo Residencial;45783980;DNI;Natural
 815;Ventilador Tubular;21437848;RUC;Jurídico
 816;Cortina de Aire Industrial;5308186;DNI;Natural
-817;"Helicocentrífugo Silent  ";24793691;DNI;Natural
-818;"Helicocentrífugo Silent  ";84050315;DNI;Natural
+817;Helicocentrífugo Silent  ;24793691;DNI;Natural
+818;Helicocentrífugo Silent  ;84050315;DNI;Natural
 819;Axial Residencial;89417227;RUC;Jurídico
 820;Ventilador Centrífugo;97282215;RUC;Jurídico
-821;"Helicocentrífugo Silent  ";49359188;RUC;Jurídico
-822;"Helicocentrífugo Silent  ";80291566;DNI;Natural
+821;Helicocentrífugo Silent  ;49359188;RUC;Jurídico
+822;Helicocentrífugo Silent  ;80291566;DNI;Natural
 823;Axial Residencial;53995087;DNI;Natural
-824;"Circular Residencial ";15255556;DNI;Natural
+824;Circular Residencial ;15255556;DNI;Natural
 825;Ventilador Industrial;65765930;DNI;Natural
 826;Axial Residencial;30714419;DNI;Natural
 827;Ventilador Tubular;6768812;DNI;Natural
-828;"Helicocentrífugo Silent  ";98471273;DNI;Natural
-829;"Helicocentrífugo Comercial ";80847768;RUC;Jurídico
+828;Helicocentrífugo Silent  ;98471273;DNI;Natural
+829;Helicocentrífugo Comercial ;80847768;RUC;Jurídico
 830;Ventilador Centrífugo;4707251;RUC;Jurídico
 831;Ventilador Tubular;29343622;RUC;Jurídico
 832;Cortina de Aire Industrial;67512963;RUC;Jurídico
 833;Ventilador Tubular;46697984;DNI;Natural
 834;Helicocentrífugo Residencial;87575930;RUC;Jurídico
-835;"Helicocentrífugo Comercial ";16282455;RUC;Jurídico
+835;Helicocentrífugo Comercial ;16282455;RUC;Jurídico
 836;Helicocentrífugo Residencial;55182461;RUC;Jurídico
 837;Ventilador Centrífugo;56263868;DNI;Natural
 838;Axial Residencial;12974877;DNI;Natural
 839;Helicocentrífugo Residencial;10088066;RUC;Jurídico
 840;Axial Residencial;4170759;RUC;Jurídico
 841;Ventilador Tubular;17850061;DNI;Natural
-842;"Helicocentrífugo Silent  ";67076294;DNI;Natural
+842;Helicocentrífugo Silent  ;67076294;DNI;Natural
 843;Axial Residencial;18042083;DNI;Natural
-844;"Helicocentrífugo Silent  ";19016182;DNI;Natural
+844;Helicocentrífugo Silent  ;19016182;DNI;Natural
 845;Ventilador Centrífugo;62627649;DNI;Natural
 846;Helicocentrífugo Residencial;95944012;DNI;Natural
 847;Ventilador Tubular;29769857;RUC;Jurídico
-848;"Circular Residencial ";85835404;RUC;Jurídico
+848;Circular Residencial ;85835404;RUC;Jurídico
 849;Ventilador Tubular;10889898;RUC;Jurídico
-850;"Circular Residencial ";77254452;RUC;Jurídico
+850;Circular Residencial ;77254452;RUC;Jurídico
 851;Ventilador Industrial;50252802;DNI;Natural
 852;Ventilador Tubular;20143868;RUC;Jurídico
-853;"Helicocentrífugo Silent  ";2426938;RUC;Jurídico
-854;"Helicocentrífugo Silent  ";38876965;RUC;Jurídico
+853;Helicocentrífugo Silent  ;2426938;RUC;Jurídico
+854;Helicocentrífugo Silent  ;38876965;RUC;Jurídico
 855;Ventilador Industrial;16189938;DNI;Natural
-856;"Cortina de Aire ";67109430;RUC;Jurídico
-857;"Helicocentrífugo Comercial ";99810274;RUC;Jurídico
+856;Cortina de Aire ;67109430;RUC;Jurídico
+857;Helicocentrífugo Comercial ;99810274;RUC;Jurídico
 858;Ventilador Centrífugo;98918625;RUC;Jurídico
-859;"Helicocentrífugo Comercial ";68238603;DNI;Natural
-860;"Cortina de Aire ";73389768;RUC;Jurídico
-861;"Cortina de Aire ";14018635;DNI;Natural
+859;Helicocentrífugo Comercial ;68238603;DNI;Natural
+860;Cortina de Aire ;73389768;RUC;Jurídico
+861;Cortina de Aire ;14018635;DNI;Natural
 862;Ventilador Industrial;5398192;RUC;Jurídico
 863;Ventilador Tubular;72636660;RUC;Jurídico
 864;Ventilador Tubular;31724637;RUC;Jurídico
 865;Helicocentrífugo Residencial;16231573;RUC;Jurídico
 866;Ventilador Tubular;54088712;RUC;Jurídico
 867;Helicocentrífugo Residencial;36576088;DNI;Natural
-868;"Helicocentrífugo Comercial ";8495013;DNI;Natural
+868;Helicocentrífugo Comercial ;8495013;DNI;Natural
 869;Axial Residencial;92255057;RUC;Jurídico
-870;"Helicocentrífugo Silent  ";70076520;DNI;Natural
+870;Helicocentrífugo Silent  ;70076520;DNI;Natural
 871;Cortina de Aire Industrial;25544703;RUC;Jurídico
 872;Cortina de Aire Industrial;35099030;RUC;Jurídico
 873;Ventilador Industrial;66831778;DNI;Natural
-874;"Circular Residencial ";35896485;DNI;Natural
-875;"Helicocentrífugo Comercial ";36461458;DNI;Natural
+874;Circular Residencial ;35896485;DNI;Natural
+875;Helicocentrífugo Comercial ;36461458;DNI;Natural
 876;Cortina de Aire Industrial;73277198;RUC;Jurídico
-877;"Helicocentrífugo Comercial ";84124948;RUC;Jurídico
-878;"Circular Residencial ";56091378;RUC;Jurídico
+877;Helicocentrífugo Comercial ;84124948;RUC;Jurídico
+878;Circular Residencial ;56091378;RUC;Jurídico
 879;Helicocentrífugo Residencial;99661695;RUC;Jurídico
-880;"Circular Residencial ";41023949;RUC;Jurídico
+880;Circular Residencial ;41023949;RUC;Jurídico
 881;Cortina de Aire Industrial;80022600;DNI;Natural
 882;Axial Residencial;93103857;DNI;Natural
 883;Axial Residencial;36997269;RUC;Jurídico
-884;"Helicocentrífugo Comercial ";62758221;RUC;Jurídico
+884;Helicocentrífugo Comercial ;62758221;RUC;Jurídico
 885;Cortina de Aire Industrial;45533179;RUC;Jurídico
-886;"Helicocentrífugo Comercial ";71492680;DNI;Natural
-887;"Cortina de Aire ";20281629;DNI;Natural
+886;Helicocentrífugo Comercial ;71492680;DNI;Natural
+887;Cortina de Aire ;20281629;DNI;Natural
 888;Helicocentrífugo Residencial;7691037;RUC;Jurídico
-889;"Cortina de Aire ";9954572;DNI;Natural
-890;"Cortina de Aire ";92357605;DNI;Natural
+889;Cortina de Aire ;9954572;DNI;Natural
+890;Cortina de Aire ;92357605;DNI;Natural
 891;Ventilador Tubular;52368673;RUC;Jurídico
 892;Cortina de Aire Industrial;84228444;RUC;Jurídico
 893;Axial Residencial;35053600;RUC;Jurídico
-894;"Helicocentrífugo Silent  ";72346051;DNI;Natural
-895;"Circular Residencial ";87907620;DNI;Natural
-896;"Circular Residencial ";46861278;RUC;Jurídico
-897;"Circular Residencial ";61273389;RUC;Jurídico
-898;"Circular Residencial ";47389131;DNI;Natural
-899;"Cortina de Aire ";38443625;DNI;Natural
-900;"Circular Residencial ";81685304;DNI;Natural
-901;"Helicocentrífugo Silent  ";75559185;RUC;Jurídico
+894;Helicocentrífugo Silent  ;72346051;DNI;Natural
+895;Circular Residencial ;87907620;DNI;Natural
+896;Circular Residencial ;46861278;RUC;Jurídico
+897;Circular Residencial ;61273389;RUC;Jurídico
+898;Circular Residencial ;47389131;DNI;Natural
+899;Cortina de Aire ;38443625;DNI;Natural
+900;Circular Residencial ;81685304;DNI;Natural
+901;Helicocentrífugo Silent  ;75559185;RUC;Jurídico
 902;Ventilador Centrífugo;10158818;DNI;Natural
 903;Cortina de Aire Industrial;35181847;DNI;Natural
-904;"Cortina de Aire ";25713894;DNI;Natural
+904;Cortina de Aire ;25713894;DNI;Natural
 905;Cortina de Aire Industrial;2373964;DNI;Natural
 906;Axial Residencial;15336772;DNI;Natural
 907;Axial Residencial;33950305;RUC;Jurídico
-908;"Helicocentrífugo Silent  ";52239575;RUC;Jurídico
+908;Helicocentrífugo Silent  ;52239575;RUC;Jurídico
 909;Ventilador Tubular;92331913;DNI;Natural
 910;Ventilador Centrífugo;84610294;RUC;Jurídico
-911;"Circular Residencial ";94414114;DNI;Natural
-912;"Helicocentrífugo Silent  ";58100258;DNI;Natural
+911;Circular Residencial ;94414114;DNI;Natural
+912;Helicocentrífugo Silent  ;58100258;DNI;Natural
 913;Axial Residencial;28030825;RUC;Jurídico
 914;Cortina de Aire Industrial;2734818;DNI;Natural
-915;"Helicocentrífugo Silent  ";80476124;RUC;Jurídico
+915;Helicocentrífugo Silent  ;80476124;RUC;Jurídico
 916;Axial Residencial;63301329;RUC;Jurídico
 917;Ventilador Tubular;15768286;RUC;Jurídico
 918;Cortina de Aire Industrial;74581223;DNI;Natural
-919;"Helicocentrífugo Silent  ";56285949;DNI;Natural
-920;"Helicocentrífugo Silent  ";88984449;RUC;Jurídico
+919;Helicocentrífugo Silent  ;56285949;DNI;Natural
+920;Helicocentrífugo Silent  ;88984449;RUC;Jurídico
 921;Ventilador Centrífugo;1276826;RUC;Jurídico
-922;"Helicocentrífugo Comercial ";60612462;RUC;Jurídico
+922;Helicocentrífugo Comercial ;60612462;RUC;Jurídico
 923;Cortina de Aire Industrial;18337140;DNI;Natural
-924;"Helicocentrífugo Comercial ";32019816;RUC;Jurídico
+924;Helicocentrífugo Comercial ;32019816;RUC;Jurídico
 925;Ventilador Centrífugo;84983658;DNI;Natural
-926;"Circular Residencial ";6598740;DNI;Natural
+926;Circular Residencial ;6598740;DNI;Natural
 927;Helicocentrífugo Residencial;26152690;DNI;Natural
 928;Cortina de Aire Industrial;85795258;DNI;Natural
 929;Ventilador Tubular;87835196;DNI;Natural
-930;"Cortina de Aire ";42084295;RUC;Jurídico
-931;"Helicocentrífugo Comercial ";30429947;RUC;Jurídico
-932;"Cortina de Aire ";76029814;RUC;Jurídico
+930;Cortina de Aire ;42084295;RUC;Jurídico
+931;Helicocentrífugo Comercial ;30429947;RUC;Jurídico
+932;Cortina de Aire ;76029814;RUC;Jurídico
 933;Ventilador Centrífugo;1785331;DNI;Natural
 934;Axial Residencial;92945601;RUC;Jurídico
-935;"Helicocentrífugo Comercial ";2470237;RUC;Jurídico
-936;"Circular Residencial ";88288290;RUC;Jurídico
-937;"Circular Residencial ";25664252;DNI;Natural
+935;Helicocentrífugo Comercial ;2470237;RUC;Jurídico
+936;Circular Residencial ;88288290;RUC;Jurídico
+937;Circular Residencial ;25664252;DNI;Natural
 938;Ventilador Industrial;59090619;RUC;Jurídico
 939;Axial Residencial;76767537;DNI;Natural
 940;Ventilador Tubular;16604777;DNI;Natural
-941;"Helicocentrífugo Comercial ";13907281;DNI;Natural
+941;Helicocentrífugo Comercial ;13907281;DNI;Natural
 942;Cortina de Aire Industrial;94509940;RUC;Jurídico
-943;"Helicocentrífugo Silent  ";29650720;DNI;Natural
-944;"Helicocentrífugo Comercial ";65146524;RUC;Jurídico
+943;Helicocentrífugo Silent  ;29650720;DNI;Natural
+944;Helicocentrífugo Comercial ;65146524;RUC;Jurídico
 945;Axial Residencial;43865583;DNI;Natural
 946;Helicocentrífugo Residencial;70969951;RUC;Jurídico
 947;Ventilador Tubular;26071985;RUC;Jurídico
-948;"Cortina de Aire ";50979106;DNI;Natural
-949;"Circular Residencial ";73888301;DNI;Natural
-950;"Circular Residencial ";72025378;DNI;Natural
+948;Cortina de Aire ;50979106;DNI;Natural
+949;Circular Residencial ;73888301;DNI;Natural
+950;Circular Residencial ;72025378;DNI;Natural
 951;Axial Residencial;9293082;RUC;Jurídico
 952;Ventilador Industrial;75465842;RUC;Jurídico
-953;"Circular Residencial ";42879500;RUC;Jurídico
+953;Circular Residencial ;42879500;RUC;Jurídico
 954;Cortina de Aire Industrial;16740774;DNI;Natural
-955;"Helicocentrífugo Comercial ";13407584;RUC;Jurídico
+955;Helicocentrífugo Comercial ;13407584;RUC;Jurídico
 956;Helicocentrífugo Residencial;1427388;DNI;Natural
 957;Axial Residencial;4048255;DNI;Natural
-958;"Cortina de Aire ";28135035;DNI;Natural
+958;Cortina de Aire ;28135035;DNI;Natural
 959;Ventilador Industrial;47585018;DNI;Natural
 960;Axial Residencial;16646220;DNI;Natural
-961;"Helicocentrífugo Silent  ";53538752;RUC;Jurídico
-962;"Cortina de Aire ";75855239;DNI;Natural
+961;Helicocentrífugo Silent  ;53538752;RUC;Jurídico
+962;Cortina de Aire ;75855239;DNI;Natural
 963;Helicocentrífugo Residencial;48472385;RUC;Jurídico
-964;"Helicocentrífugo Silent  ";71579554;RUC;Jurídico
-965;"Cortina de Aire ";36849928;RUC;Jurídico
-966;"Circular Residencial ";18094859;RUC;Jurídico
+964;Helicocentrífugo Silent  ;71579554;RUC;Jurídico
+965;Cortina de Aire ;36849928;RUC;Jurídico
+966;Circular Residencial ;18094859;RUC;Jurídico
 967;Cortina de Aire Industrial;40519723;RUC;Jurídico
 968;Ventilador Industrial;70819152;DNI;Natural
-969;"Helicocentrífugo Silent  ";40154370;DNI;Natural
+969;Helicocentrífugo Silent  ;40154370;DNI;Natural
 970;Helicocentrífugo Residencial;82886981;DNI;Natural
 971;Axial Residencial;58825590;DNI;Natural
-972;"Helicocentrífugo Comercial ";65464973;DNI;Natural
+972;Helicocentrífugo Comercial ;65464973;DNI;Natural
 973;Ventilador Centrífugo;96103068;RUC;Jurídico
-974;"Circular Residencial ";1908521;RUC;Jurídico
-975;"Helicocentrífugo Silent  ";29840707;DNI;Natural
+974;Circular Residencial ;1908521;RUC;Jurídico
+975;Helicocentrífugo Silent  ;29840707;DNI;Natural
 976;Cortina de Aire Industrial;36831976;DNI;Natural
-977;"Helicocentrífugo Comercial ";33694546;RUC;Jurídico
-978;"Circular Residencial ";27985101;RUC;Jurídico
-979;"Helicocentrífugo Silent  ";53979150;RUC;Jurídico
-980;"Cortina de Aire ";78358438;DNI;Natural
+977;Helicocentrífugo Comercial ;33694546;RUC;Jurídico
+978;Circular Residencial ;27985101;RUC;Jurídico
+979;Helicocentrífugo Silent  ;53979150;RUC;Jurídico
+980;Cortina de Aire ;78358438;DNI;Natural
 981;Cortina de Aire Industrial;64571032;RUC;Jurídico
 982;Axial Residencial;93224097;DNI;Natural
-983;"Helicocentrífugo Silent  ";32527613;DNI;Natural
+983;Helicocentrífugo Silent  ;32527613;DNI;Natural
 984;Ventilador Centrífugo;14171224;DNI;Natural
-985;"Helicocentrífugo Comercial ";82875383;RUC;Jurídico
+985;Helicocentrífugo Comercial ;82875383;RUC;Jurídico
 986;Cortina de Aire Industrial;74748409;DNI;Natural
 987;Ventilador Centrífugo;76903424;DNI;Natural
 988;Axial Residencial;47537065;DNI;Natural
 989;Ventilador Industrial;71489988;DNI;Natural
 990;Ventilador Centrífugo;96459609;DNI;Natural
-991;"Helicocentrífugo Comercial ";45577030;RUC;Jurídico
+991;Helicocentrífugo Comercial ;45577030;RUC;Jurídico
 992;Ventilador Industrial;87893487;DNI;Natural
-993;"Cortina de Aire ";93205115;DNI;Natural
+993;Cortina de Aire ;93205115;DNI;Natural
 994;Axial Residencial;80273589;DNI;Natural
 995;Ventilador Tubular;93024237;RUC;Jurídico
 996;Cortina de Aire Industrial;51221622;RUC;Jurídico
-997;"Cortina de Aire ";46050272;RUC;Jurídico
-998;"Cortina de Aire ";52983356;RUC;Jurídico
-999;"Helicocentrífugo Comercial ";53663401;DNI;Natural
-1000;"Helicocentrífugo Comercial ";21227784;DNI;Natural
+997;Cortina de Aire ;46050272;RUC;Jurídico
+998;Cortina de Aire ;52983356;RUC;Jurídico
+999;Helicocentrífugo Comercial ;53663401;DNI;Natural
+1000;Helicocentrífugo Comercial ;21227784;DNI;Natural
 407;Ducto Rectangular;20766644302;RUC;Jurídico
 31;Rejilla Lineal;40496568;DNI;Natural
 165;Bomba de Condensado;61991921;DNI;Natural
@@ -1529,7 +1530,7 @@
 226;Rejilla Rotacional;38161990;DNI;Natural
 223;Rejilla Lineal;54355139;DNI;Natural
 316;Rejilla Lineal;20861416027;RUC;Jurídico
-196;"Helicocentrífugo Comercial ";13128671;DNI;Natural
+196;Helicocentrífugo Comercial ;13128671;DNI;Natural
 458;Rejilla Lineal;20780601321;RUC;Jurídico
 389;Helicocentrífugo Residencial;20255660233;RUC;Jurídico
 304;Cinta de Aluminio;20190026008;RUC;Jurídico
@@ -1537,7 +1538,7 @@
 10;Ducto Circular;90520010;DNI;Natural
 168;Rejilla Lineal;27785930;DNI;Natural
 186;Axial Residencial;85089186;DNI;Natural
-159;"Helicocentrífugo Comercial ";71650903;DNI;Natural
+159;Helicocentrífugo Comercial ;71650903;DNI;Natural
 137;Rejilla de Retorno;98611455;DNI;Natural
 406;Filtro Hepa;20929602951;RUC;Jurídico
 84;Mangas;92037340;DNI;Natural
@@ -1550,14 +1551,14 @@
 397;Rejilla Lineal;20790347552;RUC;Jurídico
 406;Cinta de Aluminio;20929602951;RUC;Jurídico
 349;Filtro Hepa;20826989970;RUC;Jurídico
-427;"Circular Residencial ";20597971343;RUC;Jurídico
+427;Circular Residencial ;20597971343;RUC;Jurídico
 261;Helicocentrífugo Residencial;30426771;DNI;Natural
 223;Válvula de Servicio;54355139;DNI;Natural
 97;Aislamiento Térmico;55562141;DNI;Natural
 157;Gas Refrigerante;42291896;DNI;Natural
 402;Válvula de Servicio;20165212174;RUC;Jurídico
 497;Llave de Paso;20113788142;RUC;Jurídico
-364;"Helicocentrífugo Silent  ";20043661201;RUC;Jurídico
+364;Helicocentrífugo Silent  ;20043661201;RUC;Jurídico
 91;Cortina de Aire Industrial;77876908;DNI;Natural
 450;Presostato;20920687740;RUC;Jurídico
 359;Filtro Deshumedecedor;20062728268;RUC;Jurídico
@@ -1572,17 +1573,17 @@
 183;Rejilla de Retorno;93020275;DNI;Natural
 451;Rejilla 1 vía;20810019416;RUC;Jurídico
 86;Aislamiento Térmico;69161940;DNI;Natural
-443;"Helicocentrífugo Comercial ";20359749202;RUC;Jurídico
+443;Helicocentrífugo Comercial ;20359749202;RUC;Jurídico
 499;Cortina de Aire Industrial;20959276550;RUC;Jurídico
 214;Helicocentrífugo Residencial;33222507;DNI;Natural
 221;Ducto Rectangular;69813522;DNI;Natural
-316;"Circular Residencial ";20861416027;RUC;Jurídico
+316;Circular Residencial ;20861416027;RUC;Jurídico
 282;Rejilla Circular;27698755;DNI;Natural
 7;Rejilla 3 vías;56679144;DNI;Natural
 33;Rejilla de Retorno;93956514;DNI;Natural
 298;Filtro Deshumedecedor;14321179;DNI;Natural
 250;Aislamiento Térmico;43031062;DNI;Natural
-430;"Circular Residencial ";20662432978;RUC;Jurídico
+430;Circular Residencial ;20662432978;RUC;Jurídico
 28;Ventilador Tubular;70347136;DNI;Natural
 492;Rejilla 3 vías;20081143811;RUC;Jurídico
 212;Presostato;87185129;DNI;Natural
@@ -1591,7 +1592,7 @@
 346;Bomba de Condensado;20310193926;RUC;Jurídico
 85;Rejilla 3 vías;63554229;DNI;Natural
 180;Llave de Paso;85138348;DNI;Natural
-356;"Helicocentrífugo Comercial ";20536403325;RUC;Jurídico
+356;Helicocentrífugo Comercial ;20536403325;RUC;Jurídico
 102;Mangas;14320905;DNI;Natural
 485;Filtro Deshumedecedor;20568680306;RUC;Jurídico
 352;Válvula de Servicio;20899922743;RUC;Jurídico
@@ -1608,7 +1609,7 @@
 404;Presostato;20480847588;RUC;Jurídico
 153;Ventilador Tubular;37474632;DNI;Natural
 201;Cortina de Aire Industrial;47047640;DNI;Natural
-261;"Circular Residencial ";30426771;DNI;Natural
+261;Circular Residencial ;30426771;DNI;Natural
 221;Filtro Metálico;69813522;DNI;Natural
 170;Rejilla 3 vías;92997107;DNI;Natural
 313;Cinta de Aluminio;20744113510;RUC;Jurídico
@@ -1616,7 +1617,7 @@
 441;Rejilla Lineal;20384943554;RUC;Jurídico
 500;Rejilla 2 vías;20932811789;RUC;Jurídico
 388;Ventilador Tubular;20151662716;RUC;Jurídico
-242;"Helicocentrífugo Comercial ";78376531;DNI;Natural
+242;Helicocentrífugo Comercial ;78376531;DNI;Natural
 357;Filtro Hepa;20139488893;RUC;Jurídico
 193;Rejilla Multifuncional;55546166;DNI;Natural
 256;Filtro de Poliester;23027948;DNI;Natural
@@ -1630,7 +1631,7 @@
 28;Ventilador Centrífugo;70347136;DNI;Natural
 403;Llave de Paso;20580253234;RUC;Jurídico
 384;Rejilla 2 vías;20499875082;RUC;Jurídico
-50;"Helicocentrífugo Comercial ";50252311;DNI;Natural
+50;Helicocentrífugo Comercial ;50252311;DNI;Natural
 71;Rejilla Doble Deflexión;68257995;DNI;Natural
 320;Filtro Deshumedecedor;20482938625;RUC;Jurídico
 428;Ducto Circular;20676742895;RUC;Jurídico
@@ -1653,10 +1654,10 @@
 248;Repuestos;99439033;DNI;Natural
 441;Rejilla Rotacional;20384943554;RUC;Jurídico
 278;Gas Refrigerante;13076752;DNI;Natural
-394;"Circular Residencial ";20210827617;RUC;Jurídico
-368;"Cortina de Aire ";20016495290;RUC;Jurídico
+394;Circular Residencial ;20210827617;RUC;Jurídico
+368;Cortina de Aire ;20016495290;RUC;Jurídico
 6;Cinta de Aluminio;31935535;DNI;Natural
-10;"Helicocentrífugo Silent  ";90520010;DNI;Natural
+10;Helicocentrífugo Silent  ;90520010;DNI;Natural
 459;Válvula de Servicio;20538757529;RUC;Jurídico
 257;Gas Refrigerante;91328517;DNI;Natural
 346;Ventilador Centrífugo;20310193926;RUC;Jurídico
@@ -1667,19 +1668,19 @@
 298;Cortina de Aire Industrial;14321179;DNI;Natural
 253;Rejilla Circular;28776480;DNI;Natural
 498;Filtro Deshumedecedor;20990804585;RUC;Jurídico
-315;"Cortina de Aire ";20638068302;RUC;Jurídico
+315;Cortina de Aire ;20638068302;RUC;Jurídico
 166;Axial Residencial;48632810;DNI;Natural
 276;Filtro Deshumedecedor;72089232;DNI;Natural
 57;Rejilla 1 vía;75923135;DNI;Natural
 479;Filtro Deshumedecedor;20685429727;RUC;Jurídico
-113;"Helicocentrífugo Comercial ";42933485;DNI;Natural
-5;"Circular Residencial ";10236637;DNI;Natural
+113;Helicocentrífugo Comercial ;42933485;DNI;Natural
+5;Circular Residencial ;10236637;DNI;Natural
 106;Repuestos;94270379;DNI;Natural
 197;Ducto Circular;36053783;DNI;Natural
 199;Rejilla Lineal;96049172;DNI;Natural
 464;Aislamiento Térmico;20261777707;RUC;Jurídico
 186;Rejilla 1 vía;85089186;DNI;Natural
-414;"Helicocentrífugo Comercial ";20063727460;RUC;Jurídico
+414;Helicocentrífugo Comercial ;20063727460;RUC;Jurídico
 496;Presostato;20542289305;RUC;Jurídico
 33;Rejilla 3 vías;93956514;DNI;Natural
 63;Cortina de Aire Industrial;34762965;DNI;Natural
@@ -1689,7 +1690,7 @@
 100;Mangas;41819332;DNI;Natural
 91;Rejilla 1 vía;77876908;DNI;Natural
 264;Cortina de Aire Industrial;28946107;DNI;Natural
-310;"Helicocentrífugo Comercial ";20421245413;RUC;Jurídico
+310;Helicocentrífugo Comercial ;20421245413;RUC;Jurídico
 365;Aislamiento Térmico;20882109726;RUC;Jurídico
 471;Axial Residencial;20326417021;RUC;Jurídico
 421;Visor Líquido;20139369133;RUC;Jurídico
@@ -1699,10 +1700,10 @@
 338;Filtro de Poliester;20558166758;RUC;Jurídico
 265;Ducto Flexible;68182889;DNI;Natural
 384;Tubería de Cobre;20499875082;RUC;Jurídico
-1;"Circular Residencial ";20371555;DNI;Natural
+1;Circular Residencial ;20371555;DNI;Natural
 422;Rejilla Circular;20774236074;RUC;Jurídico
 312;Gas Refrigerante;20953765662;RUC;Jurídico
-129;"Cortina de Aire ";74767090;DNI;Natural
+129;Cortina de Aire ;74767090;DNI;Natural
 143;Rejilla 2 vías;90584094;DNI;Natural
 250;Ducto Rectangular;43031062;DNI;Natural
 453;Bomba de Condensado;20839981850;RUC;Jurídico
@@ -1716,10 +1717,10 @@
 15;Rejilla Doble Deflexión;50685872;DNI;Natural
 219;Rejilla Circular;16743754;DNI;Natural
 425;Gas Refrigerante;20552961079;RUC;Jurídico
-100;"Helicocentrífugo Comercial ";41819332;DNI;Natural
+100;Helicocentrífugo Comercial ;41819332;DNI;Natural
 378;Llave de Paso;20091969037;RUC;Jurídico
 246;Rejilla Lineal;17861202;DNI;Natural
-97;"Circular Residencial ";55562141;DNI;Natural
+97;Circular Residencial ;55562141;DNI;Natural
 298;Ducto Rectangular;14321179;DNI;Natural
 383;Mangas;20840788663;RUC;Jurídico
 466;Ducto Circular;20829445311;RUC;Jurídico
@@ -1727,7 +1728,7 @@
 191;Ducto Flexible;59825302;DNI;Natural
 426;Gas Refrigerante;20885384856;RUC;Jurídico
 135;Filtro Metálico;45696556;DNI;Natural
-196;"Circular Residencial ";13128671;DNI;Natural
+196;Circular Residencial ;13128671;DNI;Natural
 143;Rejilla 3 vías;90584094;DNI;Natural
 237;Ventilador Tubular;47161799;DNI;Natural
 339;Rejilla 1 vía;20978526621;RUC;Jurídico
@@ -1749,16 +1750,16 @@
 97;Rejilla Lineal;55562141;DNI;Natural
 166;Rejilla 3 vías;48632810;DNI;Natural
 66;Cortina de Aire Industrial;13965949;DNI;Natural
-195;"Helicocentrífugo Silent  ";34582754;DNI;Natural
+195;Helicocentrífugo Silent  ;34582754;DNI;Natural
 409;Bomba de Condensado;20095828050;RUC;Jurídico
 432;Tubería de Cobre;20166496368;RUC;Jurídico
-270;"Helicocentrífugo Silent  ";60791743;DNI;Natural
+270;Helicocentrífugo Silent  ;60791743;DNI;Natural
 38;Filtro de Poliester;10153244;DNI;Natural
 317;Filtro Hepa;20366392285;RUC;Jurídico
 363;Axial Residencial;20147269508;RUC;Jurídico
 148;Ventilador Tubular;36487555;DNI;Natural
 473;Rejilla 1 vía;20555950817;RUC;Jurídico
-381;"Helicocentrífugo Comercial ";20016552704;RUC;Jurídico
+381;Helicocentrífugo Comercial ;20016552704;RUC;Jurídico
 415;Visor Líquido;20638226765;RUC;Jurídico
 155;Presostato;35826388;DNI;Natural
 398;Ducto Flexible;20594959515;RUC;Jurídico
@@ -1774,14 +1775,14 @@
 130;Rejilla 3 vías;23116375;DNI;Natural
 393;Rejilla 2 vías;20098810404;RUC;Jurídico
 118;Cortina de Aire Industrial;49534418;DNI;Natural
-96;"Helicocentrífugo Comercial ";28645907;DNI;Natural
-259;"Circular Residencial ";68694927;DNI;Natural
+96;Helicocentrífugo Comercial ;28645907;DNI;Natural
+259;Circular Residencial ;68694927;DNI;Natural
 42;Cinta de Aluminio;21353357;DNI;Natural
 74;Rejilla 2 vías;90718648;DNI;Natural
 125;Helicocentrífugo Residencial;31291569;DNI;Natural
 343;Llave de Paso;20096223149;RUC;Jurídico
-173;"Circular Residencial ";41032798;DNI;Natural
-62;"Circular Residencial ";42067921;DNI;Natural
+173;Circular Residencial ;41032798;DNI;Natural
+62;Circular Residencial ;42067921;DNI;Natural
 371;Rejilla 4 vías;20016514237;RUC;Jurídico
 303;Rejilla 2 vías;20362414268;RUC;Jurídico
 496;Bomba de Condensado;20542289305;RUC;Jurídico
@@ -1834,7 +1835,7 @@
 100;Helicocentrífugo Residencial;41819332;DNI;Natural
 208;Presostato;55863357;DNI;Natural
 382;Ventilador Tubular;20814351551;RUC;Jurídico
-422;"Helicocentrífugo Comercial ";20774236074;RUC;Jurídico
+422;Helicocentrífugo Comercial ;20774236074;RUC;Jurídico
 270;Ventilador Tubular;60791743;DNI;Natural
 36;Cortina de Aire Industrial;81367734;DNI;Natural
 195;Axial Residencial;34582754;DNI;Natural
@@ -1851,8 +1852,8 @@
 252;Rejilla de Retorno;42750834;DNI;Natural
 228;Rejilla de Retorno;22840497;DNI;Natural
 287;Rejilla de Retorno;33321414;DNI;Natural
-111;"Helicocentrífugo Silent  ";29289996;DNI;Natural
-91;"Cortina de Aire ";77876908;DNI;Natural
+111;Helicocentrífugo Silent  ;29289996;DNI;Natural
+91;Cortina de Aire ;77876908;DNI;Natural
 190;Rejilla Rotacional;41616878;DNI;Natural
 3;Rejilla Lineal;59523429;DNI;Natural
 362;Rejilla 2 vías;20828583231;RUC;Jurídico
@@ -1862,7 +1863,7 @@
 274;Filtro Metálico;96415257;DNI;Natural
 119;Repuestos;85939187;DNI;Natural
 56;Axial Residencial;44191656;DNI;Natural
-23;"Cortina de Aire ";21958280;DNI;Natural
+23;Cortina de Aire ;21958280;DNI;Natural
 23;Rejilla 4 vías;21958280;DNI;Natural
 235;Rejilla Lineal;14676794;DNI;Natural
 136;Filtro de Poliester;91262933;DNI;Natural
@@ -1872,7 +1873,7 @@
 200;Ventilador Industrial;33929015;DNI;Natural
 411;Válvula de Servicio;20174874262;RUC;Jurídico
 25;Cortina de Aire Industrial;95311295;DNI;Natural
-55;"Helicocentrífugo Silent  ";36378300;DNI;Natural
+55;Helicocentrífugo Silent  ;36378300;DNI;Natural
 135;Aislamiento Térmico;45696556;DNI;Natural
 4;Ducto Circular;87834304;DNI;Natural
 179;Cinta de Aluminio;81194316;DNI;Natural
@@ -1890,7 +1891,7 @@
 124;Rejilla 1 vía;13993719;DNI;Natural
 179;Mangas;81194316;DNI;Natural
 326;Manguera;20553338373;RUC;Jurídico
-278;"Circular Residencial ";13076752;DNI;Natural
+278;Circular Residencial ;13076752;DNI;Natural
 41;Rejilla 4 vías;63548906;DNI;Natural
 326;Filtro de Poliester;20553338373;RUC;Jurídico
 18;Rejilla 2 vías;59269700;DNI;Natural
@@ -1903,10 +1904,10 @@
 221;Rejilla 4 vías;69813522;DNI;Natural
 431;Llave de Paso;20370608419;RUC;Jurídico
 463;Válvula de Servicio;20999194120;RUC;Jurídico
-358;"Helicocentrífugo Silent  ";20686795534;RUC;Jurídico
+358;Helicocentrífugo Silent  ;20686795534;RUC;Jurídico
 477;Ducto Circular;20666597533;RUC;Jurídico
 369;Rejilla Doble Deflexión;20278129282;RUC;Jurídico
-462;"Helicocentrífugo Comercial ";20056752611;RUC;Jurídico
+462;Helicocentrífugo Comercial ;20056752611;RUC;Jurídico
 273;Válvula de Servicio;37959691;DNI;Natural
 61;Rejilla 3 vías;89535911;DNI;Natural
 405;Ducto Rectangular;20628732631;RUC;Jurídico
@@ -1925,11 +1926,11 @@
 396;Cinta de Aluminio;20815519285;RUC;Jurídico
 410;Rejilla 4 vías;20143368022;RUC;Jurídico
 200;Ducto Flexible;33929015;DNI;Natural
-331;"Helicocentrífugo Silent  ";20910604931;RUC;Jurídico
+331;Helicocentrífugo Silent  ;20910604931;RUC;Jurídico
 186;Rejilla 4 vías;85089186;DNI;Natural
 250;Mangas;43031062;DNI;Natural
 260;Filtro Deshumedecedor;44883589;DNI;Natural
-259;"Helicocentrífugo Silent  ";68694927;DNI;Natural
+259;Helicocentrífugo Silent  ;68694927;DNI;Natural
 131;Mangas;76312610;DNI;Natural
 395;Rejilla de Retorno;20739457532;RUC;Jurídico
 378;Aislamiento Térmico;20091969037;RUC;Jurídico
@@ -1941,7 +1942,7 @@
 168;Gas Refrigerante;27785930;DNI;Natural
 247;Rejilla Doble Deflexión;80472825;DNI;Natural
 31;Rejilla 2 vías;40496568;DNI;Natural
-317;"Circular Residencial ";20366392285;RUC;Jurídico
+317;Circular Residencial ;20366392285;RUC;Jurídico
 492;Axial Residencial;20081143811;RUC;Jurídico
 431;Ventilador Tubular;20370608419;RUC;Jurídico
 81;Repuestos;24532220;DNI;Natural
@@ -1952,7 +1953,7 @@
 44;Rejilla 4 vías;83581653;DNI;Natural
 338;Rejilla Doble Deflexión;20558166758;RUC;Jurídico
 308;Rejilla de Retorno;20469675998;RUC;Jurídico
-464;"Helicocentrífugo Comercial ";20261777707;RUC;Jurídico
+464;Helicocentrífugo Comercial ;20261777707;RUC;Jurídico
 81;Tubería de Cobre;24532220;DNI;Natural
 256;Manguera;23027948;DNI;Natural
 390;Ventilador Industrial;20122294716;RUC;Jurídico
@@ -1960,17 +1961,17 @@
 308;Repuestos;20469675998;RUC;Jurídico
 389;Rejilla de Retorno;20255660233;RUC;Jurídico
 225;Rejilla 2 vías;31317224;DNI;Natural
-444;"Cortina de Aire ";20137384066;RUC;Jurídico
-254;"Helicocentrífugo Comercial ";29962348;DNI;Natural
+444;Cortina de Aire ;20137384066;RUC;Jurídico
+254;Helicocentrífugo Comercial ;29962348;DNI;Natural
 421;Repuestos;20139369133;RUC;Jurídico
 436;Rejilla 4 vías;20394865120;RUC;Jurídico
 117;Rejilla 4 vías;17567520;DNI;Natural
 462;Filtro Deshumedecedor;20056752611;RUC;Jurídico
-496;"Helicocentrífugo Silent  ";20542289305;RUC;Jurídico
+496;Helicocentrífugo Silent  ;20542289305;RUC;Jurídico
 499;Visor Líquido;20959276550;RUC;Jurídico
 272;Aislamiento Térmico;50820592;DNI;Natural
 411;Ventilador Industrial;20174874262;RUC;Jurídico
-363;"Helicocentrífugo Comercial ";20147269508;RUC;Jurídico
+363;Helicocentrífugo Comercial ;20147269508;RUC;Jurídico
 86;Repuestos;69161940;DNI;Natural
 389;Ventilador Industrial;20255660233;RUC;Jurídico
 379;Cortina de Aire Industrial;20267043561;RUC;Jurídico
@@ -1985,7 +1986,7 @@
 11;Ventilador Industrial;84389342;DNI;Natural
 261;Bomba de Condensado;30426771;DNI;Natural
 56;Axial Residencial;44191656;DNI;Natural
-323;"Cortina de Aire ";20362124702;RUC;Jurídico
+323;Cortina de Aire ;20362124702;RUC;Jurídico
 87;Presostato;85114956;DNI;Natural
 434;Válvula de Servicio;20736143708;RUC;Jurídico
 87;Manguera;85114956;DNI;Natural
@@ -1996,7 +1997,7 @@
 394;Rejilla Multifuncional;20210827617;RUC;Jurídico
 298;Rejilla Circular;14321179;DNI;Natural
 256;Rejilla Circular;23027948;DNI;Natural
-205;"Cortina de Aire ";96770551;DNI;Natural
+205;Cortina de Aire ;96770551;DNI;Natural
 362;Rejilla Doble Deflexión;20828583231;RUC;Jurídico
 29;Filtro Deshumedecedor;41795693;DNI;Natural
 426;Llave de Paso;20885384856;RUC;Jurídico
@@ -2008,11 +2009,11 @@
 340;Aislamiento Térmico;20824752378;RUC;Jurídico
 378;Rejilla 4 vías;20091969037;RUC;Jurídico
 395;Tubería de Cobre;20739457532;RUC;Jurídico
-134;"Circular Residencial ";83519788;DNI;Natural
+134;Circular Residencial ;83519788;DNI;Natural
 154;Filtro Metálico;46362851;DNI;Natural
 339;Ventilador Industrial;20978526621;RUC;Jurídico
 52;Mangas;79370509;DNI;Natural
-239;"Helicocentrífugo Silent  ";87713081;DNI;Natural
+239;Helicocentrífugo Silent  ;87713081;DNI;Natural
 232;Rejilla 4 vías;29884380;DNI;Natural
 174;Ducto Rectangular;34527965;DNI;Natural
 394;Rejilla de Retorno;20210827617;RUC;Jurídico
@@ -2029,7 +2030,7 @@
 245;Ducto Flexible;90228711;DNI;Natural
 134;Rejilla de Retorno;83519788;DNI;Natural
 149;Rejilla 1 vía;33416990;DNI;Natural
-497;"Helicocentrífugo Comercial ";20113788142;RUC;Jurídico
+497;Helicocentrífugo Comercial ;20113788142;RUC;Jurídico
 60;Rejilla de Retorno;26162564;DNI;Natural
 158;Filtro de Poliester;93587805;DNI;Natural
 355;Rejilla 4 vías;20637022179;RUC;Jurídico
@@ -2072,12 +2073,12 @@
 469;Ventilador Centrífugo;20084262886;RUC;Jurídico
 221;Tubería de Cobre;69813522;DNI;Natural
 222;Ducto Circular;76863998;DNI;Natural
-120;"Helicocentrífugo Silent  ";43440875;DNI;Natural
+120;Helicocentrífugo Silent  ;43440875;DNI;Natural
 113;Filtro Metálico;42933485;DNI;Natural
 122;Llave de Paso;29691785;DNI;Natural
 153;Ducto Flexible;37474632;DNI;Natural
 195;Gas Refrigerante;34582754;DNI;Natural
-14;"Helicocentrífugo Silent  ";60625918;DNI;Natural
+14;Helicocentrífugo Silent  ;60625918;DNI;Natural
 305;Ventilador Industrial;20981428322;RUC;Jurídico
 304;Rejilla Multifuncional;20190026008;RUC;Jurídico
 120;Rejilla Multifuncional;43440875;DNI;Natural
@@ -2098,8 +2099,8 @@
 22;Repuestos;80024975;DNI;Natural
 293;Ducto Rectangular;58963707;DNI;Natural
 138;Cinta de Aluminio;27633544;DNI;Natural
-434;"Cortina de Aire ";20736143708;RUC;Jurídico
-204;"Circular Residencial ";78447755;DNI;Natural
+434;Cortina de Aire ;20736143708;RUC;Jurídico
+204;Circular Residencial ;78447755;DNI;Natural
 340;Rejilla 1 vía;20824752378;RUC;Jurídico
 267;Rejilla Doble Deflexión;92646700;DNI;Natural
 344;Filtro Hepa;20138423806;RUC;Jurídico
@@ -2161,14 +2162,14 @@
 155;Aislamiento Térmico;35826388;DNI;Natural
 182;Ducto Rectangular;41878223;DNI;Natural
 326;Presostato;20553338373;RUC;Jurídico
-324;"Cortina de Aire ";20042793047;RUC;Jurídico
-188;"Helicocentrífugo Silent  ";40639576;DNI;Natural
-5;"Circular Residencial ";10236637;DNI;Natural
+324;Cortina de Aire ;20042793047;RUC;Jurídico
+188;Helicocentrífugo Silent  ;40639576;DNI;Natural
+5;Circular Residencial ;10236637;DNI;Natural
 95;Rejilla Circular;76668529;DNI;Natural
 490;Presostato;20981911368;RUC;Jurídico
 176;Cortina de Aire Industrial;44033410;DNI;Natural
 293;Filtro Deshumedecedor;58963707;DNI;Natural
-390;"Cortina de Aire ";20122294716;RUC;Jurídico
+390;Cortina de Aire ;20122294716;RUC;Jurídico
 443;Repuestos;20359749202;RUC;Jurídico
 81;Rejilla Rotacional;24532220;DNI;Natural
 310;Ducto Circular;20421245413;RUC;Jurídico
@@ -2229,8 +2230,8 @@
 284;Tubería de Cobre;87423665;DNI;Natural
 373;Axial Residencial;20773274193;RUC;Jurídico
 82;Ducto Rectangular;56910649;DNI;Natural
-110;"Helicocentrífugo Silent  ";14667326;DNI;Natural
-43;"Helicocentrífugo Comercial ";22148550;DNI;Natural
+110;Helicocentrífugo Silent  ;14667326;DNI;Natural
+43;Helicocentrífugo Comercial ;22148550;DNI;Natural
 296;Presostato;63267341;DNI;Natural
 67;Mangas;43171911;DNI;Natural
 348;Rejilla Circular;20618321823;RUC;Jurídico
@@ -2254,17 +2255,17 @@
 190;Manguera;41616878;DNI;Natural
 444;Gas Refrigerante;20137384066;RUC;Jurídico
 459;Rejilla 1 vía;20538757529;RUC;Jurídico
-429;"Helicocentrífugo Comercial ";20067490354;RUC;Jurídico
+429;Helicocentrífugo Comercial ;20067490354;RUC;Jurídico
 35;Helicocentrífugo Residencial;68775546;DNI;Natural
 383;Visor Líquido;20840788663;RUC;Jurídico
 317;Repuestos;20366392285;RUC;Jurídico
-365;"Helicocentrífugo Comercial ";20882109726;RUC;Jurídico
+365;Helicocentrífugo Comercial ;20882109726;RUC;Jurídico
 26;Rejilla Doble Deflexión;60833131;DNI;Natural
 301;Bomba de Condensado;20585775210;RUC;Jurídico
-256;"Circular Residencial ";23027948;DNI;Natural
+256;Circular Residencial ;23027948;DNI;Natural
 369;Filtro Metálico;20278129282;RUC;Jurídico
 216;Cortina de Aire Industrial;84236271;DNI;Natural
-335;"Helicocentrífugo Comercial ";20087425209;RUC;Jurídico
+335;Helicocentrífugo Comercial ;20087425209;RUC;Jurídico
 451;Repuestos;20810019416;RUC;Jurídico
 431;Rejilla de Retorno;20370608419;RUC;Jurídico
 252;Rejilla Circular;42750834;DNI;Natural
@@ -2277,7 +2278,7 @@
 427;Cortina de Aire Industrial;20597971343;RUC;Jurídico
 356;Rejilla 2 vías;20536403325;RUC;Jurídico
 27;Axial Residencial;43851264;DNI;Natural
-59;"Cortina de Aire ";41682933;DNI;Natural
+59;Cortina de Aire ;41682933;DNI;Natural
 397;Cinta de Aluminio;20790347552;RUC;Jurídico
 448;Rejilla Rotacional;20814877695;RUC;Jurídico
 108;Mangas;40649144;DNI;Natural
@@ -2310,12 +2311,12 @@
 277;Visor Líquido;46833227;DNI;Natural
 76;Filtro de Poliester;85378850;DNI;Natural
 86;Filtro Hepa;69161940;DNI;Natural
-78;"Helicocentrífugo Silent  ";83431347;DNI;Natural
+78;Helicocentrífugo Silent  ;83431347;DNI;Natural
 433;Axial Residencial;20574651279;RUC;Jurídico
 417;Válvula de Servicio;20948051222;RUC;Jurídico
 255;Rejilla Multifuncional;45596269;DNI;Natural
 457;Filtro Hepa;20018155321;RUC;Jurídico
-307;"Helicocentrífugo Comercial ";20815012837;RUC;Jurídico
+307;Helicocentrífugo Comercial ;20815012837;RUC;Jurídico
 436;Rejilla Circular;20394865120;RUC;Jurídico
 17;Aislamiento Térmico;23814246;DNI;Natural
 100;Ventilador Tubular;41819332;DNI;Natural
@@ -2328,13 +2329,13 @@
 14;Mangas;60625918;DNI;Natural
 346;Cinta de Aluminio;20310193926;RUC;Jurídico
 440;Tubería de Cobre;20749006345;RUC;Jurídico
-239;"Cortina de Aire ";87713081;DNI;Natural
+239;Cortina de Aire ;87713081;DNI;Natural
 349;Rejilla Circular;20826989970;RUC;Jurídico
 210;Cortina de Aire Industrial;74751993;DNI;Natural
 295;Rejilla Lineal;82536780;DNI;Natural
 446;Rejilla 4 vías;20552892196;RUC;Jurídico
 332;Rejilla Circular;20099821963;RUC;Jurídico
-240;"Circular Residencial ";93511900;DNI;Natural
+240;Circular Residencial ;93511900;DNI;Natural
 358;Rejilla Multifuncional;20686795534;RUC;Jurídico
 398;Filtro Deshumedecedor;20594959515;RUC;Jurídico
 490;Ventilador Tubular;20981911368;RUC;Jurídico
@@ -2350,14 +2351,14 @@
 114;Manguera;85095668;DNI;Natural
 117;Ducto Flexible;17567520;DNI;Natural
 474;Repuestos;20219263870;RUC;Jurídico
-130;"Circular Residencial ";23116375;DNI;Natural
+130;Circular Residencial ;23116375;DNI;Natural
 425;Filtro Deshumedecedor;20552961079;RUC;Jurídico
 462;Llave de Paso;20056752611;RUC;Jurídico
 263;Filtro de Poliester;49114653;DNI;Natural
 279;Ventilador Industrial;32180071;DNI;Natural
-330;"Cortina de Aire ";20224680532;RUC;Jurídico
+330;Cortina de Aire ;20224680532;RUC;Jurídico
 65;Ducto Flexible;42154297;DNI;Natural
-32;"Cortina de Aire ";56010947;DNI;Natural
+32;Cortina de Aire ;56010947;DNI;Natural
 305;Ventilador Tubular;20981428322;RUC;Jurídico
 313;Rejilla 2 vías;20744113510;RUC;Jurídico
 222;Cortina de Aire Industrial;76863998;DNI;Natural
@@ -2369,14 +2370,14 @@
 26;Ventilador Tubular;60833131;DNI;Natural
 99;Rejilla 3 vías;12123795;DNI;Natural
 404;Visor Líquido;20480847588;RUC;Jurídico
-90;"Circular Residencial ";78424484;DNI;Natural
+90;Circular Residencial ;78424484;DNI;Natural
 229;Rejilla Lineal;43929606;DNI;Natural
 89;Ducto Flexible;65398052;DNI;Natural
 497;Rejilla 4 vías;20113788142;RUC;Jurídico
 311;Ducto Rectangular;20079447253;RUC;Jurídico
 470;Mangas;20265146631;RUC;Jurídico
 433;Manguera;20574651279;RUC;Jurídico
-132;"Helicocentrífugo Comercial ";32746615;DNI;Natural
+132;Helicocentrífugo Comercial ;32746615;DNI;Natural
 53;Cinta de Aluminio;19291679;DNI;Natural
 408;Manguera;20682194310;RUC;Jurídico
 3;Filtro Deshumedecedor;59523429;DNI;Natural
@@ -2388,7 +2389,7 @@
 200;Ventilador Centrífugo;33929015;DNI;Natural
 418;Manguera;20956333660;RUC;Jurídico
 272;Manguera;50820592;DNI;Natural
-187;"Circular Residencial ";79875576;DNI;Natural
+187;Circular Residencial ;79875576;DNI;Natural
 138;Rejilla 4 vías;27633544;DNI;Natural
 184;Ventilador Centrífugo;81381077;DNI;Natural
 363;Rejilla Circular;20147269508;RUC;Jurídico
@@ -2399,7 +2400,7 @@
 22;Cortina de Aire Industrial;80024975;DNI;Natural
 425;Ducto Circular;20552961079;RUC;Jurídico
 202;Repuestos;38281291;DNI;Natural
-452;"Helicocentrífugo Silent  ";20842782083;RUC;Jurídico
+452;Helicocentrífugo Silent  ;20842782083;RUC;Jurídico
 17;Ducto Flexible;23814246;DNI;Natural
 340;Ventilador Industrial;20824752378;RUC;Jurídico
 459;Axial Residencial;20538757529;RUC;Jurídico
@@ -2409,8 +2410,8 @@
 313;Cortina de Aire Industrial;20744113510;RUC;Jurídico
 477;Rejilla 3 vías;20666597533;RUC;Jurídico
 446;Helicocentrífugo Residencial;20552892196;RUC;Jurídico
-177;"Helicocentrífugo Silent  ";86929047;DNI;Natural
-184;"Circular Residencial ";81381077;DNI;Natural
+177;Helicocentrífugo Silent  ;86929047;DNI;Natural
+184;Circular Residencial ;81381077;DNI;Natural
 360;Ventilador Centrífugo;20023634763;RUC;Jurídico
 438;Presostato;20267074315;RUC;Jurídico
 343;Filtro Hepa;20096223149;RUC;Jurídico
@@ -2420,12 +2421,12 @@
 32;Ducto Circular;56010947;DNI;Natural
 254;Presostato;29962348;DNI;Natural
 499;Filtro Metálico;20959276550;RUC;Jurídico
-195;"Cortina de Aire ";34582754;DNI;Natural
-329;"Cortina de Aire ";20442391608;RUC;Jurídico
+195;Cortina de Aire ;34582754;DNI;Natural
+329;Cortina de Aire ;20442391608;RUC;Jurídico
 480;Rejilla Rotacional;20257511937;RUC;Jurídico
 243;Tubería de Cobre;33115993;DNI;Natural
 478;Válvula de Servicio;20011425290;RUC;Jurídico
-229;"Circular Residencial ";43929606;DNI;Natural
+229;Circular Residencial ;43929606;DNI;Natural
 278;Ventilador Tubular;13076752;DNI;Natural
 360;Visor Líquido;20023634763;RUC;Jurídico
 210;Repuestos;74751993;DNI;Natural
@@ -2435,7 +2436,7 @@
 171;Helicocentrífugo Residencial;17488253;DNI;Natural
 139;Filtro de Poliester;89067604;DNI;Natural
 463;Tubería de Cobre;20999194120;RUC;Jurídico
-341;"Helicocentrífugo Comercial ";20723842185;RUC;Jurídico
+341;Helicocentrífugo Comercial ;20723842185;RUC;Jurídico
 124;Ducto Circular;13993719;DNI;Natural
 406;Rejilla Circular;20929602951;RUC;Jurídico
 231;Rejilla 2 vías;33536207;DNI;Natural
@@ -2451,9 +2452,9 @@
 213;Rejilla Rotacional;66429311;DNI;Natural
 407;Presostato;20766644302;RUC;Jurídico
 388;Ducto Rectangular;20151662716;RUC;Jurídico
-294;"Circular Residencial ";81119508;DNI;Natural
+294;Circular Residencial ;81119508;DNI;Natural
 394;Tubería de Cobre;20210827617;RUC;Jurídico
-217;"Circular Residencial ";84872425;DNI;Natural
+217;Circular Residencial ;84872425;DNI;Natural
 220;Visor Líquido;45924894;DNI;Natural
 231;Filtro Hepa;33536207;DNI;Natural
 126;Ventilador Tubular;26069570;DNI;Natural
@@ -2500,19 +2501,19 @@
 45;Repuestos;61189485;DNI;Natural
 102;Manguera;14320905;DNI;Natural
 231;Filtro Metálico;33536207;DNI;Natural
-457;"Helicocentrífugo Silent  ";20018155321;RUC;Jurídico
+457;Helicocentrífugo Silent  ;20018155321;RUC;Jurídico
 408;Aislamiento Térmico;20682194310;RUC;Jurídico
 350;Visor Líquido;20063364523;RUC;Jurídico
-302;"Helicocentrífugo Comercial ";20340766225;RUC;Jurídico
+302;Helicocentrífugo Comercial ;20340766225;RUC;Jurídico
 475;Ventilador Industrial;20382714220;RUC;Jurídico
-133;"Helicocentrífugo Comercial ";70578236;DNI;Natural
+133;Helicocentrífugo Comercial ;70578236;DNI;Natural
 139;Rejilla Multifuncional;89067604;DNI;Natural
 164;Rejilla de Retorno;87547672;DNI;Natural
 220;Axial Residencial;45924894;DNI;Natural
 462;Rejilla Lineal;20056752611;RUC;Jurídico
 164;Helicocentrífugo Residencial;87547672;DNI;Natural
 275;Filtro Deshumedecedor;36451724;DNI;Natural
-4;"Helicocentrífugo Silent  ";87834304;DNI;Natural
+4;Helicocentrífugo Silent  ;87834304;DNI;Natural
 254;Rejilla Circular;29962348;DNI;Natural
 397;Cortina de Aire Industrial;20790347552;RUC;Jurídico
 44;Rejilla 3 vías;83581653;DNI;Natural
